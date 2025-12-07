@@ -26,7 +26,10 @@ class EquationBlock:
 
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 @dataclass
@@ -39,6 +42,9 @@ class LimitCheck:
 
 
 <<<<<<< ours
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 =======
 >>>>>>> theirs
@@ -200,7 +206,10 @@ CRITICAL_BLOCKS: List[EquationBlock] = [
 
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 LIMIT_CHECKS: List[LimitCheck] = [
@@ -239,6 +248,9 @@ LIMIT_CHECKS: List[LimitCheck] = [
 
 
 <<<<<<< ours
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 =======
 >>>>>>> theirs
@@ -277,7 +289,10 @@ def build_report() -> str:
 
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
     lines.append("## Limiting / Sanity Checks")
@@ -290,6 +305,9 @@ def build_report() -> str:
         lines.append("")
 
 <<<<<<< ours
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 =======
 >>>>>>> theirs

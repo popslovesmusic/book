@@ -54,12 +54,35 @@ $$ \partial_t^2 \phi - c_{eff}^2(x,t) \nabla^2 \phi + V'(\phi) = J_{SATP} $$
 
 with $|\nabla \phi| < G_{max}$ and $|\partial_t \phi| < T_{max}$ ensuring finite propagation speeds and excluding superluminal worldlines or symmetry restoration.
 
+<<<<<<< ours
+=======
+Assumptions for standard energy methods:
+
+* $c_{eff}(x,t)$ is bounded and Lipschitz with $0 < c_{min} \leq c_{eff}(x,t) \leq c_{max}$.
+* $V(\phi)$ grows at most polynomially so that $V'(\phi)$ remains locally Lipschitz and avoids runaway forcing.
+
+An energy functional
+
+$$ E(t) = \int \left( \tfrac{1}{2} |\partial_t \phi|^2 + \tfrac{1}{2} c_{eff}^2(x,t) |\nabla \phi|^2 + V(\phi) \right) dV $$
+
+admits the bound (heuristically)
+
+$$ \frac{dE}{dt} \lesssim \int |\partial_t \phi| \cdot |J_{SATP}| \, dV + \int |\partial_t c_{eff}| \cdot c_{eff} |\nabla \phi|^2 \, dV, $$
+
+so controlled sources and smooth $c_{eff}$ keep the continuous energy finite while reinforcing the gradient and time-derivative caps.
+
+>>>>>>> theirs
 ### CFL-Type Stability Bound (Falsifiable)
 
 $$ \Delta t \leq \frac{\Delta x}{\max(c_{eff})} $$
 
 Violation leads to numerical blow-up and unphysical “translation,” rendering simulations or mission profiles invalid; adherence is required for any experimental or computational test.
 
+<<<<<<< ours
+=======
+For a second-order centered finite-difference discretization, the CFL bound ensures the discrete scheme inherits the continuous hyperbolic finite-propagation behavior encoded in $E(t)$ and the gradient/time bounds.
+
+>>>>>>> theirs
 ### Energy / Cost Constraint
 
 $$ E_{exotic} \geq \int |\nabla \phi|^2 dV $$

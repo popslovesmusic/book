@@ -2,7 +2,11 @@
 
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 Generated: 2025-12-07T16:26:54.171295Z
+=======
+Generated: 2025-12-07T16:35:43.791942Z
+>>>>>>> theirs
 =======
 Generated: 2025-12-07T16:35:43.791942Z
 >>>>>>> theirs
@@ -99,7 +103,10 @@ Generated: 2025-12-07T16:35:43.791942Z
 - [OK] Both sides are time-derivatives of entropy-like scalars; proportionality preserves scalar dimensions and sign inversion for decay mapping.
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 
@@ -125,6 +132,9 @@ Generated: 2025-12-07T16:35:43.791942Z
   - Result: Rising entropy corresponds to decreasing MSC cohesion rate
   - Interpretation: Maintains the text’s mapping: entropy growth tracks cohesion decay, aligning memory persistence with MSC resistance.
 <<<<<<< ours
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 =======
 >>>>>>> theirs

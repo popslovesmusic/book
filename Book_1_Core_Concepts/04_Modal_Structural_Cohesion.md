@@ -126,6 +126,7 @@ $$ \frac{\partial S_{MSC}}{\partial t} = -\alpha \cdot |DFVM| + \beta \cdot \tex
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 Interpretation:
@@ -141,14 +142,19 @@ Interpretation:
 
 >>>>>>> theirs
 =======
+=======
+>>>>>>> theirs
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 
 Interpretation:
 
+<<<<<<< ours
 >>>>>>> theirs
 =======
 
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 * **DFVM perturbs MSC:** The magnitude of DFVM turbulence erodes $S_{MSC}$ at rate $\alpha$, representing destabilization without invoking external observers.
 * **MSC damps DFVM:** Constraint repair mediated by $\beta$ channels DFVM dynamics, with $\kappa(S_{MSC})$ encoding how supercritical cohesion conditions the next-step flow without restoring symmetry or reversing time.
@@ -302,11 +308,15 @@ Any detected randomness leakage triggers an immediate ontological hard stop: sto
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 =======
 >>>>>>> theirs
 =======
 >>>>>>> theirs
+
+>>>>>>> theirs
+=======
 
 >>>>>>> theirs
 

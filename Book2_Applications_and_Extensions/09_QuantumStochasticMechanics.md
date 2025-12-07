@@ -43,6 +43,7 @@ where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. T
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 
 >>>>>>> theirs
@@ -50,6 +51,27 @@ where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. T
 
 >>>>>>> theirs
 =======
+
+>>>>>>> theirs
+=======
+
+### Formal Stochastic DFVM Evolution
+
+To align with standard stochastic process formalisms, the DFVM update can be expressed on a probability space $(\Omega, \mathcal{F}, \mathbb{P})$ with either a discrete-time map or a continuous-time stochastic partial differential equation (SPDE):
+
+* **Discrete:**
+
+  $$DFVM_{n+1}(x) = F\big(DFVM_n(x), MSC_n\big) + \xi_n(x)$$
+
+  where $(\xi_n)_{n \in \mathbb{N}}$ is an i.i.d. sequence of spatially bounded, zero-mean perturbations with $\mathbb{E}[\xi_n(x)] = 0$ and $\sup_n \mathbb{E}[\lVert \xi_n \rVert^2] < \infty$.
+
+* **Continuous (Itô form):**
+
+  $$\mathrm{d}DFVM(x,t) = G\big(DFVM(x,t), MSC(t)\big)\,\mathrm{d}t + \sigma\big(DFVM(x,t), MSC(t)\big)\,\mathrm{d}W_t(x)$$
+
+  where $W_t(x)$ is a spatial Wiener process (white in time, with bounded spatial covariance), $\mathbb{E}[\mathrm{d}W_t(x)] = 0$, and $\sigma$ is bounded so that $\mathbb{E}[\lVert \sigma\,\mathrm{d}W_t \rVert^2]$ stays finite. The drift $G$ enforces the deterministic DFVM flow, while the diffusion term preserves zero-mean, non-agentic stochasticity.
+
+In both cases $\xi$ (or $\mathrm{d}W_t$) remains zero-mean, bounded-variance, and irreversible, and it cannot directly modify MSC; MSC responds only through the established DFVM↔MSC coupling law. No stochastic forcing is permitted in MSP, MBC, IGSOA, or SATP, and any detected leakage triggers hard-stop containment.
 
 >>>>>>> theirs
 ### What Randomness Can and Cannot Do
