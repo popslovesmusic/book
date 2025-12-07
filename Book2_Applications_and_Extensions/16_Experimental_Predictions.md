@@ -46,6 +46,34 @@ Computational simulations verify the entropy-coherence duality and outline a con
 
 Quantum coherence is the microscopic expression of a universal hierarchy of causal memory. Measurement re-encodes information in the environment's fractional memory kernel. A quantum thermodynamic trinity of coherence, entropy, and control is proposed, governed by the conservation of total causal information. Fractional quantum control is the microscopic limit of cosmic self-organization.
 
+## **15.7 SATP Well-Posedness and Stability Bounds**
+
+The SATP conformal–scale field equations constitute a quasi-linear hyperbolic PDE system that is locally well-posed under bounded gradient and bounded curvature conditions:
+
+$$ \partial_t^2 \phi - c_{eff}^2(x,t) \nabla^2 \phi + V'(\phi) = J_{SATP} $$
+
+with $|\nabla \phi| < G_{max}$ and $|\partial_t \phi| < T_{max}$ ensuring finite propagation speeds and excluding superluminal worldlines or symmetry restoration.
+
+### CFL-Type Stability Bound (Falsifiable)
+
+$$ \Delta t \leq \frac{\Delta x}{\max(c_{eff})} $$
+
+Violation leads to numerical blow-up and unphysical “translation,” rendering simulations or mission profiles invalid; adherence is required for any experimental or computational test.
+
+### Energy / Cost Constraint
+
+$$ E_{exotic} \geq \int |\nabla \phi|^2 dV $$
+
+Gradient steepening increases exotic cost, forbidding thin-wall shortcuts and favoring smooth profiles for feasible transport.
+
+### Failure Modes
+
+| Failure Mode | Trigger | Result |
+| --- | --- | --- |
+| CFL violation | $\Delta t$ too large | Numerical explosion |
+| Gradient blowup | $\nabla \phi$ unbounded | Unphysical translation |
+| Cost divergence | Thin-wall forcing | Prohibitive exotic energy |
+
 ---
 
 ## **Appendices**

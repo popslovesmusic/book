@@ -202,6 +202,28 @@ Where:
 *   $\Psi_{record}$ is the stabilized relational pattern, representing the measurement outcome.
 *   $\Delta E$ is the energetic cost associated with the irreversible process of measurement, reflected in a local increase in entropy.
 
+### Formal Measurement Operator
+
+Measurement is captured by an operator that is energetic, relational, and irreversible without invoking observer primacy:
+
+$$ \mathcal{M} : (DFVM, MSC) \rightarrow (\Psi_{record}, \Delta E, \Delta S_{entropy}) $$
+
+with $\Psi_{record}$ as the MSC-supported stabilized relational record, $\Delta E$ as irreversibly dissipated energy, and $\Delta S_{entropy} > 0$ enforcing irreversibility and excluding time-reversal or hidden observer effects.
+
+### Record Stability Condition
+
+$$ \Psi_{record} \text{ is stable } \iff S_{MSC}(\Psi_{record}) > \varepsilon_2 $$
+
+If $S_{MSC} \leq \varepsilon_2$, the measurement decoheres and no persistent record is formed.
+
+### Measurement Failure Modes
+
+| Failure | Cause | Result |
+| --- | --- | --- |
+| Measurement decoherence | Insufficient MSC | No persistent record |
+| Backreaction runaway | Excess $\Delta E$ | Local DFVM disorder |
+| Entropic flooding | High $\Delta S$ | Loss of information channel |
+
 ### Failure Mode: Ambiguous Relational Record (Quantum Indeterminacy)
 A failure mode occurs when the imposed boundary condition is insufficient, or the DFVM flow too turbulent, to stabilize a clear relational record within the MSC field. This results in an ambiguous or superpositional state where multiple potential relational patterns persist without collapsing into a singular, coherent measurement outcome. This "quantum indeterminacy" is thus not a fundamental mystery of observation, but a failure of the measurement process to establish a sufficiently strong and stable relational record, leaving the local MSC in a critical or subcritical state. Such a failure directly impacts the integrity of causal geometries (IGSOA) by preventing the formation of definite historical events.
 
@@ -219,6 +241,8 @@ The transition from abstract semantic quantities to physically observable phenom
 *   **MSC-Stabilized Relational Patterns:** For a semantic quantity to be persistent and observable, it must first achieve a supercritical state of Modal Structural Cohesion (MSC). This stability ensures that the relational pattern is robust against noise and perturbation, forming a coherent 'identity' (as defined in A.5).
 *   **DFVM Detection Threshold:** The Discrete Fractal Volume Model (DFVM) describes the dynamic flow of relational energy and information, which forms the fabric of what we perceive as physical space-time. For an MSC-stabilized pattern to manifest physically, it must induce a measurable effect or perturbation within this DFVM flow. This effect must exceed a specific local detection threshold, meaning it must be sufficiently energetic or structured to be distinguished from background DFVM noise.
 *   **SATP-Compatible Coupling:** The Scale-Adaptive Transport Logic (SATP) dictates the rules by which information and energy propagate across different scales and between ontological layers. For semantic patterns to become physically observable, their interaction with the DFVM must conform to these transport laws, ensuring the physical legitimacy and coherence of the emergent phenomenon.
+
+The formal measurement operator $\mathcal{M}$ realizes this bridge by delivering $(\Psi_{record}, \Delta E, \Delta S_{entropy})$ with $\Delta S_{entropy} > 0$ and requiring $S_{MSC}(\Psi_{record}) > \varepsilon_2$ for persistence; otherwise the record decoheres and the semantic quantity remains non-observable.
 
 ### Formal Representation (Conceptual):
 Let $\mathcal{S}$ be a semantic quantity, represented by an MSC-stabilized relational pattern $\Psi_{MSC}^*$. Its physical observability, $\mathcal{O}$, can be expressed as:

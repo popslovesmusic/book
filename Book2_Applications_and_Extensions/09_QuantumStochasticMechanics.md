@@ -31,14 +31,39 @@ The long-range correlations inherent in **fractional gravity** (Paper 07) modify
 
 The cosmic web is a **macroscopic causal reticulum**—a vast nervous system of the vacuum. Each galaxy is a neuron, each cluster a ganglion. The LSS is a fossilized thought, slowly crystalizing from the quantum foam into ordered form. This metaphorical language highlights emergent properties but does not attribute intrinsic consciousness, intentionality, or independent agency to the substrate or network. Any such 'agency' is strictly emergent from closed relational feedback loops within the causal dynamics. These emergent structures, including vacuum veins and cosmic web components, are understood as 'identity instances' that, despite their apparent persistence, are finite and subject to dissolvability, their existence being entirely dependent on ongoing causal dynamics and MSC cohesion.
 
-## **9.7 Observational Predictions**
+## **9.7 Canonical Ontological Placement of Randomness**
+
+Randomness is canonically localized at the DFVM layer as stochastic modulation of directed flow, not at the substrate (MSP), not at the cohesion layer (MSC), and not at the agency layer (IGSOA). This placement preserves the NOT axiom, maintains irreversibility, and keeps MSC as the stabilizer of identity rather than as a generator of stochasticity or symmetry restoration.
+
+Formally, DFVM flow evolves as
+
+$$DFVM_{t+1} = F(DFVM_t, MSC) + \xi(x,t)$$
+
+where $\xi(x,t)$ is a zero-mean, bounded stochastic perturbation. The perturbation modulates directed flow but cannot directly alter MSC without mediation through DFVM.
+
+### What Randomness Can and Cannot Do
+
+| Randomness Can | Randomness Cannot |
+| --- | --- |
+| Seed bifurcations | Create identity alone |
+| Trigger regime transitions | Restore symmetry |
+| Modulate DFVM turbulence | Violate NOT axiom |
+| Inject irreversibility | Act as agent or chooser |
+
+### Failure Mode: Stochastic Overdrive
+
+**Trigger:** $|\xi| \gg$ MSC damping capacity.
+
+**Result:** Forced MSC decay, identity collapse, DFVM turbulence saturation, and no information persistence.
+
+## **9.8 Observational Predictions**
 
 1.  A scale-dependent fractal dimension for the LSS.
 2.  Fractional suppression of the Baryon Acoustic Oscillation (BAO) scale.
 3.  Statistical alignment of galaxy spin vectors with large-scale spiral patterns.
 4.  Deviations in gravitational lensing due to fractional gravity.
 
-## **9.8 Conclusion**
+## **9.9 Conclusion**
 
 Paper 09 presents a unified framework for the origin of cosmic structure, rooting it in the quantum vacuum’s causal memory. The concept of **vacuum veins** provides a concrete mechanism for primordial density perturbations. The LSS Lattice is the universe’s memory written in star-dust and voids.
 
