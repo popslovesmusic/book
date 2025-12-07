@@ -1,7 +1,11 @@
 # Equation Structural Audit
 
 <<<<<<< ours
+<<<<<<< ours
 Generated: 2025-12-07T16:26:54.171295Z
+=======
+Generated: 2025-12-07T16:35:43.791942Z
+>>>>>>> theirs
 =======
 Generated: 2025-12-07T16:35:43.791942Z
 >>>>>>> theirs
@@ -94,7 +98,10 @@ Generated: 2025-12-07T16:35:43.791942Z
 ### Structural Checks
 - [OK] Both sides are time-derivatives of entropy-like scalars; proportionality preserves scalar dimensions and sign inversion for decay mapping.
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 
 ## Limiting / Sanity Checks
 
@@ -117,4 +124,7 @@ Generated: 2025-12-07T16:35:43.791942Z
   - Assumption: dS_entropy/dt ∝ − dS_MSC/dt
   - Result: Rising entropy corresponds to decreasing MSC cohesion rate
   - Interpretation: Maintains the text’s mapping: entropy growth tracks cohesion decay, aligning memory persistence with MSC resistance.
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs

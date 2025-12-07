@@ -11,6 +11,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Rechecked CFL gating and gradient bounds after failure registry update to ensure transport compliance remains locked.
 >>>>>>> theirs
@@ -34,6 +35,8 @@
 - Revalidated master lock: stochastic forcing remains banned at SATP, thin-wall attempts are tagged as cost divergence, and any CFL breach or gradient runaway must be escalated to the Global Compliance Re-Audit with mission invalidation.
 >>>>>>> theirs
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 - Rechecked CFL gating and gradient bounds after failure registry update to ensure transport compliance remains locked.
@@ -42,9 +45,14 @@
 - Ran cross-layer consistency audit to reconfirm CFL gating, bounded gradients, and the prohibition on stochastic SATP forcing; logged findings in ontological_consistency_report.md.
 - Completed equation-level structural audit confirming the SATP hyperbolic PDE, CFL inequality, gradient/time bounds, and energy budget all compare like quantities and enforce the locked transport constraints.
 <<<<<<< ours
+<<<<<<< ours
 >>>>>>> theirs
 =======
 - Performed limiting sanity check: with $V'(\phi)=0$ and $J_{SATP}=0$, SATP reduces to a variable-coefficient wave equation that remains hyperbolic under the existing CFL and gradient bounds.
+>>>>>>> theirs
+=======
+- Performed limiting sanity check: with $V'(\phi)=0$ and $J_{SATP}=0$, SATP reduces to a variable-coefficient wave equation that remains hyperbolic under the existing CFL and gradient bounds.
+- Added rigour-status entries for SATP PDE, CFL, and energy-cost claims to reports/Math_Rigour_Status.json5 to surface which constraints are asserted versus sketched without relaxing enforcement.
 >>>>>>> theirs
 
 ## RMF Compliance

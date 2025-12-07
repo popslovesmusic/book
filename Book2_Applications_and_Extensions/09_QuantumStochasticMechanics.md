@@ -42,6 +42,10 @@ $$DFVM_{t+1} = F(DFVM_t, MSC) + \xi(x,t)$$
 where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. The perturbation modulates directed flow irreversibly but cannot directly alter MSC without mediation through DFVM. Any appearance of $\xi$ outside DFVM constitutes ontological leakage, triggers an immediate hard-stop audit logged in the Randomness Placement Log, and is rejected until contained.
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
+=======
+
+>>>>>>> theirs
 =======
 
 >>>>>>> theirs

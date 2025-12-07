@@ -25,7 +25,10 @@ class EquationBlock:
 
 
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 @dataclass
 class LimitCheck:
     id: str
@@ -35,6 +38,9 @@ class LimitCheck:
     interpretation: str
 
 
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 CRITICAL_BLOCKS: List[EquationBlock] = [
     EquationBlock(
@@ -193,7 +199,10 @@ CRITICAL_BLOCKS: List[EquationBlock] = [
 
 
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 LIMIT_CHECKS: List[LimitCheck] = [
     LimitCheck(
         id="SATP-WAVE",
@@ -229,6 +238,9 @@ LIMIT_CHECKS: List[LimitCheck] = [
 ]
 
 
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 def load_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
@@ -264,7 +276,10 @@ def build_report() -> str:
         lines.append("")
 
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
     lines.append("## Limiting / Sanity Checks")
     lines.append("")
     for check in LIMIT_CHECKS:
@@ -274,6 +289,9 @@ def build_report() -> str:
         lines.append(f"  - Interpretation: {check.interpretation}")
         lines.append("")
 
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
     return "\n".join(lines)
 

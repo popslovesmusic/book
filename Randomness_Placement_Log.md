@@ -11,6 +11,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
 >>>>>>> theirs
@@ -34,6 +35,8 @@
 - Recorded master enforcement directive: $\xi$ must remain zero-mean, bounded, non-agentic, and irreversible; appearance in MSP, MSC, MBC, IGSOA, or SATP triggers immediate processing halt plus entries in this log and the Global Compliance Re-Audit.
 >>>>>>> theirs
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 - Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
@@ -42,9 +45,14 @@
 - Ran layer-wide consistency scan and generated ontological_consistency_report.md, flagging any $\xi$ references outside explicit DFVM mediation for manual review while confirming no active randomness leaks.
 - Executed equation-level structural audit confirming the DFVM stochastic update maintains bounded, DFVM-only $\xi$ perturbations with type-matched field domains and no leakage.
 <<<<<<< ours
+<<<<<<< ours
 >>>>>>> theirs
 =======
 - Performed limiting sanity checks (MSC cohesion extremes, SATP wave-limit reduction, entropy–cohesion link) and confirmed no scenarios permit relocating $\xi$ outside DFVM or bypassing MSC mediation.
+>>>>>>> theirs
+=======
+- Performed limiting sanity checks (MSC cohesion extremes, SATP wave-limit reduction, entropy–cohesion link) and confirmed no scenarios permit relocating $\xi$ outside DFVM or bypassing MSC mediation.
+- Tagged DFVM randomness claims in reports/Math_Rigour_Status.json5 so assertion versus proof gaps are cataloged without relaxing the DFVM-only placement rule.
 >>>>>>> theirs
 
 ## Compliance Notes

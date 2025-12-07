@@ -41,6 +41,10 @@ ehthumbs.db
 reports/
 !reports/
 !reports/symbol_object_index.json5
+<<<<<<< ours
+=======
+!reports/Math_Rigour_Status.json5
+>>>>>>> theirs
 
 # Specific to this project - if any
 # My custom agent logs
