@@ -126,9 +126,15 @@ $$ \frac{\partial S_{MSC}}{\partial t} = -\alpha \cdot |DFVM| + \beta \cdot \tex
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 <<<<<<< ours
+<<<<<<< ours
 
 Interpretation:
 
+=======
+
+Interpretation:
+
+>>>>>>> theirs
 =======
 
 Interpretation:
@@ -230,6 +236,11 @@ If $S_{MSC} \leq \varepsilon_2$, the measurement decoheres and no persistent rec
 | Backreaction runaway | Excess $\Delta E$ | Local DFVM disorder |
 | Entropic flooding | High $\Delta S$ | Loss of information channel |
 
+<<<<<<< ours
+=======
+Every execution of $\mathcal{M}$ must satisfy $\Delta S_{entropy} > 0$; any attempt to null or reverse entropy production is classified as a prohibited symmetry-restoration request and is halted. Detected failures (decoherence, backreaction runaway, or entropic flooding) are logged for auditability and to enforce the DFVM-only placement of stochasticity.
+
+>>>>>>> theirs
 ### Failure Mode: Ambiguous Relational Record (Quantum Indeterminacy)
 A failure mode occurs when the imposed boundary condition is insufficient, or the DFVM flow too turbulent, to stabilize a clear relational record within the MSC field. This results in an ambiguous or superpositional state where multiple potential relational patterns persist without collapsing into a singular, coherent measurement outcome. This "quantum indeterminacy" is thus not a fundamental mystery of observation, but a failure of the measurement process to establish a sufficiently strong and stable relational record, leaving the local MSC in a critical or subcritical state. Such a failure directly impacts the integrity of causal geometries (IGSOA) by preventing the formation of definite historical events.
 
@@ -274,6 +285,7 @@ This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy)
 
 ## F.1 Failure Modes Across the Stack
 <<<<<<< ours
+<<<<<<< ours
 
 | Failure Mode | Trigger | Layer | Result |
 | --- | --- | --- | --- |
@@ -281,6 +293,8 @@ This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy)
 | DFVM runaway | Inadequate MSC damping | Dynamical | Chaotic flow |
 | SATP wall failure | Gradient blow-up | Physical | Translation loss |
 
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 

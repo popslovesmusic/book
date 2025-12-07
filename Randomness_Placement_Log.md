@@ -5,8 +5,13 @@
 - Added capability/constraint table and defined Stochastic Overdrive failure mode tied to MSC damping capacity.
 - Updated Unification & Synthesis summary to reflect canonical randomness placement and preserved MSC identity stabilization.
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
+>>>>>>> theirs
+=======
+- Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
+- Re-certified DFVM-only placement after adding explicit leakage hard-stop language in QSM and banning stochastic forcing from SATP formulations.
 >>>>>>> theirs
 
 ## Compliance Notes

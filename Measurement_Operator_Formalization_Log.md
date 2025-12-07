@@ -5,8 +5,13 @@
 - Added record stability condition $S_{MSC}(\Psi_{record}) > \varepsilon_2$ and failure modes table covering decoherence, backreaction, and entropic flooding.
 - Updated the Semantic → Physical Bridge summary to tie observability to irreversible records and MSC thresholds.
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Reaffirmed irreversibility and MSC-gated record persistence while adding ontological leakage monitoring to the cross-stack failure registry.
+>>>>>>> theirs
+=======
+- Reaffirmed irreversibility and MSC-gated record persistence while adding ontological leakage monitoring to the cross-stack failure registry.
+- Logged enforcement that each $\mathcal{M}$ invocation must maintain $\Delta S_{entropy} > 0$ and that detected failures are audit-tracked to reinforce DFVM-only stochasticity.
 >>>>>>> theirs
 
 ## Compliance Notes
