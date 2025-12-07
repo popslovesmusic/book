@@ -39,7 +39,11 @@ Formally, DFVM flow evolves as
 
 $$DFVM_{t+1} = F(DFVM_t, MSC) + \xi(x,t)$$
 
+<<<<<<< ours
 where $\xi(x,t)$ is a zero-mean, bounded stochastic perturbation. The perturbation modulates directed flow but cannot directly alter MSC without mediation through DFVM.
+=======
+where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. The perturbation modulates directed flow irreversibly but cannot directly alter MSC without mediation through DFVM.
+>>>>>>> theirs
 
 ### What Randomness Can and Cannot Do
 

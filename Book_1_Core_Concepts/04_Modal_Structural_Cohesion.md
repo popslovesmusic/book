@@ -125,9 +125,15 @@ The coupling respects the relational ontology and prohibits any symmetry-restora
 $$ \frac{\partial S_{MSC}}{\partial t} = -\alpha \cdot |DFVM| + \beta \cdot \text{constraint\_repair} $$
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
+<<<<<<< ours
 
 Interpretation:
 
+=======
+
+Interpretation:
+
+>>>>>>> theirs
 * **DFVM perturbs MSC:** The magnitude of DFVM turbulence erodes $S_{MSC}$ at rate $\alpha$, representing destabilization without invoking external observers.
 * **MSC damps DFVM:** Constraint repair mediated by $\beta$ channels DFVM dynamics, with $\kappa(S_{MSC})$ encoding how supercritical cohesion conditions the next-step flow without restoring symmetry or reversing time.
 * **Collapse pressure:** If $\alpha |DFVM|$ dominates, $S_{MSC}$ trends toward the collapse condition ($S_{MSC} \to 0$), signaling identity dissolution.
@@ -267,6 +273,7 @@ A failure mode occurs when a semantic quantity, despite potentially existing as 
 This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy) as the source of raw relations, MSC (Modal Structural Cohesion) for pattern stabilization, DFVM (Discrete Fractal Volume Model) as the medium of physical manifestation and perturbation, and SATP (Scale-Adaptive Transport Logic) for governing the rules of interaction and propagation. The result directly informs IGSOA (Integrated General Ontological Structure and Agency) by defining what can constitute a physically real causal structure.
 
 ## F.1 Failure Modes Across the Stack
+<<<<<<< ours
 
 | Failure Mode | Trigger | Layer | Result |
 | --- | --- | --- | --- |
@@ -274,7 +281,16 @@ This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy)
 | DFVM runaway | Inadequate MSC damping | Dynamical | Chaotic flow |
 | SATP wall failure | Gradient blow-up | Physical | Translation loss |
 
+=======
+>>>>>>> theirs
 
+| Failure Mode | Trigger | Layer | Result |
+| --- | --- | --- | --- |
+| MSC decay | Excess DFVM turbulence | Structural | Identity dissolution |
+| DFVM runaway | Inadequate MSC damping | Dynamical | Chaotic flow |
+| SATP wall failure | Gradient blow-up | Physical | Translation loss |
+| Randomness leakage | $\xi$ injected outside DFVM | Ontological | Hard stop; compliance report and containment |
 
+Any detected randomness leakage triggers an immediate ontological hard stop: stochastic terms are quarantined to DFVM, the interface is re-audited for irreversibility and non-essentialist identity, and a compliance report is filed before operations resume.
 
 
