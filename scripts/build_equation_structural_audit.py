@@ -24,6 +24,18 @@ class EquationBlock:
     structural_checks: List[str] = field(default_factory=list)
 
 
+<<<<<<< ours
+=======
+@dataclass
+class LimitCheck:
+    id: str
+    title: str
+    assumption: str
+    result: str
+    interpretation: str
+
+
+>>>>>>> theirs
 CRITICAL_BLOCKS: List[EquationBlock] = [
     EquationBlock(
         id="MSC-FUNC",
@@ -180,6 +192,44 @@ CRITICAL_BLOCKS: List[EquationBlock] = [
 ]
 
 
+<<<<<<< ours
+=======
+LIMIT_CHECKS: List[LimitCheck] = [
+    LimitCheck(
+        id="SATP-WAVE",
+        title="SATP PDE wave-limit reduction",
+        assumption="Set V'(φ) = 0 and J_SATP = 0",
+        result=r"∂_t^2 φ − c_eff^2(x,t) ∇^2 φ = 0 (variable-coefficient wave equation)",
+        interpretation=(
+            "Hyperbolic class preserved with finite propagation speed; CFL bound and bounded gradient/time rates remain the"
+            " governing stability gates."
+        ),
+    ),
+    LimitCheck(
+        id="MSC-RHO-POS",
+        title="MSC cohesion with zero perturbation stress",
+        assumption="σ_pert = 0",
+        result=r"S_MSC[Ψ] = ∫ ρ_rel(Ψ) dV",
+        interpretation="Cohesion increases with redundant relational binding and constraint closure, reinforcing identity stability.",
+    ),
+    LimitCheck(
+        id="MSC-RHO-ZERO",
+        title="MSC decay with absent relational density",
+        assumption="ρ_rel = 0",
+        result=r"S_MSC[Ψ] = −∫ σ_pert(Ψ) dV → decay",
+        interpretation="Perturbation stress dominates, driving cohesion toward collapse and matching the identity dissolution narrative.",
+    ),
+    LimitCheck(
+        id="ENTROPY-LINK",
+        title="Entropy increase vs. cohesion decay",
+        assumption=r"dS_entropy/dt ∝ − dS_MSC/dt",
+        result="Rising entropy corresponds to decreasing MSC cohesion rate",
+        interpretation="Maintains the text’s mapping: entropy growth tracks cohesion decay, aligning memory persistence with MSC resistance.",
+    ),
+]
+
+
+>>>>>>> theirs
 def load_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
 
@@ -213,6 +263,18 @@ def build_report() -> str:
             lines.append(f"- [OK] {check}")
         lines.append("")
 
+<<<<<<< ours
+=======
+    lines.append("## Limiting / Sanity Checks")
+    lines.append("")
+    for check in LIMIT_CHECKS:
+        lines.append(f"- **{check.title} ({check.id})**")
+        lines.append(f"  - Assumption: {check.assumption}")
+        lines.append(f"  - Result: {check.result}")
+        lines.append(f"  - Interpretation: {check.interpretation}")
+        lines.append("")
+
+>>>>>>> theirs
     return "\n".join(lines)
 
 

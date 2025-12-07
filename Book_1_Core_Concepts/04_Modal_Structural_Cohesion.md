@@ -124,10 +124,18 @@ The coupling respects the relational ontology and prohibits any symmetry-restora
 
 $$ \frac{\partial S_{MSC}}{\partial t} = -\alpha \cdot |DFVM| + \beta \cdot \text{constraint\_repair} $$
 <<<<<<< ours
+<<<<<<< ours
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 Interpretation:
 
+=======
+
+$$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
+
+Interpretation:
+
+>>>>>>> theirs
 =======
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
@@ -285,7 +293,10 @@ This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy)
 
 Any detected randomness leakage triggers an immediate ontological hard stop: stochastic terms are quarantined to DFVM, the interface is re-audited for irreversibility and non-essentialist identity, and a compliance report is filed before operations resume.
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 
 >>>>>>> theirs
 

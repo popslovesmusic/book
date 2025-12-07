@@ -1,6 +1,10 @@
 # Equation Structural Audit
 
+<<<<<<< ours
 Generated: 2025-12-07T16:26:54.171295Z
+=======
+Generated: 2025-12-07T16:35:43.791942Z
+>>>>>>> theirs
 
 <!-- MATH-CRITICAL: MSC-FUNC -->
 ## MSC Functional and Collapse (MSC-FUNC)
@@ -89,3 +93,28 @@ Generated: 2025-12-07T16:26:54.171295Z
 
 ### Structural Checks
 - [OK] Both sides are time-derivatives of entropy-like scalars; proportionality preserves scalar dimensions and sign inversion for decay mapping.
+<<<<<<< ours
+=======
+
+## Limiting / Sanity Checks
+
+- **SATP PDE wave-limit reduction (SATP-WAVE)**
+  - Assumption: Set V'(φ) = 0 and J_SATP = 0
+  - Result: ∂_t^2 φ − c_eff^2(x,t) ∇^2 φ = 0 (variable-coefficient wave equation)
+  - Interpretation: Hyperbolic class preserved with finite propagation speed; CFL bound and bounded gradient/time rates remain the governing stability gates.
+
+- **MSC cohesion with zero perturbation stress (MSC-RHO-POS)**
+  - Assumption: σ_pert = 0
+  - Result: S_MSC[Ψ] = ∫ ρ_rel(Ψ) dV
+  - Interpretation: Cohesion increases with redundant relational binding and constraint closure, reinforcing identity stability.
+
+- **MSC decay with absent relational density (MSC-RHO-ZERO)**
+  - Assumption: ρ_rel = 0
+  - Result: S_MSC[Ψ] = −∫ σ_pert(Ψ) dV → decay
+  - Interpretation: Perturbation stress dominates, driving cohesion toward collapse and matching the identity dissolution narrative.
+
+- **Entropy increase vs. cohesion decay (ENTROPY-LINK)**
+  - Assumption: dS_entropy/dt ∝ − dS_MSC/dt
+  - Result: Rising entropy corresponds to decreasing MSC cohesion rate
+  - Interpretation: Maintains the text’s mapping: entropy growth tracks cohesion decay, aligning memory persistence with MSC resistance.
+>>>>>>> theirs
