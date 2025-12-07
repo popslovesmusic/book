@@ -9,6 +9,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
 >>>>>>> theirs
@@ -30,6 +31,13 @@
 - Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
 - Re-certified DFVM-only placement after adding explicit leakage hard-stop language in QSM and banning stochastic forcing from SATP formulations.
 - Recorded master enforcement directive: $\xi$ must remain zero-mean, bounded, non-agentic, and irreversible; appearance in MSP, MSC, MBC, IGSOA, or SATP triggers immediate processing halt plus entries in this log and the Global Compliance Re-Audit.
+>>>>>>> theirs
+=======
+- Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
+- Re-certified DFVM-only placement after adding explicit leakage hard-stop language in QSM and banning stochastic forcing from SATP formulations.
+- Recorded master enforcement directive: $\xi$ must remain zero-mean, bounded, non-agentic, and irreversible; appearance in MSP, MSC, MBC, IGSOA, or SATP triggers immediate processing halt plus entries in this log and the Global Compliance Re-Audit.
+- Ran layer-wide consistency scan and generated ontological_consistency_report.md, flagging any $\xi$ references outside explicit DFVM mediation for manual review while confirming no active randomness leaks.
+- Executed equation-level structural audit confirming the DFVM stochastic update maintains bounded, DFVM-only $\xi$ perturbations with type-matched field domains and no leakage.
 >>>>>>> theirs
 
 ## Compliance Notes

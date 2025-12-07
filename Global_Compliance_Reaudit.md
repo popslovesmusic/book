@@ -4,6 +4,7 @@
 - Randomness localization updates (Quantum Stochastic Mechanics, Unification & Synthesis)
 - Measurement operator formalization (MSC chapter)
 - SATP well-posedness and stability hardening (Experimental Predictions, SATP appendices)
+<<<<<<< ours
 
 ## Findings
 <<<<<<< ours
@@ -25,6 +26,11 @@
 >>>>>>> theirs
 =======
 >>>>>>> theirs
+=======
+- Equation-level structural audit (MSC, DFVM stochasticity, measurement operator, SATP PDE/bounds, entropy link)
+
+## Findings
+>>>>>>> theirs
 - No RMF violations detected; relational primacy, non-essentialist identity, irreversibility, and NO observer primacy remain intact.
 - Randomness confined to DFVM stochastic modulation with no symmetry restoration; any leakage beyond DFVM triggers a hard-stop audit.
 - Measurement remains energetic and relational with $\Delta S_{entropy} > 0$; records require supercritical MSC and failures are audit-logged.
@@ -33,6 +39,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Master enforcement directive reaffirmed: $\xi$ observed outside DFVM or stochastic forcing within SATP mandates immediate halt, log entry, and recertification.
 >>>>>>> theirs
@@ -41,6 +48,11 @@
 >>>>>>> theirs
 =======
 - Master enforcement directive reaffirmed: $\xi$ observed outside DFVM or stochastic forcing within SATP mandates immediate halt, log entry, and recertification.
+>>>>>>> theirs
+=======
+- Master enforcement directive reaffirmed: $\xi$ observed outside DFVM or stochastic forcing within SATP mandates immediate halt, log entry, and recertification.
+- Layer consistency scan executed via ontological_consistency_report.md; no active violations detected, with potential legacy $\xi$ references flagged for manual review.
+- Equation structural audit executed: confirmed MSC functional/regimes, DFVM update, measurement operator, entropy link, and SATP PDE/CFL/cost inequalities all compare like quantities with hyperbolic classification retained and no randomness leakage or observer primacy reintroduction.
 >>>>>>> theirs
 
 ## Cross-Stack Failure Monitoring (Active)
@@ -59,6 +71,10 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
+>>>>>>> theirs
+=======
+- Randomness governance: DFVM-only stochastic modulation with zero-mean, bounded, non-agentic $\xi$; leakage triggers logs in the Randomness Placement Log and SATP exclusions reverified.
 >>>>>>> theirs
 =======
 - Randomness governance: DFVM-only stochastic modulation with zero-mean, bounded, non-agentic $\xi$; leakage triggers logs in the Randomness Placement Log and SATP exclusions reverified.

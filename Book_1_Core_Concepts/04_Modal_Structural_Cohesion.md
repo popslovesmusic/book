@@ -123,10 +123,18 @@ Conversely, established MSC fields (particularly in the supercritical regime) ex
 The coupling respects the relational ontology and prohibits any symmetry-restoration or time-reversal implication. Formally:
 
 $$ \frac{\partial S_{MSC}}{\partial t} = -\alpha \cdot |DFVM| + \beta \cdot \text{constraint\_repair} $$
+<<<<<<< ours
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 Interpretation:
 
+=======
+
+$$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
+
+Interpretation:
+
+>>>>>>> theirs
 * **DFVM perturbs MSC:** The magnitude of DFVM turbulence erodes $S_{MSC}$ at rate $\alpha$, representing destabilization without invoking external observers.
 * **MSC damps DFVM:** Constraint repair mediated by $\beta$ channels DFVM dynamics, with $\kappa(S_{MSC})$ encoding how supercritical cohesion conditions the next-step flow without restoring symmetry or reversing time.
 * **Collapse pressure:** If $\alpha |DFVM|$ dominates, $S_{MSC}$ trends toward the collapse condition ($S_{MSC} \to 0$), signaling identity dissolution.
@@ -276,4 +284,8 @@ This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy)
 | Randomness leakage | $\xi$ injected outside DFVM | Ontological | Hard stop; compliance report and containment |
 
 Any detected randomness leakage triggers an immediate ontological hard stop: stochastic terms are quarantined to DFVM, the interface is re-audited for irreversibility and non-essentialist identity, and a compliance report is filed before operations resume.
+<<<<<<< ours
+=======
+
+>>>>>>> theirs
 
