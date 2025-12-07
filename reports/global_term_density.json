@@ -1,0 +1,21 @@
+{
+  "substrate": 53,
+  "relation": 18,
+  "relational": 79,
+  "identity": 58,
+  "kernel": 40,
+  "instance": 10,
+  "agency": 28,
+  "cohesion": 17,
+  "msc": 19,
+  "msp": 7,
+  "mbc": 7,
+  "igsoa": 180,
+  "dfvm": 83,
+  "satp": 22,
+  "process": 13,
+  "attractor": 11,
+  "time": 73,
+  "field": 219,
+  "semantic": 116
+}

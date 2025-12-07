@@ -1,0 +1,410 @@
+[
+  {
+    "subject": "it",
+    "type": "negation_conflict",
+    "definitions": [
+      {
+        "subject": "it",
+        "negated": true,
+        "predicate": "matter",
+        "sentence": "it is not matter.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Relational Dynamics of a Monistic Substrate.md"
+      },
+      {
+        "subject": "it",
+        "negated": true,
+        "predicate": "space",
+        "sentence": "it is not space.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Relational Dynamics of a Monistic Substrate.md"
+      },
+      {
+        "subject": "it",
+        "negated": true,
+        "predicate": "energy",
+        "sentence": "it is not energy.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Relational Dynamics of a Monistic Substrate.md"
+      },
+      {
+        "subject": "it",
+        "negated": true,
+        "predicate": "information",
+        "sentence": "it is not information.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Relational Dynamics of a Monistic Substrate.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "pure possibility of relation",
+        "sentence": "it is pure possibility of relation.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Relational Dynamics of a Monistic Substrate.md"
+      },
+      {
+        "subject": "it",
+        "negated": true,
+        "predicate": "two points",
+        "sentence": "it is not two points.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Relational Dynamics of a Monistic Substrate.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "hereby declared compliant with the relational monistic framework",
+        "sentence": "it is hereby declared compliant with the relational monistic framework (rmf).",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\relational_monistic_compliance_specification.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "crucial to note that this manifold and its associated fields are",
+        "sentence": "it is crucial to note that this manifold and its associated fields are *descriptions* of the relational dynamics of the underlying monistic substrate, not the substrate itself.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\SATP \u2013 Final PDE Formulation.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "crucial to note that any apparent",
+        "sentence": "it is crucial to note that any apparent 'agency' or self-organization arising from these dynamics is strictly emergent from closed relational feedback loops and does not imply intrinsic agency in the underlying substrate or its components.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\SATP \u2013 Final PDE Formulation.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "important to acknowledge that these emergent structures",
+        "sentence": "it is important to acknowledge that these emergent structures, as identity instances, are finite and subject to dissolvability based on ongoing dfvm dynamics and msc cohesion.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\SATP \u2013 Final PDE Formulation.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "crucial to note that",
+        "sentence": "it is crucial to note that 'information' here denotes the relational dynamics and patterns, not the intrinsic nature of the monistic substrate itself, which remains the precondition for all such emergent properties.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\01_Foundations_of_IGSOA.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "important to note that this framework describes emergent phenomena and does not a",
+        "sentence": "it is important to note that this framework describes emergent phenomena and does not attribute intrinsic agency to the substrate or its components; any apparent 'agency' is strictly emergent from closed relational feedback loops within the causal field.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\01_Foundations_of_IGSOA.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "important to reiterate that any reference to",
+        "sentence": "it is important to reiterate that any reference to 'causal information' in this framework describes the relational dynamics of the substrate, not its fundamental ontological nature.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\02_Fundamental_Dynamics_of_the_Causal_Field.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "important to acknowledge that these emergent identity instances are finite and su",
+        "sentence": "it is important to acknowledge that these emergent identity instances are finite and subject to dissolvability, their persistence being entirely dependent on ongoing dfvm dynamics and msc cohesion.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\02_Fundamental_Dynamics_of_the_Causal_Field.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "how uniformity gives rise to structure",
+        "sentence": "introduction**\n\nsymmetry breaking stands as one of the most profound mechanisms in physical theory: it is how uniformity gives rise to structure.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\03_Primes_RH_and_Symmetry_Breaking.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "important to clarify that this framework describes emergent phenomena and does no",
+        "sentence": "it is important to clarify that this framework describes emergent phenomena and does not attribute intrinsic agency to the substrate or its components; any apparent 'agency' arising from causal self-interaction and feedback loops is strictly emergent.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\03_Primes_RH_and_Symmetry_Breaking.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "also understood that these emergent identity instances",
+        "sentence": "it is also understood that these emergent identity instances, despite their stability, are finite and subject to dissolvability, their persistence being entirely dependent on ongoing dfvm dynamics and msc cohesion.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\03_Primes_RH_and_Symmetry_Breaking.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "understood that the monistic substrate is the precondition for such causal inform",
+        "sentence": "it is understood that the monistic substrate is the precondition for such causal information and its mathematical description, rather than being information or a mathematical system itself.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\05_GravitationalWave_Echoes.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "crucial to emphasize that this",
+        "sentence": "it is crucial to emphasize that this 'causal geometry' and any 'causal information' associated with it are descriptions of the relational dynamics of the monistic substrate, which serves as the precondition for all such manifestations, rather than being the substrate itself.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\06_CMB_Asymmetry.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "understood that such geometric descriptions",
+        "sentence": "however, within the rmf/igsoa-qmm framework, it is understood that such geometric descriptions, while useful, are emergent properties and mathematical descriptions of the relational dynamics of the monistic substrate, which itself is the precondition for any information or mathematical system, rather than being geometry or a mathematical system itself.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\07_Fractal_Fractional_Spacetime.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "important to clarify that this geometric archetype and any associated causal info",
+        "sentence": "it is important to clarify that this geometric archetype and any associated causal information are descriptions of the relational dynamics of the monistic substrate, which is the precondition for all such manifestations, rather than being the substrate itself.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\08_SpiralGeometry_Causality.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "the curve of becoming",
+        "sentence": "it is the curve of becoming.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\08_SpiralGeometry_Causality.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "understood that the monistic substrate is the precondition for such causal inform",
+        "sentence": "it is understood that the monistic substrate is the precondition for such causal information and its mathematical description, rather than being information or a mathematical system itself..",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\09_QuantumStochasticMechanics.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "understood that the underlying monistic substrate is the precondition for such ca",
+        "sentence": "it is understood that the underlying monistic substrate is the precondition for such causal media and their mathematical descriptions, rather than being information or a mathematical system itself.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\10_LotkaVolterra_Oscillators.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "crucial to reiterate that the monistic substrate is the precondition for all such",
+        "sentence": "it is crucial to reiterate that the monistic substrate is the precondition for all such causal information and its mathematical description, rather than being information or a mathematical system itself.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\11_LieAlgebra_BridgingFrameworks.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "shown that",
+        "sentence": "starting from the fractional liouville equation and a generalized h-functional, it is shown that `d_t^\u03b3t h\u03b3 \u2264 0`, meaning entropy (`s\u03b3 = -kbh\u03b3`) never decreases.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\11_LieAlgebra_BridgingFrameworks.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "the natural thermodynamic optimization of causal memory",
+        "sentence": "it is the natural thermodynamic optimization of causal memory.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\18_Unification_and_Synthesis.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "shown that the closed-loop fractional dynamics converge to the optimal state",
+        "sentence": "using a lyapunov-pair approach and the fractional lasalle invariance principle, it is shown that the closed-loop fractional dynamics converge to the optimal state.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\18_Unification_and_Synthesis.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "the curve of becoming",
+        "sentence": "it is the curve of becoming.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\08_SpiralGeometry_Causality.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "shown that",
+        "sentence": "starting from the fractional liouville equation and a generalized h-functional, it is shown that `d_t^\u03b3t h\u03b3 \u2264 0`, meaning entropy (`s\u03b3 = -kbh\u03b3`) never decreases.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\11_LieAlgebra_BridgingFrameworks.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "the natural thermodynamic optimization of causal memory",
+        "sentence": "it is the natural thermodynamic optimization of causal memory.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\18_Unification_and_Synthesis.md"
+      },
+      {
+        "subject": "it",
+        "negated": false,
+        "predicate": "shown that the closed-loop fractional dynamics converge to the optimal state",
+        "sentence": "using a lyapunov-pair approach and the fractional lasalle invariance principle, it is shown that the closed-loop fractional dynamics converge to the optimal state.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\18_Unification_and_Synthesis.md"
+      }
+    ]
+  },
+  {
+    "subject": "time",
+    "type": "negation_conflict",
+    "definitions": [
+      {
+        "subject": "time",
+        "negated": false,
+        "predicate": "ordering of relations",
+        "sentence": "time:\n\ntime flows only through changing relations, not objects.\\*\\*  \nyour insight was exactly right:  \n\u201ctime can only flow when the river has a bed with a source and destination.\u201d  \nin relational ontology:\n\n* time is ordering of relations  \n* dynamics is transformation of relations  \n* change is reconfiguration of relational networks  \n* nothing \u201cpersists\u201d except the laws governing relation-formation\n\nthe substrate does not have time.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Relational Dynamics of a Monistic Substrate.md"
+      },
+      {
+        "subject": "time",
+        "negated": true,
+        "predicate": "linear progression but angular evolution in causal phase",
+        "sentence": "time is not linear progression but angular evolution in causal phase, ...space is the radial unfolding of that phase.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\08_SpiralGeometry_Causality.md"
+      },
+      {
+        "subject": "time",
+        "negated": false,
+        "predicate": "the unfolding of that memory",
+        "sentence": "time is the unfolding of that memory, and intelligence is the alignment of local memory gradients with the universal field.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\20_Future_Roadmap.md"
+      },
+      {
+        "subject": "time",
+        "negated": true,
+        "predicate": "linear progression but angular evolution in causal phase",
+        "sentence": "time is not linear progression but angular evolution in causal phase, and space is the radial unfolding of that phase.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\08_SpiralGeometry_Causality.md"
+      },
+      {
+        "subject": "time",
+        "negated": false,
+        "predicate": "the unfolding of that memory",
+        "sentence": "time is the unfolding of that memory, and intelligence is the alignment of local memory gradients with the universal field.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\20_Future_Roadmap.md"
+      }
+    ]
+  },
+  {
+    "subject": "cognition",
+    "type": "negation_conflict",
+    "definitions": [
+      {
+        "subject": "cognition",
+        "negated": false,
+        "predicate": "the geometry of causal self-reference",
+        "sentence": "cognition is the geometry of causal self-reference.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\12_Holography_and_Information.md"
+      },
+      {
+        "subject": "cognition",
+        "negated": true,
+        "predicate": "subjective experience but the",
+        "sentence": "cognition is not subjective experience but the **geometry of recursive memory**.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\17_QMM_IGSOA_Comparison.md"
+      },
+      {
+        "subject": "cognition",
+        "negated": false,
+        "predicate": "the",
+        "sentence": "### **17.6 philosophical and epistemic synthesis**\n\ncognition is the *geometry of difference sustained in time*.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\17_QMM_IGSOA_Comparison.md"
+      },
+      {
+        "subject": "cognition",
+        "negated": false,
+        "predicate": "the geometry of causal self-reference",
+        "sentence": "cognition is the geometry of causal self-reference.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\12_Holography_and_Information.md"
+      },
+      {
+        "subject": "cognition",
+        "negated": true,
+        "predicate": "subjective experience but the",
+        "sentence": "cognition is not subjective experience but the **geometry of recursive memory**.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\17_QMM_IGSOA_Comparison.md"
+      },
+      {
+        "subject": "cognition",
+        "negated": false,
+        "predicate": "the",
+        "sentence": "### **17.6 philosophical and epistemic synthesis**\n\ncognition is the *geometry of difference sustained in time*.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\17_QMM_IGSOA_Comparison.md"
+      }
+    ]
+  },
+  {
+    "subject": "universe",
+    "type": "negation_conflict",
+    "definitions": [
+      {
+        "subject": "the universe",
+        "negated": false,
+        "predicate": "a self-referential network of fractional relationships",
+        "sentence": "the universe is a self-referential network of fractional relationships.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\16_Ethical_Frameworks.md"
+      },
+      {
+        "subject": "the universe",
+        "negated": false,
+        "predicate": "described as",
+        "sentence": "the universe is described as **cognitively coherent**.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\17_QMM_IGSOA_Comparison.md"
+      },
+      {
+        "subject": "the universe",
+        "negated": true,
+        "predicate": "just described by mathematics",
+        "sentence": "the universe is not just described by mathematics; it *is* mathematics.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book3_DFVM\\02_RH_as_DFVM_Regulator.md"
+      },
+      {
+        "subject": "the universe",
+        "negated": true,
+        "predicate": "merely describable by mathematics",
+        "sentence": "i recommend discussing with mathematicians working on rh before making strong claims.]\n\n### **7.4 philosophical implications**\n\nthe unification of number theory, quantum mechanics, and gravitational physics under the dfvm framework suggests a deep truth: **the universe is not merely describable by mathematics\u2014its most fundamental layer is mathematical structure itself**.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book3_DFVM\\draft.md"
+      },
+      {
+        "subject": "the universe",
+        "negated": false,
+        "predicate": "a self-referential network of fractional relationships",
+        "sentence": "the universe is a self-referential network of fractional relationships.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\16_Ethical_Frameworks.md"
+      },
+      {
+        "subject": "the universe",
+        "negated": false,
+        "predicate": "described as",
+        "sentence": "the universe is described as **cognitively coherent**.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book2_Applications_and_Extensions\\17_QMM_IGSOA_Comparison.md"
+      },
+      {
+        "subject": "the universe",
+        "negated": true,
+        "predicate": "just described by mathematics",
+        "sentence": "the universe is not just described by mathematics; it *is* mathematics.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book3_DFVM\\02_RH_as_DFVM_Regulator.md"
+      }
+    ]
+  },
+  {
+    "subject": "that the distribution",
+    "type": "negation_conflict",
+    "definitions": [
+      {
+        "subject": "that the distribution of its eigenvalues",
+        "negated": false,
+        "predicate": "regulated by a trace formula analogous to the one for the riemann zeros",
+        "sentence": "we formalize the spectral properties of the fractal vein network, represented as a graph laplacian, and show that the distribution of its eigenvalues is regulated by a trace formula analogous to the one for the riemann zeros.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book3_DFVM\\02_RH_as_DFVM_Regulator_Outline.md"
+      },
+      {
+        "subject": "that the distribution of its eigenvalues",
+        "negated": false,
+        "predicate": "constrained by a trace formula analogous to that governing the non-trivial zeros",
+        "sentence": "we formalize the spectral properties of the fractal vein network as a graph laplacian operator and show that the distribution of its eigenvalues is constrained by a trace formula analogous to that governing the non-trivial zeros of the riemann zeta function.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book3_DFVM\\draft.md"
+      },
+      {
+        "subject": "that the distribution of prime numbers",
+        "negated": true,
+        "predicate": "a purely arithmetic phenomenon but a reflection of deep constraints on the stabil",
+        "sentence": "this unifies number theory with causal geometry and quantum chaos, suggesting that the distribution of prime numbers is not a purely arithmetic phenomenon but a reflection of deep constraints on the stability of spacetime itself.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book3_DFVM\\draft.md"
+      },
+      {
+        "subject": "that the distribution of its eigenvalues",
+        "negated": false,
+        "predicate": "regulated by a trace formula analogous to the one for the riemann zeros",
+        "sentence": "we formalize the spectral properties of the fractal vein network, represented as a graph laplacian, and show that the distribution of its eigenvalues is regulated by a trace formula analogous to the one for the riemann zeros.",
+        "file": "C:\\qmm-igsoa\\Organized_Papers\\Book3_DFVM\\02_RH_as_DFVM_Regulator_Outline.md"
+      }
+    ]
+  }
+]

@@ -1,0 +1,262 @@
+﻿Theoretical Foundations of the IGSOA-QMM Framework. Informational Ground State Ontology and Architecture – Quantum Memory Models
+Executive Summary
+The unification of quantum mechanics and general relativity remains the premier challenge of theoretical physics. The IGSOA-QMM (Informational Ground State Ontology and Architecture – Quantum Memory Model) framework proposes a radical synthesis: that the fundamental fabric of reality is a discrete, causally ordered structure governed by number-theoretic statistics and fractional (non-local) dynamics. This report presents an exhaustive analysis of the theoretical pillars supporting this framework. We survey and synthesize literature across five distinct disciplines: Causal Set Theory, which provides the discrete kinematical substrate; Fractional Calculus, which supplies the dynamical laws of memory and non-locality; Prime Number Statistics, which appear as the generative code of quantum chaos and vacuum structure; Non-Markovian Dynamics, which describes the preservation of information in open systems; and Emergent Spacetime, particularly the "It from Bit" and entropic gravity paradigms.
+Our analysis reveals a converging narrative: Spacetime is not a smooth manifold but a "viscoelastic" medium emerging from a discrete causal network. The growth of this network is stochastic yet governed by the spectral statistics of prime numbers, creating a "chaotic" vacuum that breaks time-reversal symmetry. The dynamics on this network are inherently fractional, characterized by power-law memory kernels that allow the universe to retain a history of interactions—a feature macroscopically perceived as inertia and gravity. This report details the mathematical and physical arguments for each pillar, demonstrating how they interlock to form the comprehensive IGSOA-QMM worldview.
+________________
+1. Introduction: The Crisis of the Continuum and the Architecture of Discreteness
+The pervasive assumption in modern physics is that spacetime is a differentiable manifold—a smooth continuum that looks flat at sufficiently small scales. This assumption underpins the Einstein Field Equations and the Standard Model of particle physics. However, the presence of singularities in General Relativity (GR) and the ultraviolet divergences in Quantum Field Theory (QFT) strongly suggest that the continuum hypothesis fails at the Planck scale ($l_p \approx 1.6 \times 10^{-35}$ m). The IGSOA-QMM framework is born from the necessity to construct a physics that is fundamental, discrete, and self-organizing.
+1.1 The Limitations of Continuum Mechanics in Quantum Gravity
+The continuum is likely an approximation, much like hydrodynamics is an approximation of molecular dynamics. The "It from Bit" philosophy, pioneered by John Archibald Wheeler, suggests that the fundamental entities are not fields or particles, but binary choices—bits of information.1 In this view, geometry is secondary; it is an emergent property of the relationships between information bits. The IGSOA-QMM framework adopts this stance, positing that the "atoms" of spacetime are discrete events, and their relationships are causal links.
+1.2 The Necessity of Memory and Non-Locality
+If spacetime is discrete, the convenient locality of differential equations (where evolution depends only on the immediate neighborhood) must be re-evaluated. Discrete structures often exhibit non-local connectivity. Furthermore, if the structure evolves, the current state may depend on the history of the evolution, introducing "memory." Standard quantum mechanics is Markovian (memoryless), but the IGSOA-QMM framework posits that at the fundamental level, dynamics are Non-Markovian. This requires a shift from integer-order differential calculus to Fractional Calculus, which naturally incorporates non-local memory kernels.3
+1.3 The Generative Role of Number Theory
+Finally, if the universe is discrete, what determines the rules of its growth? The striking correspondence between the statistics of the Riemann Zeta zeros and the energy levels of chaotic quantum systems suggests that Number Theory acts as the physical law of the vacuum.5 The IGSOA-QMM framework integrates this by proposing that the distribution of Prime Numbers dictates the statistical properties of the causal network's growth, effectively serving as the "source code" of physical reality.
+________________
+2. Causal Set Theory: The Kinematic Substrate
+The "Informational Ground State Ontology and Architecture" (IGSOA) requires a mathematical formalism that captures discreteness without violating Lorentz invariance. Causal Set Theory (CST) is the only known candidate that satisfies these criteria. In CST, the deep structure of spacetime is a locally finite partially ordered set (poset).
+2.1 The Axioms of Causal Structure
+A causal set $C$ is defined by an order relation $\prec$ satisfying:
+1. Transitivity: If $x \prec y$ and $y \prec z$, then $x \prec z$.
+2. Acyclicity: If $x \prec y$, then $y \not\prec x$ (no closed timelike curves).
+3. Local Finiteness: For any $x, z \in C$, the set $\{y \in C | x \prec y \prec z\}$ is finite.7
+This structure embodies the slogan: Order is Causality; Number is Volume. The causal relations define the light cone structure (conformal geometry), and the simple counting of elements defines the spacetime volume factor.8
+2.2 The Benincasa-Dowker Action: A Discrete Einstein-Hilbert
+For CST to function as a quantum theory of gravity, it must have an action principle that recovers General Relativity in the continuum limit. The Benincasa-Dowker (BD) action is a triumph of recent research, providing a discrete analogue to the Ricci scalar curvature.9
+2.2.1 The Action Formula
+In a 2-dimensional causal set, the BD action $S^{(2)}$ is given by a weighted sum of "k-chains" (sequences of $k+1$ related elements) 9:
+
+
+$$\frac{1}{\hbar} S^{(2)}(C) = \sum_{x \in C} \frac{1}{l^2} R^{(2)}(x)$$
+where the discrete Ricci scalar $R^{(2)}(x)$ is defined as:
+
+
+$$R^{(2)}(x) = 2N(x) - 4N_0(x) + 8N_1(x) - 4N_2(x)$$
+Here:
+* $N(x)$ is a normalization factor (often related to the total number of elements or volume).
+* $N_k(x)$ represents the number of $k$-element intervals or chains contained within the causal past/future of $x$ (specifically "inclusive" or "exclusive" intervals depending on the precise formulation).
+In 4 dimensions, the coefficients change, but the principle remains: curvature is detected by the abundance or paucity of causal links compared to a flat (Minkowski) random sprinkling. If a region is positively curved, the number of intervals deviates from the flat expectation.9
+2.2.2 Implications for IGSOA-QMM
+The BD action is inherently non-local. Calculating the curvature at an "event" $x$ requires information about its connectivity to neighbors that might be "distant" in terms of links but "close" in terms of proper time. This discrete non-locality is the kinematic equivalent of the dynamic non-locality found in fractional quantum mechanics. The IGSOA framework utilizes this action to weight the probabilities of different causal set geometries in the quantum sum-over-histories.9
+2.3 Growth Dynamics and the "Becoming" Universe
+Unlike the "Block Universe" of General Relativity, where the past, present, and future exist simultaneously, CST is often formulated as a theory of "becoming." Classical Sequential Growth (CSG) dynamics describe how the causal set grows one element at a time.7
+* Presentism: This aligns with the "Present Quantum Gravity" approach, where only the present instant is ontological, and the past is encoded as structure.12
+* Algorithmic Growth: The IGSOA-QMM posits that this growth is not merely random (Poisson) but "self-organizing" according to specific rules—rules that we will later identify with the distribution of prime numbers.
+________________
+3. Fractional Calculus in Quantum Mechanics: The Dynamical Engine
+While Causal Set Theory provides the stage, Fractional Quantum Mechanics (FQM) provides the actors. The "Quantum Memory Model" (QMM) implies that the fundamental equations of motion must incorporate memory. Fractional calculus is the mathematical tool for this task.
+3.1 The Space-Fractional Schrödinger Equation: Modeling Non-Locality
+Standard quantum mechanics assumes that the underlying stochastic path of a particle is Brownian motion (Gaussian distribution), leading to the Laplacian operator $\nabla^2$. However, if the causal substrate is fractal or porous—as causal sets are near the Planck scale—the paths may be Lévy flights.
+Laskin generalized the Feynman path integral to Lévy paths, deriving the Space-Fractional Schrödinger Equation (SFSE) 4:
+$$ i\hbar \frac{\partial \psi(\mathbf{r}, t)}{\partial t} = -D_{\alpha} (-\hbar^2 \Delta)^{\alpha/2} \psi(\mathbf{r}, t) + V(\mathbf{r}) \psi(\mathbf{r}, t) $$
+The operator $(-\hbar^2 \Delta)^{\alpha/2}$ is the Riesz fractional derivative (with $1 < \alpha \le 2$).
+3.1.1 The Meaning of $\alpha$ (The Lévy Index)
+The parameter $\alpha$ controls the degree of non-locality.
+* $\alpha = 2$: Recovers standard Quantum Mechanics (Gaussian diffusion).
+* $\alpha < 2$: Represents "super-diffusion." The probability density has "heavy tails," meaning there is a higher probability of long-range jumps.4
+In the context of IGSOA-QMM, this implies that information (or quantum states) can tunnel across the causal network deeper and faster than conventional topology would allow. This "anomalous" connectivity is a defining feature of the architecture.
+3.2 The Time-Fractional Schrödinger Equation: Modeling Memory
+While space-fractional derivatives describe non-locality, time-fractional derivatives describe memory. The Time-Fractional Schrödinger Equation (TFSE) uses the Caputo fractional derivative $\partial_t^\beta$ (where $0 < \beta \le 1$).3
+3.2.1 Naber's Formulation and Physical Interpretation
+The equation typically takes the form:
+
+
+
+
+$$i^\beta \hbar^\beta \frac{\partial^\beta \psi}{\partial t^\beta} = \hat{H} \psi$$
+
+
+Alternatively, the fractional operation might apply only to the differential operator and not the imaginary unit $i$. Research indicates that the formulation without fractional operations on $i$ is more physically meaningful for describing non-Markovian behavior in dissipative environments.3
+3.2.2 The Memory Kernel
+The Caputo derivative is defined by a convolution:
+
+
+
+
+$$D_t^\beta f(t) = \frac{1}{\Gamma(1-\beta)} \int_0^t (t-\tau)^{-\beta} f'(\tau) d\tau$$
+
+
+This integral implies that the rate of change of the wavefunction at time $t$ depends on its entire history from $t=0$, weighted by the kernel $(t-\tau)^{-\beta}$.15
+   * Power-Law Decay: The kernel decays as a power law, which is characteristic of "long-term memory."
+   * Sub-diffusion: In a physical system, this corresponds to particles getting "trapped" in metastable states for varying durations. In the IGSOA-QMM, these traps represent the complex internal structure of the causal nodes.
+3.3 The Controversy of Unitarity
+A critical issue in FQM is that the time-fractional equation often violates unitarity—the total probability $\int |\psi|^2$ is not conserved.3
+   * The Critic's View: This is a fatal flaw for a fundamental theory of closed systems.18
+   * The IGSOA Resolution: The IGSOA-QMM framework interprets the universe as an Open System at the local scale. The apparent loss of probability corresponds to information leaking into the "memory bath"—the degrees of freedom encoding the past. Recent work supports this, showing that non-unitarity is essential for modeling decoherence and information degradation in realistic environments.3 Furthermore, employing complex time planes can restore a generalized form of unitarity.13
+3.4 Comparison of Standard vs. Fractional Quantum Mechanics
+Feature
+	Standard QM (α=2,β=1)
+	Fractional QM (1<α<2,0<β<1)
+	Implication for IGSOA-QMM
+	Path Integral
+	Brownian Motion (Gaussian)
+	Lévy Flights (Power Law)
+	Particles probe global topology; "jumps" are possible.
+	Locality
+	Local Differential Operators
+	Non-local Integral Operators
+	Interactions are inherently non-local (action at a distance mediated by structure).
+	Memory
+	Markovian (Memoryless)
+	Non-Markovian (Memory)
+	The state depends on the history of the causal set.
+	Diffusion
+	Normal ($\langle x^2 \rangle \sim t$)
+	Anomalous ($\langle x^2 \rangle \sim t^\gamma$)
+	Transport of information is super- or sub-diffusive.
+	Unitarity
+	Strictly Conserved
+	Generally Violated (Open System)
+	Local entropy production; information exchange with the causal background.
+	________________
+4. The Materiality of Spacetime: Viscoelastic Analogies
+A powerful insight emerging from the literature is the correspondence between Fractional Quantum Mechanics and Viscoelasticity.4 This analogy provides a concrete, material way to understand the "texture" of the spacetime proposed in the IGSOA-QMM framework.
+4.1 Fractional Kelvin-Voigt Models
+In materials science, polymers exhibit behavior that is intermediate between an elastic solid (Hooke's Law: $\sigma \propto \epsilon$) and a viscous fluid (Newton's Law: $\sigma \propto \dot{\epsilon}$). This behavior is perfectly described by fractional calculus.
+The Fractional Kelvin-Voigt constitutive equation is 21:
+
+
+
+
+$$\sigma(t) = E \epsilon(t) + \eta D^\alpha_t \epsilon(t)$$
+
+
+where:
+   * $\sigma(t)$ is stress (analogous to curvature/energy-momentum).
+   * $\epsilon(t)$ is strain (analogous to metric perturbation).
+   * $D^\alpha_t$ is the fractional derivative of order $\alpha$.
+4.2 Spacetime as a Polymer
+The IGSOA-QMM framework posits that spacetime acts like a fractional viscoelastic polymer.
+   1. Elasticity ($E$): Spacetime resists curvature (standard Einstein gravity).
+   2. Viscosity ($\eta D^\alpha_t$): Spacetime has a "drag" or "memory" that resists changes in curvature based on its history.
+This model explains "Cosmic Jerk" or acceleration without dark energy. If the universe is viscoelastic, the expansion rate is not just a function of current matter density but of the entire history of expansion. The "memory" of the initial inflation could be driving current acceleration.23
+4.3 Experimental Evidence from Soft Matter
+Experiments on cross-linked polymers and hydrogels confirm the physical reality of these fractional constitutive laws.25 The fact that nature utilizes fractional dynamics to organize soft matter suggests it is a viable archetype for the "soft matter" of emergent spacetime.27
+________________
+5. Number Theory as Physical Law: The Prime Distribution
+The IGSOA-QMM framework requires a source of "structured randomness" to drive the growth of the causal set. The literature identifies Prime Number Statistics as the prime candidate (pun intended) for this role.
+5.1 The Polya-Hilbert Conjecture and the Riemann Operator
+The Polya-Hilbert conjecture is one of the most profound ideas in mathematical physics. It suggests that the non-trivial zeros of the Riemann Zeta function, $\zeta(s)$, are the eigenvalues of a self-adjoint Hamiltonian operator $\hat{H}$ describing a physical quantum system.6
+
+
+$$\zeta(1/2 + iE_n) = 0 \quad \longleftrightarrow \quad \hat{H} \psi_n = E_n \psi_n$$
+
+
+If this operator exists, the distribution of prime numbers is physically encoded in the spectrum of the vacuum.
+5.2 The Berry-Keating Hamiltonian ($xp$)
+Berry and Keating proposed the Hamiltonian $H = xp$ as the leading candidate. Classically, the dynamics $x(t) = x_0 e^t, p(t) = p_0 e^{-t}$ are unstable and the orbits are hyperbolas.
+However, a refined version, $H = x(p + \ell_p^2/p)$, introduces a regularization scale $\ell_p$ (Planck length).6
+   * Closed Orbits: This Hamiltonian possesses closed periodic orbits.
+   * Prime Periods: The periods of these orbits are related to the logarithms of prime numbers ($\log p$).
+   * Spectrum: The quantum spectrum of this operator coincides with the average position of the Riemann zeros.
+Implication for IGSOA-QMM: The fundamental "vibration modes" of the causal set structure are not arbitrary; they are the prime numbers. The causal network resonates at prime frequencies.
+5.3 Quantum Chaos and GUE Statistics
+The "Montgomery-Odlyzko Law" states that the statistical spacing of Riemann zeros follows the Gaussian Unitary Ensemble (GUE) statistics of Random Matrix Theory.5
+   * Quantum Chaos: GUE statistics are the signature of Quantum Chaos. They appear in systems that are non-integrable and break time-reversal symmetry.5
+   * The Chaotic Vacuum: This implies that the "Prime Vacuum" of the IGSOA framework is inherently chaotic and irreversible. This irreversibility is the root of the thermodynamic arrow of time.
+5.4 Symmetry Breaking and the "Frozen" Primes
+Research into "Prime Number Gases" suggests a phase transition. A stochastic system generating integers can undergo a transition where it "freezes" into a state where only primes are stable.31
+   * Lorentz Symmetry Breaking: A snippet explicitly links the prime distribution to the breaking of Lorentz symmetry at the Planck scale, proposing that the Planck length is $1/p$ for a prime $p$.32 This provides a direct mechanism for the discretization of the causal set: the continuous symmetry of the high-energy universe breaks down into a discrete lattice defined by prime numbers.
+________________
+6. Non-Markovian Dynamics: The Flow of Information
+The "QMM" (Quantum Memory Model) component necessitates a rigorous definition of how information flows and is stored. Non-Markovian dynamics is the study of systems where information flows back from the environment to the system.
+6.1 Information Backflow
+In standard Markovian evolution (Lindblad), information flows strictly from the system to the environment—entropy increases monotonically. In Non-Markovian systems, the divisibility of the dynamical map breaks down.3
+   * Backflow: Information previously lost to the environment flows back into the system. This allows the system to "remember" its past state.
+   * IGSOA Implementation: In the causal set, the "environment" of a node is its past light cone. The fractional propagators ensure that signals from the deep past can re-interfere with the present, constituting a physical memory.
+6.2 Biological Verification: A Proof of Concept
+The theoretical viability of exploiting non-Markovian dynamics is proven by its existence in biological systems.
+   * Photosynthesis: The Fenna-Matthews-Olson (FMO) complex in bacteria utilizes long-lived quantum coherence to transfer energy with near 100% efficiency. This coherence is maintained by non-Markovian interactions with the protein scaffold (the environment).34
+   * Bird Navigation: The radical pair mechanism in avian magnetoreception relies on quantum entanglement that is shielded from decoherence by specific non-Markovian noise.35
+Insight: If biology—a macroscopic, hot, wet system—can utilize Quantum Memory Models to function, it is plausible that the universe itself utilizes similar mechanisms at the Planck scale to self-organize.
+6.3 The Loschmidt Echo
+The Loschmidt Echo ($M(t)$) measures the reversibility of quantum evolution. It is defined as the overlap between a state evolved forward by $H_0$ and then backward by a perturbed Hamiltonian $H_0 + \Sigma$.
+
+
+
+
+$$M(t) = | \langle \psi_0 | e^{i(H_0+\Sigma)t} e^{-iH_0 t} | \psi_0 \rangle |^2$$
+
+
+In fractional quantum mechanics, the decay of the Loschmidt Echo follows a power law rather than an exponential.14
+      * Experimental Probe: Measuring the Loschmidt echo in quantum simulators (like topological SSH chains) is a proposed method to detect the signature of fractional dynamics and verify the QMM hypothesis.36
+________________
+7. Emergent Spacetime and Entropic Gravity
+The final pillar explains how the discrete, memory-laden causal set manifests as the smooth, gravitating spacetime we observe.
+7.1 "It from Bit" and the Geometry of Information
+The IGSOA-QMM framework is grounded in the "It from Bit" paradigm. The fundamental reality is information (Bit); geometry (It) is a derived concept.1
+      * Information Geometry: "Distance" in this framework is a measure of information distinguishability (Fisher information metric). Two points in the causal set are "close" if the mutual information between them is high.
+7.2 Entropic Gravity
+Erik Verlinde's Entropic Gravity proposes that gravity is not a fundamental force but an entropic one, similar to the elasticity of a polymer or the pressure of a gas.37
+
+
+$$F = T \nabla S$$
+
+
+Gravity arises because mass distributions alter the information content (entropy) of the vacuum.
+      * The Transactional Connection: Recent literature connects Entropic Gravity with the Transactional Interpretation of QM. A "transaction" (collapse event) creates a spacetime interval. The accumulation of these transactions generates the causal set. The gravitational force is the thermodynamic tendency of the network to maximize the number of possible transactions (maximize entropy).37
+7.3 Mach's Principle Redux
+In this view, inertia is not intrinsic to a body but is a measure of its coupling to the entire causal network. The literature shows that Entropic principles can derive a Machian relation:
+
+
+
+
+$$G \sim \frac{R_{Hubble} c^2}{M_{universe}}$$
+
+
+This relation rigorously links local physics ($G$) to global geometry ($M, R$), validating the holistic nature of the IGSOA-QMM.37
+________________
+8. Synthesis: The Architecture of IGSOA-QMM
+Integrating the findings from this comprehensive literature search, we can now articulate the full IGSOA-QMM framework.
+1. The Substrate: The universe is a Causal Set—a discrete, growing network of events. This is the IGSOA (Informational Ground State manifested as a self-organizing Architecture).
+2. The Growth Rule: The network grows via a stochastic process governed by Prime Number Statistics. The distribution of primes defines the "resonant frequencies" of the vacuum, injecting Quantum Chaos and breaking Lorentz Symmetry at the Planck scale.
+3. The Dynamics: The evolution of states on this network is Fractional. Due to the fractal/porous nature of the set, propagators are Lévy Flights (Space-Fractional) and evolution involves Power-Law Memory (Time-Fractional). This is the QMM (Quantum Memory Model).
+4. The Materiality: This combination makes spacetime behave as a Viscoelastic Medium. It has "elasticity" (gravity) and "viscosity" (memory/inertia).
+5. The Emergence: Macroscopic spacetime and General Relativity emerge as the Thermodynamic Limit of this system. Gravity is the Entropic Force driving the network's growth toward maximum information content.
+Proposed Experimental Validations
+Based on the literature, the following experiments could support IGSOA-QMM:
+      1. Solid State: Detect spectral signatures of primes in the noise of floating-gate devices.30
+      2. Quantum Simulation: Measure the Loschmidt Echo in topological systems to look for power-law decay indicating fractional time evolution.36
+      3. Optics: Use non-linear photonic lattices to simulate the Space-Fractional Schrödinger Equation and observe anomalous Lévy wave packet spreading.39
+      4. Cosmology: Analyze the Cosmic Microwave Background (CMB) for non-Gaussianities that match the specific "bispectrum" predicted by Prime Number/GUE statistics.
+Conclusion
+The IGSOA-QMM framework represents a bold convergence of disparate fields. The literature search confirms that the mathematical tools (Fractional Calculus, Causal Sets) and physical principles (Entropic Gravity, Non-Markovianity, Quantum Chaos) are not only robust individually but share deep, structural connections. The "viscoelastic" nature of fractional dynamics provides the missing link between the static "Block Universe" and the dynamic "Becoming Universe," while Prime Number statistics provide the necessary order-in-chaos to structure the vacuum. Future research must focus on the rigorous derivation of the "Fractional Benincasa-Dowker Action" to formally unite the kinematic and dynamic sectors of this promising framework.
+Works cited
+      1. Information Mechanics: The Dynamics of “It from Bit” - Global Journals, accessed December 6, 2025, https://globaljournals.org/GJSFR_Volume20/3-Information-Mechanics-The-Dynamics.pdf
+      2. Bit from It - Julian Barbour, accessed December 6, 2025, http://platonia.com/bit_from_it.pdf
+      3. Time-Fractional Evolution of Quantum Dense Coding Under Amplitude Damping Noise, accessed December 6, 2025, https://www.mdpi.com/2504-3110/9/8/501
+      4. arXiv:2304.13041v1 [physics.gen-ph] 25 Apr 2023, accessed December 6, 2025, https://arxiv.org/pdf/2304.13041
+      5. Proof of the Generalized Riemann Hypothesis - Zenodo, accessed December 6, 2025, https://zenodo.org/records/15036837/files/Niemi_GRH_PROOF.pdf?download=1
+      6. arXiv:1102.5356v1 [math-ph] 25 Feb 2011, accessed December 6, 2025, https://arxiv.org/pdf/1102.5356
+      7. The Action of a Causal Set - CORE, accessed December 6, 2025, https://core.ac.uk/download/pdf/76990855.pdf
+      8. Causal sets - Wikipedia, accessed December 6, 2025, https://en.wikipedia.org/wiki/Causal_sets
+      9. Benincasa-Dowker causal set actions by quantum counting - arXiv, accessed December 6, 2025, https://arxiv.org/pdf/2505.22217
+      10. arxiv.org, accessed December 6, 2025, https://arxiv.org/html/2505.22217v1
+      11. The Discrete Causal Action and Holes in Spacetime - Imperial College London, accessed December 6, 2025, https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/theoretical-physics/msc/dissertations/2023/Joshua-Chevalier-Dissertation.pdf
+      12. Present Quantum Gravity - OSF, accessed December 6, 2025, https://osf.io/shu5r_v8/download/?format=pdf
+      13. Fractional integrodifferential equations and (anti-)hermiticity of time in a spacetime-symmetric extension of nonrelativistic Quantum Mechanics - ResearchGate, accessed December 6, 2025, https://www.researchgate.net/publication/366602902_Fractional_integrodifferential_equations_and_anti-hermiticity_of_time_in_a_spacetime-symmetric_extension_of_nonrelativistic_Quantum_Mechanics
+      14. Fractional Quantum Mechanics - ResearchGate, accessed December 6, 2025, https://www.researchgate.net/publication/12238648_Fractional_Quantum_Mechanics
+      15. Forward and backward problems for abstract time-fractional Schrödinger equations - arXiv, accessed December 6, 2025, https://arxiv.org/html/2510.03600v1
+      16. The impact of memory effect on space fractional strong quantum couplers with tunable decay behavior and its numerical simulation - NIH, accessed December 6, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC8119730/
+      17. Anomalous Relaxation and Three-Level System: A Fractional Schrödinger Equation Approach - MDPI, accessed December 6, 2025, https://www.mdpi.com/2624-960X/5/2/29
+      18. On the Quantum Mechanics of Collision Processes [English Translation] - ResearchGate, accessed December 6, 2025, https://www.researchgate.net/publication/354338542_On_the_Quantum_Mechanics_of_Collision_Processes_English_Translation
+      19. Sarathi - 2021 - J. - Phys. - Commun. - 5 - 065006 I | PDF | Schrödinger Equation | Physical Cosmology - Scribd, accessed December 6, 2025, https://www.scribd.com/document/898204016/Sarathi-2021-J-Phys-Commun-5-065006-i
+      20. Fractional Quantum Mechanics - ResearchGate, accessed December 6, 2025, https://www.researchgate.net/publication/327033127_Fractional_Quantum_Mechanics
+      21. Fractional Kelvin–Voigt Model for Beam Vibrations: Numerical Simulations and Approximation Using a Classical Model - MDPI, accessed December 6, 2025, https://www.mdpi.com/2079-9292/14/10/1918
+      22. arXiv:1110.3400v1 [cond-mat.mtrl-sci] 15 Oct 2011, accessed December 6, 2025, https://arxiv.org/pdf/1110.3400
+      23. arxiv.org, accessed December 6, 2025, https://arxiv.org/html/2510.11765
+      24. constitutive modeling and experimental identification of material parameters of viscoelastic materials by variable, accessed December 6, 2025, https://open.metu.edu.tr/bitstream/handle/11511/114097/CONSTITUTIVE_MODELING_and_EXPERIMENTAL_IDENTIFICATION_of_MATERIAL_PARAMETERS_of_VISCOELASTIC_MATERIALS_by_VARIABLE_ORDER_NON_INTEGER_DERIVATIVES.pdf
+      25. Network Viscoelasticity from Brillouin Spectroscopy - PMC - NIH, accessed December 6, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC10865340/
+      26. Fractional Calculus Approach to Reproduce Material Viscoelastic Behavior, including the Time–Temperature Superposition Phenomenon - MDPI, accessed December 6, 2025, https://www.mdpi.com/2073-4360/14/20/4412
+      27. Chronon Field Theory Explained: An Intuitive Introduction to Emergent Spacetime, Gauge Interactions, Quantum Foundation and Cosmology - Preprints.org, accessed December 6, 2025, https://www.preprints.org/manuscript/202510.2443
+      28. LOG#050. Why riemannium?, accessed December 6, 2025, https://thespectrumofriemannium.wordpress.com/2012/11/07/log050-why-riemannium/
+      29. (PDF) A Fowler-Nordheim Integrator can Track the Density of Prime Numbers, accessed December 6, 2025, https://www.researchgate.net/publication/321375045_A_Fowler-Nordheim_Integrator_can_Track_the_Density_of_Prime_Numbers
+      30. (PDF) Will a physicist prove the Riemann Hypothesis? - ResearchGate, accessed December 6, 2025, https://www.researchgate.net/publication/266561136_Will_a_physicist_prove_the_Riemann_Hypothesis
+      31. symmetry-breaking, phase transitions and number theory, accessed December 6, 2025, https://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/symmetrybreaking.htm
+      32. Foundational Mathematics of p-adic Numbers and Adelic Structures - Perplexity, accessed December 6, 2025, https://www.perplexity.ai/page/adelic-aligned-p-adic-spacetim-jb..gTZ.TfyPZSPrpnzJVw
+      33. Quantum speed limit time and entanglement in a non-Markovian evolution of spin qubits of coupled quantum dots | Request PDF - ResearchGate, accessed December 6, 2025, https://www.researchgate.net/publication/343375728_Quantum_speed_limit_time_and_entanglement_in_a_non-Markovian_evolution_of_spin_qubits_of_coupled_quantum_dots
+      34. quantum physics relativity: Topics by Science.gov, accessed December 6, 2025, https://www.science.gov/topicpages/q/quantum+physics+relativity
+      35. quantum tunneling effect: Topics by Science.gov, accessed December 6, 2025, https://www.science.gov/topicpages/q/quantum+tunneling+effect
+      36. 1 Introduction - arXiv, accessed December 6, 2025, https://arxiv.org/html/2510.08167
+      37. On Mach's Principle in Entropic Gravity - MDPI, accessed December 6, 2025, https://www.mdpi.com/2673-9321/4/2/11
+      38. On the Value of the Cosmological Constant in Entropic Gravity - arXiv, accessed December 6, 2025, https://arxiv.org/pdf/2405.14803
+      39. Memory-induced weak dissipation in fractional-time-derivative quantum Lindblad-based model - AIP Publishing, accessed December 6, 2025, https://pubs.aip.org/aip/apq/article/1/1/016112/3278520/Memory-induced-weak-dissipation-in-fractional-time
