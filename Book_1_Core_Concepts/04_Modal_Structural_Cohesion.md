@@ -125,39 +125,8 @@ The coupling respects the relational ontology and prohibits any symmetry-restora
 $$ \frac{\partial S_{MSC}}{\partial t} = -\alpha \cdot |DFVM| + \beta \cdot \text{constraint\_repair} $$
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-
 Interpretation:
 
-=======
-
-Interpretation:
-
->>>>>>> theirs
-=======
-
-Interpretation:
-
->>>>>>> theirs
-=======
-
-Interpretation:
-
->>>>>>> theirs
-=======
-
-Interpretation:
-
->>>>>>> theirs
-=======
-
-Interpretation:
-
->>>>>>> theirs
 * **DFVM perturbs MSC:** The magnitude of DFVM turbulence erodes $S_{MSC}$ at rate $\alpha$, representing destabilization without invoking external observers.
 * **MSC damps DFVM:** Constraint repair mediated by $\beta$ channels DFVM dynamics, with $\kappa(S_{MSC})$ encoding how supercritical cohesion conditions the next-step flow without restoring symmetry or reversing time.
 * **Collapse pressure:** If $\alpha |DFVM|$ dominates, $S_{MSC}$ trends toward the collapse condition ($S_{MSC} \to 0$), signaling identity dissolution.
@@ -254,28 +223,9 @@ If $S_{MSC} \leq \varepsilon_2$, the measurement decoheres and no persistent rec
 | Backreaction runaway | Excess $\Delta E$ | Local DFVM disorder |
 | Entropic flooding | High $\Delta S$ | Loss of information channel |
 
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-=======
 Every execution of $\mathcal{M}$ must satisfy $\Delta S_{entropy} > 0$; any attempt to null or reverse entropy production is classified as a prohibited symmetry-restoration request and is halted. Detected failures (decoherence, backreaction runaway, or entropic flooding) are logged for auditability and to enforce the DFVM-only placement of stochasticity.
 
->>>>>>> theirs
-=======
-Every execution of $\mathcal{M}$ must satisfy $\Delta S_{entropy} > 0$; any attempt to null or reverse entropy production is classified as a prohibited symmetry-restoration request and is halted. Detected failures (decoherence, backreaction runaway, or entropic flooding) are logged for auditability and to enforce the DFVM-only placement of stochasticity.
-
->>>>>>> theirs
-=======
-Every execution of $\mathcal{M}$ must satisfy $\Delta S_{entropy} > 0$; any attempt to null or reverse entropy production is classified as a prohibited symmetry-restoration request and is halted. Detected failures (decoherence, backreaction runaway, or entropic flooding) are logged for auditability and to enforce the DFVM-only placement of stochasticity.
-
->>>>>>> theirs
-=======
-Every execution of $\mathcal{M}$ must satisfy $\Delta S_{entropy} > 0$; any attempt to null or reverse entropy production is classified as a prohibited symmetry-restoration request and is halted. Detected failures (decoherence, backreaction runaway, or entropic flooding) are logged for auditability and to enforce the DFVM-only placement of stochasticity.
-
->>>>>>> theirs
 ### Failure Mode: Ambiguous Relational Record (Quantum Indeterminacy)
-A failure mode occurs when the imposed boundary condition is insufficient, or the DFVM flow too turbulent, to stabilize a clear relational record within the MSC field. This results in an ambiguous or superpositional state where multiple potential relational patterns persist without collapsing into a singular, coherent measurement outcome. This "quantum indeterminacy" is thus not a fundamental mystery of observation, but a failure of the measurement process to establish a sufficiently strong and stable relational record, leaving the local MSC in a critical or subcritical state. Such a failure directly impacts the integrity of causal geometries (IGSOA) by preventing the formation of definite historical events.
 
 ### Ontological Layer Attribution:
 This section heavily draws upon and integrates DFVM (Discrete Fractal Volume Model) as the medium of perturbable flow, MSC (Modal Structural Cohesion) as the field whose stability is affected and recorded, and MBC (Modal Boundary Conditions) as the mechanisms that allow for the stabilization of the measurement record. The underlying relational dynamics are rooted in MSP (Monistic Substrate Primacy). The irreversibility ties into SATP (Scale-Adaptive Transport Logic) and its thermodynamic implications, while the emergent information contributes to IGSOA (Integrated General Ontological Structure and Agency).
@@ -317,28 +267,6 @@ A failure mode occurs when a semantic quantity, despite potentially existing as 
 This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy) as the source of raw relations, MSC (Modal Structural Cohesion) for pattern stabilization, DFVM (Discrete Fractal Volume Model) as the medium of physical manifestation and perturbation, and SATP (Scale-Adaptive Transport Logic) for governing the rules of interaction and propagation. The result directly informs IGSOA (Integrated General Ontological Structure and Agency) by defining what can constitute a physically real causal structure.
 
 ## F.1 Failure Modes Across the Stack
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-
-| Failure Mode | Trigger | Layer | Result |
-| --- | --- | --- | --- |
-| MSC decay | Excess DFVM turbulence | Structural | Identity dissolution |
-| DFVM runaway | Inadequate MSC damping | Dynamical | Chaotic flow |
-| SATP wall failure | Gradient blow-up | Physical | Translation loss |
-
-=======
->>>>>>> theirs
-=======
->>>>>>> theirs
-=======
->>>>>>> theirs
-=======
->>>>>>> theirs
-=======
->>>>>>> theirs
 
 | Failure Mode | Trigger | Layer | Result |
 | --- | --- | --- | --- |
@@ -348,5 +276,4 @@ This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy)
 | Randomness leakage | $\xi$ injected outside DFVM | Ontological | Hard stop; compliance report and containment |
 
 Any detected randomness leakage triggers an immediate ontological hard stop: stochastic terms are quarantined to DFVM, the interface is re-audited for irreversibility and non-essentialist identity, and a compliance report is filed before operations resume.
-
 

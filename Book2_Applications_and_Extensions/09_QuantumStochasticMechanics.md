@@ -39,28 +39,7 @@ Formally, DFVM flow evolves as
 
 $$DFVM_{t+1} = F(DFVM_t, MSC) + \xi(x,t)$$
 
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-where $\xi(x,t)$ is a zero-mean, bounded stochastic perturbation. The perturbation modulates directed flow but cannot directly alter MSC without mediation through DFVM.
-=======
-where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. The perturbation modulates directed flow irreversibly but cannot directly alter MSC without mediation through DFVM.
->>>>>>> theirs
-=======
 where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. The perturbation modulates directed flow irreversibly but cannot directly alter MSC without mediation through DFVM. Any appearance of $\xi$ outside DFVM constitutes ontological leakage, triggers an immediate hard-stop audit logged in the Randomness Placement Log, and is rejected until contained.
->>>>>>> theirs
-=======
-where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. The perturbation modulates directed flow irreversibly but cannot directly alter MSC without mediation through DFVM. Any appearance of $\xi$ outside DFVM constitutes ontological leakage, triggers an immediate hard-stop audit logged in the Randomness Placement Log, and is rejected until contained.
->>>>>>> theirs
-=======
-where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. The perturbation modulates directed flow irreversibly but cannot directly alter MSC without mediation through DFVM. Any appearance of $\xi$ outside DFVM constitutes ontological leakage, triggers an immediate hard-stop audit logged in the Randomness Placement Log, and is rejected until contained.
->>>>>>> theirs
-=======
-where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. The perturbation modulates directed flow irreversibly but cannot directly alter MSC without mediation through DFVM. Any appearance of $\xi$ outside DFVM constitutes ontological leakage, triggers an immediate hard-stop audit logged in the Randomness Placement Log, and is rejected until contained.
->>>>>>> theirs
-
 ### What Randomness Can and Cannot Do
 
 | Randomness Can | Randomness Cannot |
