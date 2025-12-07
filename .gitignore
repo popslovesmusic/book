@@ -39,6 +39,8 @@ ehthumbs.db
 # Logs and reports
 *.log
 reports/
+!reports/
+!reports/symbol_object_index.json5
 
 # Specific to this project - if any
 # My custom agent logs

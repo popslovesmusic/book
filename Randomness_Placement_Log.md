@@ -8,12 +8,18 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
 >>>>>>> theirs
 =======
 - Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
 - Re-certified DFVM-only placement after adding explicit leakage hard-stop language in QSM and banning stochastic forcing from SATP formulations.
+>>>>>>> theirs
+=======
+- Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
+- Re-certified DFVM-only placement after adding explicit leakage hard-stop language in QSM and banning stochastic forcing from SATP formulations.
+- Recorded master enforcement directive: $\xi$ must remain zero-mean, bounded, non-agentic, and irreversible; appearance in MSP, MSC, MBC, IGSOA, or SATP triggers immediate processing halt plus entries in this log and the Global Compliance Re-Audit.
 >>>>>>> theirs
 =======
 - Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
