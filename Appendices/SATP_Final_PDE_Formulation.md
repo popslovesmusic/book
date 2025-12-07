@@ -13,7 +13,10 @@ Subject to bounds:
 These constraints preserve finite propagation, forbid superluminal worldlines, and avoid any symmetry restoration.
 
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 ### Regularity and growth assumptions
 
 To align with standard hyperbolic PDE theory, we assume:
@@ -31,6 +34,9 @@ $$ \frac{dE}{dt} \lesssim \int |\partial_t \phi| \cdot |J_{SATP}| \, dV + \int |
 
 so bounded sources and bounded $\partial_t c_{eff}$ keep $E(t)$ controlled alongside the gradient and time-derivative caps above. The hyperbolic classification remains intact, and the energy bound reinforces the prohibition on thin-wall forcing and unbounded curvature.
 
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 ## CFL-Type Stability Bound
 A Courant–Friedrichs–Lewy constraint governs stable discretizations:
@@ -40,6 +46,11 @@ $$ \Delta t \leq \frac{\Delta x}{\max(c_{eff})} $$
 Violation produces numerical blow-up and unphysical “translation,” invalidating simulations and any operational mission profile.
 
 <<<<<<< ours
+<<<<<<< ours
+=======
+For a second-order centered finite-difference scheme on this hyperbolic system, the CFL bound is required to keep the discrete energy consistent with $E(t)$ above; respecting $\Delta t \leq \Delta x / \max(c_{eff})$ ensures the discrete solution inherits the continuous finite-propagation behavior.
+
+>>>>>>> theirs
 =======
 For a second-order centered finite-difference scheme on this hyperbolic system, the CFL bound is required to keep the discrete energy consistent with $E(t)$ above; respecting $\Delta t \leq \Delta x / \max(c_{eff})$ ensures the discrete solution inherits the continuous finite-propagation behavior.
 
@@ -59,6 +70,12 @@ Sharper gradients raise the energetic cost, disallowing thin-wall shortcuts and 
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
+=======
+## Randomness Exclusion and Mediation
+No stochastic forcing term is permitted directly in the SATP equations. Randomness is confined to DFVM stochastic modulation and may influence SATP only through MSC-mediated DFVM coupling; any attempt to inject $\xi$ at the SATP layer is an ontological violation that triggers immediate containment and audit.
+
+>>>>>>> theirs
 =======
 ## Randomness Exclusion and Mediation
 No stochastic forcing term is permitted directly in the SATP equations. Randomness is confined to DFVM stochastic modulation and may influence SATP only through MSC-mediated DFVM coupling; any attempt to inject $\xi$ at the SATP layer is an ontological violation that triggers immediate containment and audit.

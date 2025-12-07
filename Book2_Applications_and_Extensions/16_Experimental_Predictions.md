@@ -55,7 +55,10 @@ $$ \partial_t^2 \phi - c_{eff}^2(x,t) \nabla^2 \phi + V'(\phi) = J_{SATP} $$
 with $|\nabla \phi| < G_{max}$ and $|\partial_t \phi| < T_{max}$ ensuring finite propagation speeds and excluding superluminal worldlines or symmetry restoration.
 
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 Assumptions for standard energy methods:
 
 * $c_{eff}(x,t)$ is bounded and Lipschitz with $0 < c_{min} \leq c_{eff}(x,t) \leq c_{max}$.
@@ -71,6 +74,9 @@ $$ \frac{dE}{dt} \lesssim \int |\partial_t \phi| \cdot |J_{SATP}| \, dV + \int |
 
 so controlled sources and smooth $c_{eff}$ keep the continuous energy finite while reinforcing the gradient and time-derivative caps.
 
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 ### CFL-Type Stability Bound (Falsifiable)
 
@@ -79,6 +85,11 @@ $$ \Delta t \leq \frac{\Delta x}{\max(c_{eff})} $$
 Violation leads to numerical blow-up and unphysical “translation,” rendering simulations or mission profiles invalid; adherence is required for any experimental or computational test.
 
 <<<<<<< ours
+<<<<<<< ours
+=======
+For a second-order centered finite-difference discretization, the CFL bound ensures the discrete scheme inherits the continuous hyperbolic finite-propagation behavior encoded in $E(t)$ and the gradient/time bounds.
+
+>>>>>>> theirs
 =======
 For a second-order centered finite-difference discretization, the CFL bound ensures the discrete scheme inherits the continuous hyperbolic finite-propagation behavior encoded in $E(t)$ and the gradient/time bounds.
 

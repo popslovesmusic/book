@@ -35,6 +35,19 @@ with the following interpretations:
 * $\rho_{rel}$ increases with redundant relational binding, constraint closure, and cross-scale coherence.
 * $\sigma_{pert}$ increases with DFVM turbulence, SATP gradient stress, and external perturbations.
 
+<<<<<<< ours
+=======
+**Functional Domain and Model Choices (well-posedness exemplar):**
+
+* Let $\Omega \subset \mathbb{R}^n$ be a bounded physical region and take $\Psi \in H^1(\Omega)$ (Sobolev space of square-integrable configurations with square-integrable gradients). This choice keeps $S_{MSC}[\Psi]$ finite and controls both amplitude and local roughness without imposing substance-like ontology.
+* A tractable model pair of functionals—explicitly illustrative, not axiomatic—is
+
+  $$\rho_{rel}(\Psi) = \int_\Omega |\Psi|^2 \, dV, \qquad \sigma_{pert}(\Psi) = \int_\Omega |\nabla \Psi|^2 \, dV,$$
+
+  so that $S_{MSC}[\Psi] = \int_\Omega (|\Psi|^2 - |\nabla \Psi|^2) \, dV$ remains finite for $\Psi \in H^1(\Omega)$ and captures (a) redundant relational binding through amplitude and (b) destabilizing perturbations through gradient cost.
+* Regime thresholds can then be grounded in norms: pick $0 < \varepsilon_1 < \varepsilon_2$ with $\varepsilon_1, \varepsilon_2$ tied to energy-like bounds (e.g., fractions of $\|\Psi\|^2_{H^1}$ or application-specific safety margins). This renders $S_{MSC} < \varepsilon_1$ and $S_{MSC} > \varepsilon_2$ computable and meaningful, while preserving flexibility to swap in alternative admissible functionals consistent with MSC’s relational, non-substantialist doctrine.
+
+>>>>>>> theirs
 **Collapse Condition:**
 
 $$S_{MSC} \to 0 \Rightarrow \text{identity collapse}$$
@@ -127,6 +140,7 @@ $$ \frac{\partial S_{MSC}}{\partial t} = -\alpha \cdot |DFVM| + \beta \cdot \tex
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 Interpretation:
@@ -155,6 +169,13 @@ Interpretation:
 
 >>>>>>> theirs
 =======
+>>>>>>> theirs
+=======
+
+$$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
+
+Interpretation:
+
 >>>>>>> theirs
 * **DFVM perturbs MSC:** The magnitude of DFVM turbulence erodes $S_{MSC}$ at rate $\alpha$, representing destabilization without invoking external observers.
 * **MSC damps DFVM:** Constraint repair mediated by $\beta$ channels DFVM dynamics, with $\kappa(S_{MSC})$ encoding how supercritical cohesion conditions the next-step flow without restoring symmetry or reversing time.
@@ -309,11 +330,15 @@ Any detected randomness leakage triggers an immediate ontological hard stop: sto
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 =======
 >>>>>>> theirs
 =======
 >>>>>>> theirs
+
+>>>>>>> theirs
+=======
 
 >>>>>>> theirs
 =======

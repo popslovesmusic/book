@@ -43,6 +43,10 @@ reports/
 !reports/symbol_object_index.json5
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
+=======
+!reports/Math_Rigour_Status.json5
+>>>>>>> theirs
 =======
 !reports/Math_Rigour_Status.json5
 >>>>>>> theirs

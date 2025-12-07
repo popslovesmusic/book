@@ -8,6 +8,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 
 ## Findings
 <<<<<<< ours
@@ -49,6 +50,11 @@
 
 ## Findings
 >>>>>>> theirs
+=======
+- Equation-level structural audit (MSC, DFVM stochasticity, measurement operator, SATP PDE/bounds, entropy link)
+
+## Findings
+>>>>>>> theirs
 - No RMF violations detected; relational primacy, non-essentialist identity, irreversibility, and NO observer primacy remain intact.
 - Randomness confined to DFVM stochastic modulation with no symmetry restoration; any leakage beyond DFVM triggers a hard-stop audit.
 - Measurement remains energetic and relational with $\Delta S_{entropy} > 0$; records require supercritical MSC and failures are audit-logged.
@@ -61,6 +67,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Master enforcement directive reaffirmed: $\xi$ observed outside DFVM or stochastic forcing within SATP mandates immediate halt, log entry, and recertification.
 >>>>>>> theirs
@@ -76,6 +83,8 @@
 - Equation structural audit executed: confirmed MSC functional/regimes, DFVM update, measurement operator, entropy link, and SATP PDE/CFL/cost inequalities all compare like quantities with hyperbolic classification retained and no randomness leakage or observer primacy reintroduction.
 >>>>>>> theirs
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 =======
@@ -86,11 +95,18 @@
 - Limiting sanity checks recorded: SATP wave-limit reduction preserves hyperbolic/CFL governance; MSC cohesion responds monotonically to $\rho_{rel}$ vs. $\sigma_{pert}$ extremes; entropy growth tracks cohesion decay without violating irreversibility or identity constraints.
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 >>>>>>> theirs
 =======
 - Math_Rigour_Status.json5 generated to tag key claims (randomness placement, measurement irreversibility, MSC cohesion, SATP bounds) as asserted or sketched, highlighting proof gaps without altering locked constraints.
 >>>>>>> theirs
 =======
+- Math_Rigour_Status.json5 generated to tag key claims (randomness placement, measurement irreversibility, MSC cohesion, SATP bounds) as asserted or sketched, highlighting proof gaps without altering locked constraints.
+- Added SATP regularity and potential-growth assumptions, an energy functional with a source-dominated $\tfrac{dE}{dt}$ bound, and a CFL explanation tied to discrete energy control; no stochastic forcing, observer primacy, or symmetry restoration introduced.
+- Formalized DFVM stochasticity on $(\Omega, \mathcal{F}, \mathbb{P})$ with discrete and Itô SPDE forms using bounded, zero-mean noise; MSC remains responsive only through DFVM coupling and stochastic terms stay excluded from MSP, MBC, IGSOA, and SATP.
+>>>>>>> theirs
+=======
+- MSC functional domain clarified with an $H^1(\Omega)$ exemplar, illustrating admissible $\rho_{rel}$ and $\sigma_{pert}$ choices and norm-based regime thresholds while keeping identity non-essentialist and collapse = cohesion loss.
 - Math_Rigour_Status.json5 generated to tag key claims (randomness placement, measurement irreversibility, MSC cohesion, SATP bounds) as asserted or sketched, highlighting proof gaps without altering locked constraints.
 - Added SATP regularity and potential-growth assumptions, an energy functional with a source-dominated $\tfrac{dE}{dt}$ bound, and a CFL explanation tied to discrete energy control; no stochastic forcing, observer primacy, or symmetry restoration introduced.
 - Formalized DFVM stochasticity on $(\Omega, \mathcal{F}, \mathbb{P})$ with discrete and Itô SPDE forms using bounded, zero-mean noise; MSC remains responsive only through DFVM coupling and stochastic terms stay excluded from MSP, MBC, IGSOA, and SATP.
@@ -116,6 +132,10 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
+>>>>>>> theirs
+=======
+- Randomness governance: DFVM-only stochastic modulation with zero-mean, bounded, non-agentic $\xi$; leakage triggers logs in the Randomness Placement Log and SATP exclusions reverified.
 >>>>>>> theirs
 =======
 - Randomness governance: DFVM-only stochastic modulation with zero-mean, bounded, non-agentic $\xi$; leakage triggers logs in the Randomness Placement Log and SATP exclusions reverified.
