@@ -27,6 +27,12 @@ $$ E_{exotic} \geq \int |\nabla \phi|^2 dV $$
 Sharper gradients raise the energetic cost, disallowing thin-wall shortcuts and favoring smooth profiles that minimize exotic load.
 
 <<<<<<< ours
+<<<<<<< ours
+=======
+## Randomness Exclusion and Mediation
+No stochastic forcing term is permitted directly in the SATP equations. Randomness is confined to DFVM stochastic modulation and may influence SATP only through MSC-mediated DFVM coupling; any attempt to inject $\xi$ at the SATP layer is an ontological violation that triggers immediate containment and audit.
+
+>>>>>>> theirs
 =======
 ## Randomness Exclusion and Mediation
 No stochastic forcing term is permitted directly in the SATP equations. Randomness is confined to DFVM stochastic modulation and may influence SATP only through MSC-mediated DFVM coupling; any attempt to inject $\xi$ at the SATP layer is an ontological violation that triggers immediate containment and audit.

@@ -6,12 +6,18 @@
 - Updated the Semantic → Physical Bridge summary to tie observability to irreversible records and MSC thresholds.
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Reaffirmed irreversibility and MSC-gated record persistence while adding ontological leakage monitoring to the cross-stack failure registry.
 >>>>>>> theirs
 =======
 - Reaffirmed irreversibility and MSC-gated record persistence while adding ontological leakage monitoring to the cross-stack failure registry.
 - Logged enforcement that each $\mathcal{M}$ invocation must maintain $\Delta S_{entropy} > 0$ and that detected failures are audit-tracked to reinforce DFVM-only stochasticity.
+>>>>>>> theirs
+=======
+- Reaffirmed irreversibility and MSC-gated record persistence while adding ontological leakage monitoring to the cross-stack failure registry.
+- Logged enforcement that each $\mathcal{M}$ invocation must maintain $\Delta S_{entropy} > 0$ and that detected failures are audit-tracked to reinforce DFVM-only stochasticity.
+- Re-certified measurement governance under the master directive: no observer primacy, no entropy-neutral paths, and mandatory logging of decoherence, backreaction runaway, or entropic flooding with links to Global Compliance Re-Audit.
 >>>>>>> theirs
 
 ## Compliance Notes

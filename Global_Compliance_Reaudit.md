@@ -7,6 +7,7 @@
 
 ## Findings
 <<<<<<< ours
+<<<<<<< ours
 - No RMF violations detected; relational primacy, non-essentialist identity, and irreversibility maintained.
 - Randomness confined to DFVM stochastic modulation with no observer primacy or symmetry restoration.
 - Measurement remains energetic and relational with $\Delta S_{entropy} > 0$; records require supercritical MSC.
@@ -16,11 +17,17 @@
 - Cross-stack failure registry extended to include randomness leakage hard-stop condition with mandatory containment and audit logging.
 >>>>>>> theirs
 =======
+=======
+>>>>>>> theirs
 - No RMF violations detected; relational primacy, non-essentialist identity, irreversibility, and NO observer primacy remain intact.
 - Randomness confined to DFVM stochastic modulation with no symmetry restoration; any leakage beyond DFVM triggers a hard-stop audit.
 - Measurement remains energetic and relational with $\Delta S_{entropy} > 0$; records require supercritical MSC and failures are audit-logged.
 - SATP constraints exclude superluminal propagation, time reversal, or free-energy loopholes via bounded gradients, CFL enforcement, and explicit stochastic exclusion.
 - Cross-stack failure registry updated to monitor randomness leakage, MSC decay, DFVM runaway, and SATP wall failure with hard-stop escalation paths.
+<<<<<<< ours
+=======
+- Master enforcement directive reaffirmed: $\xi$ observed outside DFVM or stochastic forcing within SATP mandates immediate halt, log entry, and recertification.
+>>>>>>> theirs
 
 ## Cross-Stack Failure Monitoring (Active)
 | Failure | Layer | Trigger | Response |
@@ -35,6 +42,10 @@
 - Identity non-essentialism: MSC attractor model preserved; collapse = cohesion loss without transfer.
 - Observer exclusion: No observer primacy or intrinsic knower introduced; records are relational and MSC-gated.
 - Symmetry restoration bans remain in force across MSP → SATP.
+<<<<<<< ours
+>>>>>>> theirs
+=======
+- Randomness governance: DFVM-only stochastic modulation with zero-mean, bounded, non-agentic $\xi$; leakage triggers logs in the Randomness Placement Log and SATP exclusions reverified.
 >>>>>>> theirs
 
 ## Status

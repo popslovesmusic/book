@@ -127,9 +127,15 @@ $$ \frac{\partial S_{MSC}}{\partial t} = -\alpha \cdot |DFVM| + \beta \cdot \tex
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 
 Interpretation:
 
+=======
+
+Interpretation:
+
+>>>>>>> theirs
 =======
 
 Interpretation:
@@ -237,6 +243,11 @@ If $S_{MSC} \leq \varepsilon_2$, the measurement decoheres and no persistent rec
 | Entropic flooding | High $\Delta S$ | Loss of information channel |
 
 <<<<<<< ours
+<<<<<<< ours
+=======
+Every execution of $\mathcal{M}$ must satisfy $\Delta S_{entropy} > 0$; any attempt to null or reverse entropy production is classified as a prohibited symmetry-restoration request and is halted. Detected failures (decoherence, backreaction runaway, or entropic flooding) are logged for auditability and to enforce the DFVM-only placement of stochasticity.
+
+>>>>>>> theirs
 =======
 Every execution of $\mathcal{M}$ must satisfy $\Delta S_{entropy} > 0$; any attempt to null or reverse entropy production is classified as a prohibited symmetry-restoration request and is halted. Detected failures (decoherence, backreaction runaway, or entropic flooding) are logged for auditability and to enforce the DFVM-only placement of stochasticity.
 
@@ -286,6 +297,7 @@ This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy)
 ## F.1 Failure Modes Across the Stack
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 
 | Failure Mode | Trigger | Layer | Result |
 | --- | --- | --- | --- |
@@ -293,6 +305,8 @@ This bridge explicitly integrates concepts from MSP (Monistic Substrate Primacy)
 | DFVM runaway | Inadequate MSC damping | Dynamical | Chaotic flow |
 | SATP wall failure | Gradient blow-up | Physical | Translation loss |
 
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 =======
