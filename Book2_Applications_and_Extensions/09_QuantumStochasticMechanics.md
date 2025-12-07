@@ -45,6 +45,7 @@ where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. T
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 
 >>>>>>> theirs
@@ -55,6 +56,8 @@ where $\xi(x,t)$ is a zero-mean, bounded, non-agentic stochastic perturbation. T
 
 >>>>>>> theirs
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 
@@ -77,6 +80,9 @@ To align with standard stochastic process formalisms, the DFVM update can be exp
 In both cases $\xi$ (or $\mathrm{d}W_t$) remains zero-mean, bounded-variance, and irreversible, and it cannot directly modify MSC; MSC responds only through the established DFVM↔MSC coupling law. No stochastic forcing is permitted in MSP, MBC, IGSOA, or SATP, and any detected leakage triggers hard-stop containment.
 
 <<<<<<< ours
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 =======
 >>>>>>> theirs

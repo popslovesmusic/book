@@ -56,7 +56,10 @@ with $|\nabla \phi| < G_{max}$ and $|\partial_t \phi| < T_{max}$ ensuring finite
 
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 Assumptions for standard energy methods:
@@ -75,6 +78,9 @@ $$ \frac{dE}{dt} \lesssim \int |\partial_t \phi| \cdot |J_{SATP}| \, dV + \int |
 so controlled sources and smooth $c_{eff}$ keep the continuous energy finite while reinforcing the gradient and time-derivative caps.
 
 <<<<<<< ours
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 =======
 >>>>>>> theirs
@@ -86,6 +92,11 @@ Violation leads to numerical blow-up and unphysical “translation,” rendering
 
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
+=======
+For a second-order centered finite-difference discretization, the CFL bound ensures the discrete scheme inherits the continuous hyperbolic finite-propagation behavior encoded in $E(t)$ and the gradient/time bounds.
+
+>>>>>>> theirs
 =======
 For a second-order centered finite-difference discretization, the CFL bound ensures the discrete scheme inherits the continuous hyperbolic finite-propagation behavior encoded in $E(t)$ and the gradient/time bounds.
 

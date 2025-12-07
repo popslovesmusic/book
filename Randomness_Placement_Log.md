@@ -14,6 +14,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Added ontological leakage guard: any $\xi$ outside DFVM triggers hard-stop audit and containment before operations resume.
 >>>>>>> theirs
@@ -37,6 +38,8 @@
 - Recorded master enforcement directive: $\xi$ must remain zero-mean, bounded, non-agentic, and irreversible; appearance in MSP, MSC, MBC, IGSOA, or SATP triggers immediate processing halt plus entries in this log and the Global Compliance Re-Audit.
 >>>>>>> theirs
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 =======
@@ -54,6 +57,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 >>>>>>> theirs
 =======
 - Performed limiting sanity checks (MSC cohesion extremes, SATP wave-limit reduction, entropy–cohesion link) and confirmed no scenarios permit relocating $\xi$ outside DFVM or bypassing MSC mediation.
@@ -63,6 +67,8 @@
 - Tagged DFVM randomness claims in reports/Math_Rigour_Status.json5 so assertion versus proof gaps are cataloged without relaxing the DFVM-only placement rule.
 >>>>>>> theirs
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 - Performed limiting sanity checks (MSC cohesion extremes, SATP wave-limit reduction, entropy–cohesion link) and confirmed no scenarios permit relocating $\xi$ outside DFVM or bypassing MSC mediation.
@@ -70,6 +76,9 @@
 - Recorded SATP energy and regularity reinforcement while reasserting that no stochastic term is admitted in SATP; any $\xi$ must continue to remain confined to DFVM with MSC-mediated influence only.
 - Formalized DFVM stochastic evolution on $(\Omega, \mathcal{F}, \mathbb{P})$ with discrete $DFVM_{n+1}=F(DFVM_n,MSC_n)+\xi_n$ and continuous Itô SPDE forms using bounded, zero-mean perturbations that remain DFVM-only and non-agentic.
 <<<<<<< ours
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 =======
 >>>>>>> theirs

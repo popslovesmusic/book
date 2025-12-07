@@ -36,7 +36,10 @@ with the following interpretations:
 * $\sigma_{pert}$ increases with DFVM turbulence, SATP gradient stress, and external perturbations.
 
 <<<<<<< ours
+<<<<<<< ours
 =======
+=======
+>>>>>>> theirs
 **Functional Domain and Model Choices (well-posedness exemplar):**
 
 * Let $\Omega \subset \mathbb{R}^n$ be a bounded physical region and take $\Psi \in H^1(\Omega)$ (Sobolev space of square-integrable configurations with square-integrable gradients). This choice keeps $S_{MSC}[\Psi]$ finite and controls both amplitude and local roughness without imposing substance-like ontology.
@@ -47,6 +50,9 @@ with the following interpretations:
   so that $S_{MSC}[\Psi] = \int_\Omega (|\Psi|^2 - |\nabla \Psi|^2) \, dV$ remains finite for $\Psi \in H^1(\Omega)$ and captures (a) redundant relational binding through amplitude and (b) destabilizing perturbations through gradient cost.
 * Regime thresholds can then be grounded in norms: pick $0 < \varepsilon_1 < \varepsilon_2$ with $\varepsilon_1, \varepsilon_2$ tied to energy-like bounds (e.g., fractions of $\|\Psi\|^2_{H^1}$ or application-specific safety margins). This renders $S_{MSC} < \varepsilon_1$ and $S_{MSC} > \varepsilon_2$ computable and meaningful, while preserving flexibility to swap in alternative admissible functionals consistent with MSC’s relational, non-substantialist doctrine.
 
+<<<<<<< ours
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 **Collapse Condition:**
 
@@ -141,6 +147,7 @@ $$ \frac{\partial S_{MSC}}{\partial t} = -\alpha \cdot |DFVM| + \beta \cdot \tex
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 Interpretation:
@@ -158,11 +165,14 @@ Interpretation:
 =======
 =======
 >>>>>>> theirs
+=======
+>>>>>>> theirs
 
 $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 
 Interpretation:
 
+<<<<<<< ours
 <<<<<<< ours
 >>>>>>> theirs
 =======
@@ -176,6 +186,8 @@ $$ DFVM_{t+1} = DFVM_t \oplus \kappa(S_{MSC}) $$
 
 Interpretation:
 
+>>>>>>> theirs
+=======
 >>>>>>> theirs
 * **DFVM perturbs MSC:** The magnitude of DFVM turbulence erodes $S_{MSC}$ at rate $\alpha$, representing destabilization without invoking external observers.
 * **MSC damps DFVM:** Constraint repair mediated by $\beta$ channels DFVM dynamics, with $\kappa(S_{MSC})$ encoding how supercritical cohesion conditions the next-step flow without restoring symmetry or reversing time.
@@ -259,6 +271,11 @@ $$ \mathcal{M} : (DFVM, MSC) \rightarrow (\Psi_{record}, \Delta E, \Delta S_{ent
 
 with $\Psi_{record}$ as the MSC-supported stabilized relational record, $\Delta E$ as irreversibly dissipated energy, and $\Delta S_{entropy} > 0$ enforcing irreversibility and excluding time-reversal or hidden observer effects.
 
+<<<<<<< ours
+=======
+Formally, $\mathcal{M}$ functions as a channel from system states to records: it can be realized as a completely positive, trace-preserving (CPTP) map in quantum analogies or as a Markov kernel in a classical stochastic setting, but in either case the map remains observer-independent. $\Delta E$ is the dissipated energetic cost (heat/work) of stabilizing a record, and $\Delta S_{entropy} > 0$ is a thermodynamic statement that anchors the measurement to irreversible entropy production rather than a slogan about epistemic updates.
+
+>>>>>>> theirs
 ### Record Stability Condition
 
 $$ \Psi_{record} \text{ is stable } \iff S_{MSC}(\Psi_{record}) > \varepsilon_2 $$
@@ -294,6 +311,11 @@ The transition from abstract semantic quantities to physically observable phenom
 
 The formal measurement operator $\mathcal{M}$ realizes this bridge by delivering $(\Psi_{record}, \Delta E, \Delta S_{entropy})$ with $\Delta S_{entropy} > 0$ and requiring $S_{MSC}(\Psi_{record}) > \varepsilon_2$ for persistence; otherwise the record decoheres and the semantic quantity remains non-observable.
 
+<<<<<<< ours
+=======
+$\mathcal{M}$ only outputs persistent records when the observability criterion is satisfied—that is, when $\Psi_{MSC}^*$ is supercritical, the induced DFVM modulation exceeds its detection threshold, and the coupling respects SATP transport; otherwise $\mathcal{M}$ produces transient or decohering artifacts that fail to register as observations.
+
+>>>>>>> theirs
 ### Formal Representation (Conceptual):
 Let $\mathcal{S}$ be a semantic quantity, represented by an MSC-stabilized relational pattern $\Psi_{MSC}^*$. Its physical observability, $\mathcal{O}$, can be expressed as:
 
@@ -331,11 +353,15 @@ Any detected randomness leakage triggers an immediate ontological hard stop: sto
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 =======
 >>>>>>> theirs
 =======
 >>>>>>> theirs
+
+>>>>>>> theirs
+=======
 
 >>>>>>> theirs
 =======

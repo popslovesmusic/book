@@ -14,6 +14,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 =======
 - Reaffirmed irreversibility and MSC-gated record persistence while adding ontological leakage monitoring to the cross-stack failure registry.
 >>>>>>> theirs
@@ -37,6 +38,8 @@
 - Re-certified measurement governance under the master directive: no observer primacy, no entropy-neutral paths, and mandatory logging of decoherence, backreaction runaway, or entropic flooding with links to Global Compliance Re-Audit.
 >>>>>>> theirs
 =======
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 =======
@@ -54,6 +57,7 @@
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 >>>>>>> theirs
 =======
 - Recorded limiting sanity checks tying $\Delta S_{entropy} > 0$ to cohesion decay narratives so that measurement irreversibility and MSC-gated records remain compatible with the entropy–MSC relation.
@@ -71,6 +75,12 @@
 - Recorded limiting sanity checks tying $\Delta S_{entropy} > 0$ to cohesion decay narratives so that measurement irreversibility and MSC-gated records remain compatible with the entropy–MSC relation.
 - Logged rigour status tags for measurement operator and record-stability claims in reports/Math_Rigour_Status.json5 to track proof depth without weakening irreversibility or MSC gating.
 - Confirmed the new SATP energy and regularity assumptions do not alter measurement governance: $\Delta S_{entropy} > 0$ remains mandatory, and observer-independent records stay MSC-gated.
+>>>>>>> theirs
+=======
+- Recorded limiting sanity checks tying $\Delta S_{entropy} > 0$ to cohesion decay narratives so that measurement irreversibility and MSC-gated records remain compatible with the entropy–MSC relation.
+- Logged rigour status tags for measurement operator and record-stability claims in reports/Math_Rigour_Status.json5 to track proof depth without weakening irreversibility or MSC gating.
+- Confirmed the new SATP energy and regularity assumptions do not alter measurement governance: $\Delta S_{entropy} > 0$ remains mandatory, and observer-independent records stay MSC-gated.
+- Clarified $\mathcal{M}$ as an observer-independent channel (CPTP or Markov kernel) that outputs persistent records only when the observability criterion is satisfied, with $\Delta E$ identified as dissipated heat/work and $\Delta S_{entropy} > 0$ anchored as a thermodynamic requirement.
 >>>>>>> theirs
 
 ## Compliance Notes
