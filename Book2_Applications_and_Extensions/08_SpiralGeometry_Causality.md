@@ -25,7 +25,7 @@ The logarithmic spiral acts as a conformal mapping `w = log(z)`, which linearize
 
 ## **8.5 Prime-Indexed Spiral Lattice**
 
-Assigning prime-indexed radii to angular coordinates forms a **prime spiral**—an aperiodic but statistically uniform distribution. Gaps between primes generate quasiperiodic radial intervals corresponding to echo delays and CMB anisotropies (Papers 05–06).
+Assigning prime-indexed radii to angular coordinates forms a **prime spiral**—an aperiodic but statistically uniform distribution. The distribution of gaps between primes, when used to define radial intervals, results in a quasiperiodic sequence corresponding to echo delays and CMB anisotropies (Papers 05–06).
 
 ## **8.6 Fractional Spiral Equation of Motion**
 

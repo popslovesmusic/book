@@ -21,7 +21,7 @@ The two formulations join through the **horizon-echo continuity condition**, dem
 
 ### **5.1. Objectives and evaluation criteria**
 
-We validate the *fractional + prime-shell echo* model along four axes:
+We validate the *fractional echo model with a prime-indexed shell structure* model along four axes:
 1.  **Parameter recovery**: infer theoretical parameters from synthetic strains and compare posteriors to ground truth.
 2.  **Model selection**: quantify evidence against competitive baselines (e.g., periodic echoes) via Bayes factors.
 3.  **Robustness**: measure degradation under colored, non-stationary noise and calibration errors.
@@ -45,7 +45,7 @@ ROC curves show that the fractional+prime model achieves high true-positive rate
 
 ### **5.6. Ablation studies**
 
-Removing prime irregularity or fractional memory significantly degrades fit quality and reduces Bayes factors, demonstrating the necessity of both components.
+Removing the irregularity from the prime-indexed delay model or fractional memory significantly degrades fit quality and reduces Bayes factors, demonstrating the necessity of both components.
 
 ### **5.7. Robustness and failure modes**
 
@@ -57,7 +57,7 @@ The paper provides details on code settings, computational cost, and measures ta
 
 ### **5.9. Summary of Section 5**
 
-Synthetic experiments demonstrate that fractional memory and prime-structured delay ladders imprint distinct, recoverable signatures in both time and frequency domains. The combined model outperforms classical alternatives and is computationally tractable for searches in real data.
+Synthetic experiments demonstrate that fractional memory and delay ladders based on a prime-indexed structure imprint distinct, recoverable signatures in both time and frequency domains. The combined model outperforms classical alternatives and is computationally tractable for searches in real data.
 
 ---
 
@@ -69,7 +69,7 @@ This appendix derives the fractional wave equation in a curved spacetime backgro
 
 ### **Appendix B — Prime Gap Delay Spectrum Derivation**
 
-This appendix details how the discretization of curvature shells by prime indices leads to a delay spectrum for echoes based on prime gaps. It shows that prime-gap fluctuations directly modulate the echo interval sequence, producing quasi-stochastic echo spacings. The Fourier representation of this spectrum results in a power-law frequency decay, matching the behavior of fractional damping.
+This appendix details how the discretization of curvature shells by prime indices leads to a delay spectrum for echoes based on prime gaps. It shows that fluctuations in the prime gaps, when used as a basis for the delay model, directly modulate the echo interval sequence, producing quasi-stochastic echo spacings. The Fourier representation of this spectrum results in a power-law frequency decay, matching the behavior of fractional damping.
 
 ### **Appendix C — Stochastic Resonance Integrals**
 

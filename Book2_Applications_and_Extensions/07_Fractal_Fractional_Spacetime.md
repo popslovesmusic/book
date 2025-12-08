@@ -33,7 +33,7 @@ A simple model metric `ds² = -c²dt²γt + a²(t)dr²γr` with distinct tempora
 
 ## **7.7 Connection to Previous Papers**
 
-The fractional orders α, β, and γ from Papers 04, 05, and 06 are projections of one underlying **Causal Memory Index (CMI)** that flows with scale. Fractional spacetime formalizes this same causal memory principle at the continuum limit.
+The fractional orders α and γ from Papers 04, 05, and 06 are projections of one underlying **Causal Memory Index (CMI)** that flows with scale. Fractional spacetime formalizes this same causal memory principle at the continuum limit.
 
 ## **7.8 Quantum–Classical Bridge**
 
@@ -48,7 +48,7 @@ Fractal spacetime is the living geometry of IGSOA’s causal monism. Smoothness 
 1.  **Scale-Dependent Dimension:** `Deff(ℓ)` flows from ~2 at the Planck scale to 4 at macroscopic scales.
 2.  **Modified Gravitational Potential:** `V(r) ∝ r⁻⁽¹⁺²⁽¹⁻γ⁾⁾`, testable in sub-millimeter experiments.
 3.  **Fractional Wave Dispersion:** Predicts a frequency-dependent speed for gravitational waves.
-4.  **CMB-Echo Continuity:** The memory index should be consistent across cosmological and astrophysical observations (`γ≈β≈αH`).
+4.  **CMB-Echo Continuity:** The memory index should be consistent across cosmological and astrophysical observations (`γ≈αH`).
 
 ## **7.11 Conclusion**
 

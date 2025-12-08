@@ -18,7 +18,7 @@ For compactness we set units so that the local light speed is 1 in the x-sector;
 
 **Boundary conditions.**
 *   x→+∞: purely outgoing radiation.
-*   x→−∞ (near-horizon cavity): outgoing toward the horizon, with **partial reflection** R from a microscopic structure encoded by prime shells. We operationalize this as an *effective, frequency-dependent reflectivity* R(f) applied at a proxy inner boundary x=xH.
+*   x→−∞ (near-horizon cavity): outgoing toward the horizon, with **partial reflection** R from a microscopic structure described by a prime-indexed shell model. We operationalize this as an *effective, frequency-dependent reflectivity* R(f) applied at a proxy inner boundary x=xH.
 
 ### **4.2. Time-domain scheme (convolutional memory)**
 
@@ -100,7 +100,7 @@ Given a whitened strain window after the main ringdown:
 
 ### **4.9. Summary of Section 4**
 
-We presented a concrete **time-domain solver** for fractional gravitational-wave propagation. This solver incorporates convolutional memory and a **prime-structured inner boundary** generating echoes. We also introduced a **frequency-domain** approximation that exposes the Mittag–Leffler filter, an **analytic toy model** clarifying hybrid quantization, and a **calibration pipeline** from data to the minimal parameter set {α,ν,τ∗,λ,β}. These tools make the “fractional + prime-shell” echo hypothesis **operationally testable** in current GW datasets.
+We presented a concrete **time-domain solver** for fractional gravitational-wave propagation. This solver incorporates convolutional memory and an inner boundary with a prime-indexed delay model generating echoes. We also introduced a **frequency-domain** approximation that exposes the Mittag–Leffler filter, an **analytic toy model** clarifying hybrid quantization, and a **calibration pipeline** from data to the minimal parameter set {α,ν,τ∗,λ,β}. These tools make the “fractional echo hypothesis with a prime-indexed shell model” **operationally testable** in current GW datasets.
 
 ---
 

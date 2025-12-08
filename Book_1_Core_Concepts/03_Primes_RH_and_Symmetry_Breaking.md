@@ -9,15 +9,15 @@ keywords: [Primes, Riemann Hypothesis, Symmetry Breaking, DFVM, Causal Asymmetry
 
 ## **Executive Summary**
 
-This paper establishes a bridge between **prime-number spectral structure** and **causal asymmetry** within the IGSOA framework, showing that non-Markovian fractional dynamics naturally generate **prime-like spectral distributions**.
-It argues that **symmetry breaking is not imposed** but **emerges from memory**, uniting causal time asymmetry with number-theoretic irregularity.
+This paper establishes a bridge between **prime-number spectral structure** and **causal asymmetry** within the IGSOA framework, showing that non-Markovian fractional dynamics naturally generate **spectral distributions with prime-like characteristics**.
+It argues that **symmetry breaking is not imposed** but **is a structural consequence of memory**, uniting causal time asymmetry with number-theoretic irregularity.
 
 The core mathematical systems used are:
 *   **Fractional Calculus:** to model non-local memory and causal retention.
-*   **Spiral Geometry:** to map fractional operators into geometric flows corresponding to logarithmic prime spirals.
+*   **Spiral Geometry:** to map fractional operators into geometric flows that can be charted using logarithmic prime spirals.
 *   **Lie Algebraic Curvature:** to link fractional operators to spectral symmetry and zeta-function analogues.
 
-The paper demonstrates a mathematical **isomorphism between fractional memory and prime irregularity**, provides geometric and algebraic verification of **causal self-symmetry breaking**, and offers a **computational reproducibility framework** aligning IGSOA predictions with QMM structure.
+The paper demonstrates a mathematical **isomorphism between fractional memory and prime-like irregularity**, provides geometric and algebraic verification of **causal self-symmetry breaking**, and offers a **computational reproducibility framework** aligning IGSOA predictions with QMM structure.
 
 ---
 
@@ -26,15 +26,15 @@ The paper demonstrates a mathematical **isomorphism between fractional memory an
 ### **Preamble**
 
 From a commitment to humility, honesty, and rigor, this work does not claim authority over the universe’s causal structure.
-It seeks instead to expose a possible language — mathematical and geometric — in which symmetry and asymmetry, order and irregularity, continuity and discreteness coexist as inseparable aspects of one ontological foundation. Both regard the universe as a self-referential network of causal information, understood as emergent relational dynamics rather than the intrinsic nature of the monistic substrate. In this view, structure emerges from the non-zero field of primordial asymmetry.
+It seeks instead to expose a possible language — mathematical and geometric — in which symmetry and asymmetry, order and irregularity, continuity and discreteness coexist as inseparable aspects of one ontological foundation. Both regard the universe as a self-referential network of causal information, understood as emergent relational dynamics rather than the intrinsic nature of the monistic substrate. In this view, structure is a consequence of the non-zero field of primordial asymmetry.
 
 ### **1. Introduction**
 
-Symmetry breaking stands as one of the most profound mechanisms in physical theory: it is how uniformity gives rise to structure.
+Symmetry breaking stands as one of the most profound mechanisms in physical theory; it is how uniformity gives rise to structure.
 The connection between **prime number distribution** and **spontaneous symmetry breaking** has long hovered at the intersection of mathematics and physics. This has been hinted at by the spectral behavior of the Riemann zeta function and by statistical analogies to quantum chaos.
 
-In the IGSOA framework, primes are not merely arithmetic curiosities; they are discrete representations of causal asymmetry — local distortions in an otherwise continuous informational substrate.
-Where Quantum Memory Mechanics (QMM) formalizes the retention and evolution of quantum information across spacetime, IGSOA extends this notion to the pre-quantum substrate. Here, **memory and causality** arise as consequences of structural irregularity.
+In the IGSOA framework, primes are not treated as causal agents, but as **descriptive modifiers** for causal asymmetry. They provide a useful mathematical tool to index and chart local distortions in an otherwise continuous informational substrate.
+Where Quantum Memory Mechanics (QMM) formalizes the retention and evolution of quantum information across spacetime, IGSOA extends this notion to the pre-quantum substrate. Here, **memory and causality** are consequences of structural irregularity.
 
 This paper establishes a mathematical parallel between **prime distributions**, **fractional memory operators**, and **symmetry-breaking fields**. It uses both **fractional calculus** and **spiral geometry** as dual representations of the same underlying causal process.
 A third formalism — **quantum stochastic mechanics** — will act as a bridging framework where probabilistic structure emerges from deterministic asymmetry. It is important to clarify that this framework describes emergent phenomena and does not attribute intrinsic agency to the substrate or its components. Any apparent 'agency' arising from causal self-interaction and feedback loops is strictly emergent.
@@ -46,18 +46,18 @@ A third formalism — **quantum stochastic mechanics** — will act as a bridgin
 IGSOA postulates a fundamental field e0≠0, representing the intrinsic asymmetry of the causal substrate.
 Perturbations from this equilibrium yield effective curvature and local energetic density.
 A fractional restoring law governs the dynamics:
-Frestore(t)=−κe0 _{0}D_tγ[L(t)−1],
+Frestore(t)=−κe0 D_t^γ[L(t)−1],
 where 0<γ≤1 encodes nonlocal temporal memory ([Appendix A](#appendix-a--formal-mathematical-foundations)).
 
 In QMM language, this term corresponds to a **fractional retention kernel** in the system’s quantum propagator — the mathematical equivalent of a “memory-bearing” Schrödinger evolution.
 
-#### **2.2 Primes as Discrete Causal Imprints**
+#### **2.2 A Prime-Indexed Description of Causal Asymmetry**
 
 Let pₙ denote the n-th prime number.
-In the **prime spiral geometry** ([Appendix B](#appendix-b--computational-and-numerical-framework)), each prime defines a discrete radius rₙ=pₙ, and the angular coordinate θₙ=2πpn defines a phase winding on a logarithmic spiral.
-The prime gaps gₙ=pₙ+1−pₙ act as causal intervals, mapping the irregular rhythm of discrete asymmetry to a continuous curvature field.
+In the **prime spiral geometry** ([Appendix B](#appendix-b--computational-and-numerical-framework)), each prime is used to define a discrete radius rₙ=pₙ, and the angular coordinate θₙ=2πpn defines a phase winding on a logarithmic spiral.
+The prime gaps gₙ=pₙ+1−pₙ are used to chart causal intervals, mapping the irregular rhythm of discrete asymmetry to a continuous curvature field.
 
-This structure mirrors **symmetry breaking**: large prime gaps correspond to high curvature and energy localization, while regions of dense prime occurrence represent local restoration of near-symmetry.
+This structure mirrors **relational differentiation**: large prime gaps correspond to high curvature and energy localization, while regions of dense prime occurrence represent local restoration of near-symmetry.
 
 ### **3. Mathematical Development**
 
@@ -110,19 +110,19 @@ When simulated over prime-indexed time steps ([Appendix B](#appendix-b--computat
 
 ### **5. Discussion**
 
-The integration of prime structure into the IGSOA framework provides a discrete analog for continuous symmetry breaking.
-Primes serve as **topological excitations** — stable points of causal differentiation in an otherwise smooth substrate. These primes, as coherent emergent structures, relate to the 'Identity Kernel' (as defined in Paper 01) by acting as specific, non-personal relational law-spaces that constrain the form and distribution of emergent causal patterns. It is also understood that these emergent identity instances, despite their stability, are finite and subject to dissolvability, their persistence being entirely dependent on ongoing DFVM dynamics and MSC cohesion.
-Their irregularity generates an emergent form of order: **bounded chaos**, consistent with both fractional memory dynamics and stochastic resonance.
+The integration of prime structure into the IGSOA framework provides a discrete descriptive layer for continuous symmetry breaking.
+The prime-indexed locations on the geometric spiral can be used to represent points of topological significance or causal differentiation in the continuous substrate. These prime-indexed locations, as descriptive modifiers of emergent structures, relate to the 'Identity Kernel' (as defined in Paper 01) by charting the relational law-spaces that constrain the form and distribution of emergent causal patterns. It is also understood that these emergent identity instances, despite their stability, are finite and subject to dissolvability, their persistence being entirely dependent on ongoing DFVM dynamics and MSC cohesion.
+The irregularity in the distribution of primes corresponds to an emergent form of order described as **bounded chaos**, consistent with both fractional memory dynamics and stochastic resonance.
 
 Where traditional physics sees the arrow of time as an emergent thermodynamic phenomenon, IGSOA interprets it as a **structural consequence of informational asymmetry**: the universe “remembers” through fractional persistence.
-Symmetry breaking, in this light, is not a failure of uniformity but its expression through hierarchy and delay.
+Relational differentiation, in this light, is not a failure of uniformity but its expression through hierarchy and delay.
 
 ### **6. Conclusion**
 
 This study unites the discrete arithmetic of primes, the continuous dynamics of fractional calculus, and the geometric intuition of spiral fields under a single ontological frame.
-The result is not merely a mathematical curiosity but a demonstration that the structure of causality may be encoded in the same patterns that shape number theory.
+The result is not merely a mathematical curiosity but a demonstration that the structure of causality may be described by the same patterns that shape number theory.
 
-Primes and asymmetry, once abstractly distant, reveal themselves as twin aspects of a deeper reality: one that evolves through memory, resonates through irregularity, and sustains coherence through imperfection.
+The abstract structure of prime numbers and the physical manifestation of causal asymmetry appear to be described by analogous mathematical forms.
 
 ---
 
@@ -196,7 +196,7 @@ This appendix develops the spectral interpretation of the IGSOA causal operator.
 
 ### **Appendix G — Computational Algorithms and Simulation Framework**
 
-This appendix provides the computational blueprint for numerically verifying the spectral and symmetry-breaking predictions. It includes algorithms for simulating the fractional operator's eigenvalue spectrum, its geometric mapping to spiral domains, and the resulting prime-like spacing and spectral correlations. It provides pseudocode and notes on reproducibility, using tools like the Grünwald–Letnikov approximation and standard eigenvalue solvers.
+This appendix provides the computational blueprint for numerically verifying the spectral and symmetry-breaking predictions. It includes algorithms for simulating the fractional operator's eigenvalue spectrum, its geometric mapping to spiral domains, and the resulting spectral spacing which can be compared to GUE predictions. It provides pseudocode and notes on reproducibility, using tools like the Grünwald–Letnikov approximation and standard eigenvalue solvers.
 
 
 ═══════════════════════════════════════════════════════════

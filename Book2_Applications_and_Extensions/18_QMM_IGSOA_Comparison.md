@@ -15,7 +15,7 @@ This paper addresses the emergence of **cognition** from the IGSOA-QMM framework
 
 ### **17.2 Mathematical Foundation of Hierarchical Memory Fields**
 
-A rank-2 **fractional tensor of memory** `Mμν(γ)(x)` is defined, whose evolution is governed by a generalized fractional field equation. Parallel transport within the memory manifold is described by a **fractional connection** (Christoffel symbols), which introduces temporal depth. The resulting **fractional curvature tensor** measures how causal histories interact. Cognitive layers are organized in a **fractal hierarchy** based on the prime number sequence, ensuring that each tier has a unique temporal phase.
+A rank-2 **fractional tensor of memory** `Mμν(γ)(x)` is defined, whose evolution is governed by a generalized fractional field equation. Parallel transport within the memory manifold is described by a **fractional connection** (Christoffel symbols), which introduces temporal depth. The resulting **fractional curvature tensor** measures how causal histories interact. Cognitive layers are organized in a **fractal hierarchy** that can be indexed by the prime number sequence, ensuring that each tier has a unique temporal phase.
 
 ### **17.3 Dynamic Equations of Cognitive Geometry**
 
