@@ -1,0 +1,4260 @@
+{
+  "items": [
+    {
+      "type": "math",
+      "title": "Math expressions in MSC_V2_Upgrade_Log.md",
+      "name": "MSC_V2_Upgrade_Log",
+      "file": "MSC_V2_Upgrade_Log.md",
+      "start_line": 1,
+      "end_line": 11,
+      "equations": [
+        "\\rho_{rel}",
+        "\\sigma_{pert}",
+        "S_{MSC}"
+      ],
+      "symbols_introduced": [
+        "MSC",
+        "S_",
+        "\\rho_",
+        "\\sigma_",
+        "pert",
+        "rel"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in Global_Compliance_Reaudit.md",
+      "name": "Global_Compliance_Reaudit",
+      "file": "Global_Compliance_Reaudit.md",
+      "start_line": 1,
+      "end_line": 41,
+      "equations": [
+        "\\Delta S_{entropy} > 0",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\xi",
+        "\\xi",
+        "\\rho_{rel}",
+        "\\sigma_{pert}",
+        "H^1(\\Omega)",
+        "\\rho_{rel}",
+        "\\sigma_{pert}",
+        "\\tfrac{dE}{dt}",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\xi",
+        "S_{MSC} \\rightarrow 0",
+        "\\Delta S_{entropy} > 0",
+        "\\xi"
+      ],
+      "symbols_introduced": [
+        "E",
+        "F",
+        "H",
+        "MSC",
+        "P",
+        "S_",
+        "\\Delta",
+        "\\Omega",
+        "\\rho_",
+        "\\rightarrow",
+        "\\sigma_",
+        "\\tfrac",
+        "\\xi",
+        "dE",
+        "dt",
+        "entropy",
+        "pert",
+        "rel"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in Randomness_Placement_Log.md",
+      "name": "Randomness_Placement_Log",
+      "file": "Randomness_Placement_Log.md",
+      "start_line": 1,
+      "end_line": 19,
+      "equations": [
+        "\\xi(x,t)",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "DFVM_{n+1}=F(DFVM_n,MSC_n)+\\xi_n"
+      ],
+      "symbols_introduced": [
+        "DFVM_",
+        "DFVM_n",
+        "F",
+        "MSC_n",
+        "P",
+        "\\Omega",
+        "\\xi",
+        "\\xi_n",
+        "n",
+        "t",
+        "x"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in Measurement_Operator_Formalization_Log.md",
+      "name": "Measurement_Operator_Formalization_Log",
+      "file": "Measurement_Operator_Formalization_Log.md",
+      "start_line": 1,
+      "end_line": 19,
+      "equations": [
+        "\\mathcal{M} : (DFVM, MSC) \\rightarrow (\\Psi_{record}, \\Delta E, \\Delta S_{entropy})",
+        "\\Delta S_{entropy} > 0",
+        "S_{MSC}(\\Psi_{record}) > \\varepsilon_2",
+        "\\mathcal{M}",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0"
+      ],
+      "symbols_introduced": [
+        "DFVM",
+        "E",
+        "M",
+        "MSC",
+        "S_",
+        "\\Delta",
+        "\\Psi_",
+        "\\rightarrow",
+        "\\varepsilon_2",
+        "entropy",
+        "record"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in SATP_WellPosedness_Log.md",
+      "name": "SATP_WellPosedness_Log",
+      "file": "SATP_WellPosedness_Log.md",
+      "start_line": 1,
+      "end_line": 18,
+      "equations": [
+        "\\xi",
+        "V'(\\phi)=0",
+        "J_{SATP}=0",
+        "c_{eff}",
+        "V",
+        "\\tfrac{dE}{dt}"
+      ],
+      "symbols_introduced": [
+        "J_",
+        "SATP",
+        "V",
+        "\\phi",
+        "\\tfrac",
+        "\\xi",
+        "c_",
+        "dE",
+        "dt",
+        "eff"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in 13_Entropy_and_Memory.md",
+      "name": "13_Entropy_and_Memory",
+      "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+      "start_line": 1,
+      "end_line": 124,
+      "equations": [
+        "S = \\mathcal{H}(\\text{relational patterns}) + \\int (\\text{DFVM}_{\\text{dissipation}}) dt + \\sum (\\text{SATP}_{\\text{cost}})",
+        "$ S = \\mathcal{H}(\\text{relational patterns}) + \\int (\\text{DFVM}_{\\text{dissipation}}) dt + \\sum (\\text{SATP}_{\\text{cost}})",
+        "\\mathcal{H}(\\text{relational patterns})",
+        "\\int (\\text{DFVM}_{\\text{dissipation}}) dt",
+        "\\sum (\\text{SATP}_{\\text{cost}})"
+      ],
+      "symbols_introduced": [
+        "DFVM",
+        "H",
+        "S",
+        "SATP",
+        "cost",
+        "dissipation",
+        "dt",
+        "patterns",
+        "relational"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in 19_Unification_and_Synthesis.md",
+      "name": "19_Unification_and_Synthesis",
+      "file": "Book2_Applications_and_Extensions/19_Unification_and_Synthesis.md",
+      "start_line": 1,
+      "end_line": 85,
+      "equations": [
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0"
+      ],
+      "symbols_introduced": [
+        "S_",
+        "\\Delta",
+        "\\Psi_",
+        "entropy",
+        "record"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in 16_Experimental_Predictions.md",
+      "name": "16_Experimental_Predictions",
+      "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+      "start_line": 1,
+      "end_line": 138,
+      "equations": [
+        "\\partial_t^2 \\phi - c_{eff}^2(x,t) \\nabla^2 \\phi + V'(\\phi) = J_{SATP}",
+        "E(t) = \\int \\left( \\tfrac{1}{2} |\\partial_t \\phi|^2 + \\tfrac{1}{2} c_{eff}^2(x,t) |\\nabla \\phi|^2 + V(\\phi) \\right) dV",
+        "\\frac{dE}{dt} \\lesssim \\int |\\partial_t \\phi| \\cdot |J_{SATP}| \\, dV + \\int |\\partial_t c_{eff}| \\cdot c_{eff} |\\nabla \\phi|^2 \\, dV,",
+        "\\Delta t \\leq \\frac{\\Delta x}{\\max(c_{eff})}",
+        "E_{exotic} \\geq \\int |\\nabla \\phi|^2 dV",
+        "$ \\partial_t^2 \\phi - c_{eff}^2(x,t) \\nabla^2 \\phi + V'(\\phi) = J_{SATP}",
+        "|\\nabla \\phi| < G_{max}",
+        "|\\partial_t \\phi| < T_{max}",
+        "c_{eff}(x,t)",
+        "0 < c_{min} \\leq c_{eff}(x,t) \\leq c_{max}",
+        "V(\\phi)",
+        "V'(\\phi)",
+        "$ E(t) = \\int \\left( \\tfrac{1}{2} |\\partial_t \\phi|^2 + \\tfrac{1}{2} c_{eff}^2(x,t) |\\nabla \\phi|^2 + V(\\phi) \\right) dV",
+        "$ \\frac{dE}{dt} \\lesssim \\int |\\partial_t \\phi| \\cdot |J_{SATP}| \\, dV + \\int |\\partial_t c_{eff}| \\cdot c_{eff} |\\nabla \\phi|^2 \\, dV,",
+        "c_{eff}",
+        "$ \\Delta t \\leq \\frac{\\Delta x}{\\max(c_{eff})}",
+        "E(t)",
+        "$ E_{exotic} \\geq \\int |\\nabla \\phi|^2 dV",
+        "\\Delta t",
+        "\\nabla \\phi"
+      ],
+      "symbols_introduced": [
+        "E",
+        "E_",
+        "G_",
+        "J_",
+        "SATP",
+        "T_",
+        "V",
+        "\\Delta",
+        "\\lesssim",
+        "\\max",
+        "\\partial_t",
+        "\\phi",
+        "\\tfrac",
+        "c_",
+        "dE",
+        "dV",
+        "dt",
+        "eff",
+        "exotic",
+        "max",
+        "min",
+        "t",
+        "x"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in 09_QuantumStochasticMechanics.md",
+      "name": "09_QuantumStochasticMechanics",
+      "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+      "start_line": 1,
+      "end_line": 132,
+      "equations": [
+        "DFVM_{t+1} = F(DFVM_t, MSC) + \\xi(x,t)",
+        "DFVM_{n+1}(x) = F\\big(DFVM_n(x), MSC_n\\big) + \\xi_n(x)",
+        "\\mathrm{d}DFVM(x,t) = G\\big(DFVM(x,t), MSC(t)\\big)\\,\\mathrm{d}t + \\sigma\\big(DFVM(x,t), MSC(t)\\big)\\,\\mathrm{d}W_t(x)",
+        "$DFVM_{t+1} = F(DFVM_t, MSC) + \\xi(x,t)",
+        "\\xi(x,t)",
+        "\\xi",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "$DFVM_{n+1}(x) = F\\big(DFVM_n(x), MSC_n\\big) + \\xi_n(x)",
+        "(\\xi_n)_{n \\in \\mathbb{N}}",
+        "\\mathbb{E}[\\xi_n(x)] = 0",
+        "\\sup_n \\mathbb{E}[\\lVert \\xi_n \\rVert^2] < \\infty",
+        "$\\mathrm{d}DFVM(x,t) = G\\big(DFVM(x,t), MSC(t)\\big)\\,\\mathrm{d}t + \\sigma\\big(DFVM(x,t), MSC(t)\\big)\\,\\mathrm{d}W_t(x)",
+        "W_t(x)",
+        "\\mathbb{E}[\\mathrm{d}W_t(x)] = 0",
+        "\\sigma",
+        "\\mathbb{E}[\\lVert \\sigma\\,\\mathrm{d}W_t \\rVert^2]",
+        "G",
+        "\\xi",
+        "\\mathrm{d}W_t",
+        "|\\xi| \\gg"
+      ],
+      "symbols_introduced": [
+        "DFVM",
+        "DFVM_",
+        "DFVM_n",
+        "DFVM_t",
+        "E",
+        "F",
+        "G",
+        "MSC",
+        "MSC_n",
+        "N",
+        "P",
+        "W_t",
+        "\\Omega",
+        "\\big",
+        "\\gg",
+        "\\in",
+        "\\lVert",
+        "\\rVert",
+        "\\sigma",
+        "\\sup_n",
+        "\\xi",
+        "\\xi_n",
+        "d",
+        "n",
+        "t",
+        "x"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+      "name": "22_Stochasticity_and_Proto-Law",
+      "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+      "start_line": 1,
+      "end_line": 56,
+      "equations": [
+        "\\sigma_{perturbation, \\text{random}} \\in [0, \\sigma_{max}]",
+        "\\text{where } \\sigma_{max} \\text{ is bounded by the NOT Axiom and MSP Relational capacity}",
+        "\\sigma_{perturbation}",
+        "\\sigma_{perturbation}",
+        "S_{MSC}",
+        "$ \\sigma_{perturbation, \\text{random}} \\in [0, \\sigma_{max}]",
+        "$ \\text{where } \\sigma_{max} \\text{ is bounded by the NOT Axiom and MSP Relational capacity}",
+        "\\sigma_{perturbation}"
+      ],
+      "symbols_introduced": [
+        "Axiom",
+        "MSC",
+        "MSP",
+        "NOT",
+        "Relational",
+        "S_",
+        "\\in",
+        "\\sigma_",
+        "and",
+        "bounded",
+        "by",
+        "capacity",
+        "is",
+        "max",
+        "perturbation",
+        "random",
+        "the",
+        "where"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in 04_Modal_Structural_Cohesion.md",
+      "name": "04_Modal_Structural_Cohesion",
+      "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+      "start_line": 1,
+      "end_line": 296,
+      "equations": [
+        "MSC: R^n (\\text{relations}) \\rightarrow \\mathbb{R}^+ (\\text{cohesion strength})",
+        "MSC[\\Psi] : \\mathcal{R}(\\Psi) \\rightarrow \\mathbb{R}^+",
+        "S_{MSC}[\\Psi] = \\int (\\rho_{rel}(\\Psi) - \\sigma_{pert}(\\Psi)) \\, dV",
+        "\\rho_{rel}(\\Psi) = \\int_\\Omega |\\Psi|^2 \\, dV, \\qquad \\sigma_{pert}(\\Psi) = \\int_\\Omega |\\nabla \\Psi|^2 \\, dV,",
+        "S_{MSC} \\to 0 \\Rightarrow \\text{identity collapse}",
+        "S_{MSC}[\\Psi] = \\int (\\rho_{relational} - \\sigma_{perturbation}) \\, dV",
+        "\\frac{\\partial S_{MSC}}{\\partial t} = -\\alpha \\cdot |DFVM| + \\beta \\cdot \\text{constraint\\_repair}",
+        "DFVM_{t+1} = DFVM_t \\oplus \\kappa(S_{MSC})",
+        "\\frac{dS_{entropy}}{dt} \\propto - \\frac{dS_{MSC}}{dt}",
+        "\\Psi_{system} \\xrightarrow{\\hat{M}(C_{boundary})} \\Psi_{record} + \\Delta E",
+        "\\mathcal{M} : (DFVM, MSC) \\rightarrow (\\Psi_{record}, \\Delta E, \\Delta S_{entropy})",
+        "\\Psi_{record} \\text{ is stable } \\iff S_{MSC}(\\Psi_{record}) > \\varepsilon_2",
+        "\\mathcal{O}(\\mathcal{S}) \\iff (\\Psi_{MSC}^* > \\text{MSC}_{critical}) \\land (\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) > \\text{DFVM}_{threshold}) \\land (\\text{Coupling} \\in \\text{SATP})",
+        "\\Psi_{MSC}",
+        "$MSC: R^n (\\text{relations}) \\rightarrow \\mathbb{R}^+ (\\text{cohesion strength})",
+        "$MSC[\\Psi] : \\mathcal{R}(\\Psi) \\rightarrow \\mathbb{R}^+",
+        "\\Psi",
+        "\\mathcal{R}(\\Psi)",
+        "\\Psi",
+        "$S_{MSC}[\\Psi] = \\int (\\rho_{rel}(\\Psi) - \\sigma_{pert}(\\Psi)) \\, dV",
+        "\\rho_{rel}",
+        "\\sigma_{pert}",
+        "\\Omega \\subset \\mathbb{R}^n",
+        "\\Psi \\in H^1(\\Omega)",
+        "S_{MSC}[\\Psi]",
+        "$\\rho_{rel}(\\Psi) = \\int_\\Omega |\\Psi|^2 \\, dV, \\qquad \\sigma_{pert}(\\Psi) = \\int_\\Omega |\\nabla \\Psi|^2 \\, dV,",
+        "S_{MSC}[\\Psi] = \\int_\\Omega (|\\Psi|^2 - |\\nabla \\Psi|^2) \\, dV",
+        "\\Psi \\in H^1(\\Omega)",
+        "0 < \\varepsilon_1 < \\varepsilon_2",
+        "\\varepsilon_1, \\varepsilon_2",
+        "\\|\\Psi\\|^2_{H^1}",
+        "S_{MSC} < \\varepsilon_1",
+        "S_{MSC} > \\varepsilon_2",
+        "$S_{MSC} \\to 0 \\Rightarrow \\text{identity collapse}",
+        "\\Psi_{MSC}",
+        "S_{MSC} < \\varepsilon_1",
+        "\\varepsilon_1 \\leq S_{MSC} \\leq \\varepsilon_2",
+        "S_{MSC} > \\varepsilon_2",
+        "\\Psi_{MSC}",
+        "\\Psi_{MSC}",
+        "\\Psi_{MSC}",
+        "S_{MSC}",
+        "$S_{MSC}[\\Psi] = \\int (\\rho_{relational} - \\sigma_{perturbation}) \\, dV",
+        "S_{MSC}[\\Psi]",
+        "\\Psi",
+        "\\rho_{relational}",
+        "dV",
+        "\\rho_{relational}",
+        "\\sigma_{perturbation}",
+        "\\int \\dots dV",
+        "S_{MSC}",
+        "\\rho_{relational}",
+        "S_{MSC}",
+        "\\sigma_{perturbation}",
+        "S_{MSC}",
+        "\\rho_{relational}",
+        "S_{MSC}",
+        "\\sigma_{perturbation}",
+        "S_{MSC}",
+        "S_{MSC} \\rightarrow 0",
+        "\\sigma_{perturbation}",
+        "\\rho_{relational}",
+        "\\sigma_{perturbation}",
+        "$ \\frac{\\partial S_{MSC}}{\\partial t} = -\\alpha \\cdot |DFVM| + \\beta \\cdot \\text{constraint\\_repair}",
+        "$ DFVM_{t+1} = DFVM_t \\oplus \\kappa(S_{MSC})",
+        "S_{MSC}",
+        "\\alpha",
+        "\\beta",
+        "\\kappa(S_{MSC})",
+        "\\alpha |DFVM|",
+        "S_{MSC}",
+        "S_{MSC} \\to 0",
+        "S_{MSC}",
+        "\\varepsilon_2",
+        "S_{MSC}",
+        "$ \\frac{dS_{entropy}}{dt} \\propto - \\frac{dS_{MSC}}{dt}",
+        "S_{MSC}",
+        "S_{MSC}",
+        "\\hat{M}",
+        "\\Psi_{record}",
+        "$ \\Psi_{system} \\xrightarrow{\\hat{M}(C_{boundary})} \\Psi_{record} + \\Delta E",
+        "\\hat{M}",
+        "C_{boundary}",
+        "\\Psi_{system}",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "$ \\mathcal{M} : (DFVM, MSC) \\rightarrow (\\Psi_{record}, \\Delta E, \\Delta S_{entropy})",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "$ \\Psi_{record} \\text{ is stable } \\iff S_{MSC}(\\Psi_{record}) > \\varepsilon_2",
+        "S_{MSC} \\leq \\varepsilon_2",
+        "\\Delta E",
+        "\\Delta S",
+        "\\mathcal{M}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "(\\Psi_{record}, \\Delta E, \\Delta S_{entropy})",
+        "\\Delta S_{entropy} > 0",
+        "S_{MSC}(\\Psi_{record}) > \\varepsilon_2",
+        "\\mathcal{M}",
+        "\\Psi_{MSC}^*",
+        "\\mathcal{M}",
+        "\\mathcal{S}",
+        "\\Psi_{MSC}^*",
+        "\\mathcal{O}",
+        "$ \\mathcal{O}(\\mathcal{S}) \\iff (\\Psi_{MSC}^* > \\text{MSC}_{critical}) \\land (\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) > \\text{DFVM}_{threshold}) \\land (\\text{Coupling} \\in \\text{SATP})",
+        "\\text{MSC}_{critical}",
+        "\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*)",
+        "\\text{DFVM}_{threshold}",
+        "(\\text{Coupling} \\in \\text{SATP})",
+        "\\Psi_{MSC}^*",
+        "\\Phi_{DFVM}",
+        "\\Psi_{MSC}^* \\le \\text{MSC}_{critical}",
+        "\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) \\le \\text{DFVM}_{threshold}",
+        "\\xi"
+      ],
+      "symbols_introduced": [
+        "C_",
+        "Coupling",
+        "DFVM",
+        "DFVM_",
+        "DFVM_t",
+        "E",
+        "H",
+        "M",
+        "MSC",
+        "O",
+        "R",
+        "S",
+        "SATP",
+        "S_",
+        "\\Delta",
+        "\\Omega",
+        "\\Phi_",
+        "\\Psi",
+        "\\Psi_",
+        "\\Rightarrow",
+        "\\alpha",
+        "\\beta",
+        "\\dots",
+        "\\hat",
+        "\\iff",
+        "\\in",
+        "\\int_",
+        "\\kappa",
+        "\\land",
+        "\\le",
+        "\\oplus",
+        "\\propto",
+        "\\qquad",
+        "\\rho_",
+        "\\rightarrow",
+        "\\sigma_",
+        "\\subset",
+        "\\to",
+        "\\varepsilon_1",
+        "\\varepsilon_2",
+        "\\xi",
+        "\\xrightarrow",
+        "boundary",
+        "cohesion",
+        "collapse",
+        "constraint",
+        "critical",
+        "dS_",
+        "dV",
+        "dt",
+        "entropy",
+        "identity",
+        "is",
+        "n",
+        "pert",
+        "perturbation",
+        "record",
+        "rel",
+        "relational",
+        "relations",
+        "repair",
+        "stable",
+        "strength",
+        "system",
+        "t",
+        "threshold"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Definition:",
+      "name": "Definition:",
+      "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+      "start_line": 191,
+      "end_line": 296,
+      "equations": [
+        "\\Psi_{system} \\xrightarrow{\\hat{M}(C_{boundary})} \\Psi_{record} + \\Delta E",
+        "\\mathcal{M} : (DFVM, MSC) \\rightarrow (\\Psi_{record}, \\Delta E, \\Delta S_{entropy})",
+        "\\Psi_{record} \\text{ is stable } \\iff S_{MSC}(\\Psi_{record}) > \\varepsilon_2",
+        "\\mathcal{O}(\\mathcal{S}) \\iff (\\Psi_{MSC}^* > \\text{MSC}_{critical}) \\land (\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) > \\text{DFVM}_{threshold}) \\land (\\text{Coupling} \\in \\text{SATP})",
+        "\\hat{M}",
+        "\\Psi_{record}",
+        "$ \\Psi_{system} \\xrightarrow{\\hat{M}(C_{boundary})} \\Psi_{record} + \\Delta E",
+        "\\hat{M}",
+        "C_{boundary}",
+        "\\Psi_{system}",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "$ \\mathcal{M} : (DFVM, MSC) \\rightarrow (\\Psi_{record}, \\Delta E, \\Delta S_{entropy})",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "$ \\Psi_{record} \\text{ is stable } \\iff S_{MSC}(\\Psi_{record}) > \\varepsilon_2",
+        "S_{MSC} \\leq \\varepsilon_2",
+        "\\Delta E",
+        "\\Delta S",
+        "\\mathcal{M}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "(\\Psi_{record}, \\Delta E, \\Delta S_{entropy})",
+        "\\Delta S_{entropy} > 0",
+        "S_{MSC}(\\Psi_{record}) > \\varepsilon_2",
+        "\\mathcal{M}",
+        "\\Psi_{MSC}^*",
+        "\\mathcal{M}",
+        "\\mathcal{S}",
+        "\\Psi_{MSC}^*",
+        "\\mathcal{O}",
+        "$ \\mathcal{O}(\\mathcal{S}) \\iff (\\Psi_{MSC}^* > \\text{MSC}_{critical}) \\land (\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) > \\text{DFVM}_{threshold}) \\land (\\text{Coupling} \\in \\text{SATP})",
+        "\\text{MSC}_{critical}",
+        "\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*)",
+        "\\text{DFVM}_{threshold}",
+        "(\\text{Coupling} \\in \\text{SATP})",
+        "\\Psi_{MSC}^*",
+        "\\Phi_{DFVM}",
+        "\\Psi_{MSC}^* \\le \\text{MSC}_{critical}",
+        "\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) \\le \\text{DFVM}_{threshold}",
+        "\\xi"
+      ],
+      "symbols_introduced": [
+        "C_",
+        "Coupling",
+        "DFVM",
+        "E",
+        "M",
+        "MSC",
+        "O",
+        "S",
+        "SATP",
+        "S_",
+        "\\Delta",
+        "\\Phi_",
+        "\\Psi_",
+        "\\hat",
+        "\\iff",
+        "\\in",
+        "\\land",
+        "\\le",
+        "\\rightarrow",
+        "\\varepsilon_2",
+        "\\xi",
+        "\\xrightarrow",
+        "boundary",
+        "critical",
+        "entropy",
+        "is",
+        "record",
+        "stable",
+        "system",
+        "threshold"
+      ]
+    },
+    {
+      "type": "axiom",
+      "title": "Axiom A1 — δ (Deviation)",
+      "name": "A1 — δ (Deviation)",
+      "file": "Book0_Ontological_Foundations/04_The_Tri-Unity_Law.md",
+      "start_line": 19,
+      "end_line": 29,
+      "equations": [],
+      "symbols_introduced": []
+    },
+    {
+      "type": "axiom",
+      "title": "Axiom A2 — Φ (Form / Pattern)",
+      "name": "A2 — Φ (Form / Pattern)",
+      "file": "Book0_Ontological_Foundations/04_The_Tri-Unity_Law.md",
+      "start_line": 30,
+      "end_line": 40,
+      "equations": [],
+      "symbols_introduced": []
+    },
+    {
+      "type": "axiom",
+      "title": "Axiom A3 — π (Projection / Realization)",
+      "name": "A3 — π (Projection / Realization)",
+      "file": "Book0_Ontological_Foundations/04_The_Tri-Unity_Law.md",
+      "start_line": 41,
+      "end_line": 73,
+      "equations": [],
+      "symbols_introduced": []
+    },
+    {
+      "type": "lemma",
+      "title": "Lemma 1: δ ⇒ Φ (Deviation requires Pattern)",
+      "name": "1: δ ⇒ Φ (Deviation requires Pattern)",
+      "file": "Book0_Ontological_Foundations/04_The_Tri-Unity_Law.md",
+      "start_line": 74,
+      "end_line": 83,
+      "equations": [],
+      "symbols_introduced": []
+    },
+    {
+      "type": "lemma",
+      "title": "Lemma 2: Φ ⇒ π (Pattern requires Realization)",
+      "name": "2: Φ ⇒ π (Pattern requires Realization)",
+      "file": "Book0_Ontological_Foundations/04_The_Tri-Unity_Law.md",
+      "start_line": 84,
+      "end_line": 92,
+      "equations": [],
+      "symbols_introduced": []
+    },
+    {
+      "type": "lemma",
+      "title": "Lemma 3: π ⇒ δ (Realization requires Deviation)",
+      "name": "3: π ⇒ δ (Realization requires Deviation)",
+      "file": "Book0_Ontological_Foundations/04_The_Tri-Unity_Law.md",
+      "start_line": 93,
+      "end_line": 160,
+      "equations": [],
+      "symbols_introduced": []
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in ontological_consistency_report.md",
+      "name": "ontological_consistency_report",
+      "file": "reports/ontological_consistency_report.md",
+      "start_line": 1,
+      "end_line": 1101,
+      "equations": [
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\sigma_{perturbation}",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\xi",
+        "\\xi",
+        "\\mathrm{d}W_t",
+        "\\rho_{rel}",
+        "\\sigma_{pert}",
+        "S_{MSC}",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\xi",
+        "\\xi",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\xi",
+        "\\xi",
+        "\\mathrm{d}W_t",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\xi",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\xi",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "DFVM_{n+1}=F(DFVM_n,MSC_n)+\\xi_n",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\xi",
+        "\\tfrac{dE}{dt}",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\xi",
+        "\\tfrac{dE}{dt}",
+        "(\\Omega, \\mathcal{F}, \\mathbb{P})",
+        "\\xi",
+        "\\xi",
+        "(\\xi_n)_{n \\in \\mathbb{N}}",
+        "\\mathbb{E}[\\xi_n(x)] = 0",
+        "\\sup_n \\mathbb{E}[\\lVert \\xi_n \\rVert^2] < \\infty",
+        "|\\xi| \\gg",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "(\\xi_n)_{n \\in \\mathbb{N}}",
+        "\\mathbb{E}[\\xi_n(x)] = 0",
+        "\\sup_n \\mathbb{E}[\\lVert \\xi_n \\rVert^2] < \\infty",
+        "|\\xi| \\gg",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "(\\xi_n)_{n \\in \\mathbb{N}}",
+        "\\mathbb{E}[\\xi_n(x)] = 0",
+        "\\sup_n \\mathbb{E}[\\lVert \\xi_n \\rVert^2] < \\infty",
+        "|\\xi| \\gg",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "(\\xi_n)_{n \\in \\mathbb{N}}",
+        "\\mathbb{E}[\\xi_n(x)] = 0",
+        "\\sup_n \\mathbb{E}[\\lVert \\xi_n \\rVert^2] < \\infty",
+        "|\\xi| \\gg",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "|\\xi| \\gg",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "|\\xi| \\gg",
+        "|\\xi| \\gg",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\tfrac{dE}{dt}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\tfrac{dE}{dt}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\tfrac{dE}{dt}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\tfrac{dE}{dt}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\mathcal{M}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta S_{entropy} > 0",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\tfrac{dE}{dt}",
+        "\\xi",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\tfrac{dE}{dt}",
+        "\\xi",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\tfrac{dE}{dt}",
+        "\\xi",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\tfrac{dE}{dt}",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\xi",
+        "\\Delta S_{entropy} > 0",
+        "|\\nabla \\phi| < G_{max}",
+        "|\\partial_t \\phi| < T_{max}",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "|\\nabla \\phi| < G_{max}",
+        "|\\partial_t \\phi| < T_{max}",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "|\\nabla \\phi| < G_{max}",
+        "|\\partial_t \\phi| < T_{max}",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "|\\nabla \\phi| < G_{max}",
+        "|\\partial_t \\phi| < T_{max}",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "\\Delta S_{entropy} > 0",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\Delta S_{entropy} > 0",
+        "|\\nabla \\phi| < G_{max}",
+        "|\\partial_t \\phi| < T_{max}",
+        "|\\nabla \\phi| < G_{max}",
+        "|\\partial_t \\phi| < T_{max}",
+        "V(\\phi)",
+        "V'(\\phi)",
+        "V(\\phi)",
+        "V'(\\phi)",
+        "V(\\phi)",
+        "V'(\\phi)",
+        "V(\\phi)",
+        "V'(\\phi)"
+      ],
+      "symbols_introduced": [
+        "DFVM_",
+        "DFVM_n",
+        "E",
+        "F",
+        "G_",
+        "M",
+        "MSC",
+        "MSC_n",
+        "N",
+        "P",
+        "S_",
+        "T_",
+        "V",
+        "W_t",
+        "\\Delta",
+        "\\Omega",
+        "\\Psi_",
+        "\\gg",
+        "\\in",
+        "\\lVert",
+        "\\partial_t",
+        "\\phi",
+        "\\rVert",
+        "\\rho_",
+        "\\sigma_",
+        "\\sup_n",
+        "\\tfrac",
+        "\\xi",
+        "\\xi_n",
+        "d",
+        "dE",
+        "dt",
+        "entropy",
+        "max",
+        "n",
+        "pert",
+        "perturbation",
+        "record",
+        "rel",
+        "x"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in MASTER_SUMMARY_REPORT.md",
+      "name": "MASTER_SUMMARY_REPORT",
+      "file": "reports/MASTER_SUMMARY_REPORT.md",
+      "start_line": 1,
+      "end_line": 503,
+      "equations": [
+        "MSC: R^n (\\text{relations}) \\rightarrow \\mathbb{R}^+ (\\text{cohesion strength})",
+        "S_{MSC}[\\Psi] = \\int (\\rho_{relational} - \\sigma_{perturbation}) \\, dV",
+        "\\frac{\\partial \\Psi_{MSC}}{\\partial t} = \\mathcal{F}(\\Phi_{DFVM}, \\text{Perturbations})",
+        "\\Phi_{DFVM}^{t+1} = \\mathcal{G}(\\Phi_{DFVM}^t, \\Psi_{MSC})",
+        "\\Psi_{system} \\xrightarrow{\\hat{M}(C_{boundary})} \\Psi_{record} + \\Delta E",
+        "\\mathcal{O}(\\mathcal{S}) \\iff (\\Psi_{MSC}^* > \\text{MSC}_{critical}) \\land (\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) > \\text{DFVM}_{threshold}) \\land (\\text{Coupling} \\in \\text{SATP})",
+        "\\sigma_{perturbation, \\text{random}} \\in [0, \\sigma_{max}]",
+        "\\text{where } \\sigma_{max} \\text{ is bounded by the NOT Axiom and MSP Relational capacity}",
+        "S = \\mathcal{H}(\\text{relational patterns}) + \\int (\\text{DFVM}_{\\text{dissipation}}) dt + \\sum (\\text{SATP}_{\\text{cost}})",
+        "\\Psi_{MSC}",
+        "$MSC: R^n (\\text{relations}) \\rightarrow \\mathbb{R}^+ (\\text{cohesion strength})",
+        "\\Psi_{MSC}",
+        "\\Psi_{MSC}",
+        "\\Psi_{MSC}",
+        "\\Psi_{MSC}",
+        "S_{MSC}",
+        "$S_{MSC}[\\Psi] = \\int (\\rho_{relational} - \\sigma_{perturbation}) \\, dV",
+        "S_{MSC}[\\Psi]",
+        "\\Psi",
+        "\\rho_{relational}",
+        "dV",
+        "\\rho_{relational}",
+        "\\sigma_{perturbation}",
+        "\\int \\dots dV",
+        "S_{MSC}",
+        "):** Greater coherence, connectivity, and mutual reinforcement among relations within the Monistic Substrate contribute positively to",
+        "\\sigma_{perturbation}",
+        "S_{MSC}",
+        "):** Loss of coherence, fragmentation of relational patterns, or weak inter-relational coupling directly reduces",
+        "\\sigma_{perturbation}",
+        "S_{MSC}",
+        "S_{MSC} \\rightarrow 0",
+        "\\sigma_{perturbation}",
+        "\\rho_{relational}",
+        "\\sigma_{perturbation}",
+        "$ \\frac{\\partial \\Psi_{MSC}}{\\partial t} = \\mathcal{F}(\\Phi_{DFVM}, \\text{Perturbations})",
+        "$ \\Phi_{DFVM}^{t+1} = \\mathcal{G}(\\Phi_{DFVM}^t, \\Psi_{MSC})",
+        "\\Psi_{MSC}",
+        "\\Phi_{DFVM}",
+        "\\mathcal{F}",
+        "\\mathcal{G}",
+        "\\text{Perturbations}",
+        "\\hat{M}",
+        "\\Psi_{record}",
+        "$ \\Psi_{system} \\xrightarrow{\\hat{M}(C_{boundary})} \\Psi_{record} + \\Delta E",
+        "\\hat{M}",
+        "C_{boundary}",
+        "\\Psi_{system}",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\mathcal{S}",
+        "\\Psi_{MSC}^*",
+        "\\mathcal{O}",
+        "$ \\mathcal{O}(\\mathcal{S}) \\iff (\\Psi_{MSC}^* > \\text{MSC}_{critical}) \\land (\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) > \\text{DFVM}_{threshold}) \\land (\\text{Coupling} \\in \\text{SATP})",
+        "\\text{MSC}_{critical}",
+        "\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*)",
+        "\\text{DFVM}_{threshold}",
+        "(\\text{Coupling} \\in \\text{SATP})",
+        "\\Psi_{MSC}^*",
+        "\\Phi_{DFVM}",
+        "\\Psi_{MSC}^* \\le \\text{MSC}_{critical}",
+        "\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) \\le \\text{DFVM}_{threshold}",
+        "\\\\sigma_{perturbation}",
+        "\\\\sigma_{perturbation}",
+        "S_{MSC}",
+        "$ \\sigma_{perturbation, \\text{random}} \\in [0, \\sigma_{max}]",
+        "$ \\text{where } \\sigma_{max} \\text{ is bounded by the NOT Axiom and MSP Relational capacity}",
+        "\\\\sigma_{perturbation}",
+        "$ S = \\mathcal{H}(\\text{relational patterns}) + \\int (\\text{DFVM}_{\\text{dissipation}}) dt + \\sum (\\text{SATP}_{\\text{cost}})",
+        "\\mathcal{H}(\\text{relational patterns})",
+        "\\int (\\text{DFVM}_{\\text{dissipation}}) dt",
+        "\\sum (\\text{SATP}_{\\text{cost}})"
+      ],
+      "symbols_introduced": [
+        "Axiom",
+        "C_",
+        "Coupling",
+        "DFVM",
+        "E",
+        "F",
+        "G",
+        "Greater",
+        "H",
+        "Loss",
+        "M",
+        "MSC",
+        "MSP",
+        "Monistic",
+        "NOT",
+        "O",
+        "Perturbations",
+        "R",
+        "Relational",
+        "S",
+        "SATP",
+        "S_",
+        "Substrate",
+        "\\Delta",
+        "\\Phi_",
+        "\\Psi",
+        "\\Psi_",
+        "\\dots",
+        "\\hat",
+        "\\iff",
+        "\\in",
+        "\\land",
+        "\\le",
+        "\\rho_",
+        "\\rightarrow",
+        "\\sigma_",
+        "\\xrightarrow",
+        "among",
+        "and",
+        "boundary",
+        "bounded",
+        "by",
+        "capacity",
+        "coherence",
+        "cohesion",
+        "connectivity",
+        "contribute",
+        "cost",
+        "coupling",
+        "critical",
+        "dV",
+        "directly",
+        "dissipation",
+        "dt",
+        "fragmentation",
+        "inter",
+        "is",
+        "max",
+        "mutual",
+        "n",
+        "of",
+        "or",
+        "patterns",
+        "perturbation",
+        "positively",
+        "random",
+        "record",
+        "reduces",
+        "reinforcement",
+        "relational",
+        "relations",
+        "strength",
+        "system",
+        "t",
+        "the",
+        "threshold",
+        "to",
+        "weak",
+        "where",
+        "within"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Definition:",
+      "name": "Definition:",
+      "file": "reports/MASTER_SUMMARY_REPORT.md",
+      "start_line": 250,
+      "end_line": 503,
+      "equations": [
+        "\\Psi_{system} \\xrightarrow{\\hat{M}(C_{boundary})} \\Psi_{record} + \\Delta E",
+        "\\mathcal{O}(\\mathcal{S}) \\iff (\\Psi_{MSC}^* > \\text{MSC}_{critical}) \\land (\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) > \\text{DFVM}_{threshold}) \\land (\\text{Coupling} \\in \\text{SATP})",
+        "\\sigma_{perturbation, \\text{random}} \\in [0, \\sigma_{max}]",
+        "\\text{where } \\sigma_{max} \\text{ is bounded by the NOT Axiom and MSP Relational capacity}",
+        "S = \\mathcal{H}(\\text{relational patterns}) + \\int (\\text{DFVM}_{\\text{dissipation}}) dt + \\sum (\\text{SATP}_{\\text{cost}})",
+        "\\hat{M}",
+        "\\Psi_{record}",
+        "$ \\Psi_{system} \\xrightarrow{\\hat{M}(C_{boundary})} \\Psi_{record} + \\Delta E",
+        "\\hat{M}",
+        "C_{boundary}",
+        "\\Psi_{system}",
+        "\\Psi_{record}",
+        "\\Delta E",
+        "\\mathcal{S}",
+        "\\Psi_{MSC}^*",
+        "\\mathcal{O}",
+        "$ \\mathcal{O}(\\mathcal{S}) \\iff (\\Psi_{MSC}^* > \\text{MSC}_{critical}) \\land (\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) > \\text{DFVM}_{threshold}) \\land (\\text{Coupling} \\in \\text{SATP})",
+        "\\text{MSC}_{critical}",
+        "\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*)",
+        "\\text{DFVM}_{threshold}",
+        "(\\text{Coupling} \\in \\text{SATP})",
+        "\\Psi_{MSC}^*",
+        "\\Phi_{DFVM}",
+        "\\Psi_{MSC}^* \\le \\text{MSC}_{critical}",
+        "\\Delta \\Phi_{DFVM}(\\Psi_{MSC}^*) \\le \\text{DFVM}_{threshold}",
+        "\\\\sigma_{perturbation}",
+        "\\\\sigma_{perturbation}",
+        "S_{MSC}",
+        "$ \\sigma_{perturbation, \\text{random}} \\in [0, \\sigma_{max}]",
+        "$ \\text{where } \\sigma_{max} \\text{ is bounded by the NOT Axiom and MSP Relational capacity}",
+        "\\\\sigma_{perturbation}",
+        "$ S = \\mathcal{H}(\\text{relational patterns}) + \\int (\\text{DFVM}_{\\text{dissipation}}) dt + \\sum (\\text{SATP}_{\\text{cost}})",
+        "\\mathcal{H}(\\text{relational patterns})",
+        "\\int (\\text{DFVM}_{\\text{dissipation}}) dt",
+        "\\sum (\\text{SATP}_{\\text{cost}})"
+      ],
+      "symbols_introduced": [
+        "Axiom",
+        "C_",
+        "Coupling",
+        "DFVM",
+        "E",
+        "H",
+        "M",
+        "MSC",
+        "MSP",
+        "NOT",
+        "O",
+        "Relational",
+        "S",
+        "SATP",
+        "S_",
+        "\\Delta",
+        "\\Phi_",
+        "\\Psi_",
+        "\\hat",
+        "\\iff",
+        "\\in",
+        "\\land",
+        "\\le",
+        "\\sigma_",
+        "\\xrightarrow",
+        "and",
+        "boundary",
+        "bounded",
+        "by",
+        "capacity",
+        "cost",
+        "critical",
+        "dissipation",
+        "dt",
+        "is",
+        "max",
+        "patterns",
+        "perturbation",
+        "random",
+        "record",
+        "relational",
+        "system",
+        "the",
+        "threshold",
+        "where"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in SATP_Final_PDE_Formulation.md",
+      "name": "SATP_Final_PDE_Formulation",
+      "file": "Appendices/SATP_Final_PDE_Formulation.md",
+      "start_line": 1,
+      "end_line": 57,
+      "equations": [
+        "\\partial_t^2 \\phi - c_{eff}^2(x,t) \\nabla^2 \\phi + V'(\\phi) = J_{SATP}",
+        "E(t) = \\int \\left( \\tfrac{1}{2} |\\partial_t \\phi|^2 + \\tfrac{1}{2} c_{eff}^2(x,t) |\\nabla \\phi|^2 + V(\\phi) \\right) dV",
+        "\\frac{dE}{dt} \\lesssim \\int |\\partial_t \\phi| \\cdot |J_{SATP}| \\, dV + \\int |\\partial_t c_{eff}| \\cdot c_{eff} |\\nabla \\phi|^2 \\, dV,",
+        "\\Delta t \\leq \\frac{\\Delta x}{\\max(c_{eff})}",
+        "E_{exotic} \\geq \\int |\\nabla \\phi|^2 dV",
+        "$ \\partial_t^2 \\phi - c_{eff}^2(x,t) \\nabla^2 \\phi + V'(\\phi) = J_{SATP}",
+        "|\\nabla \\phi| < G_{max}",
+        "|\\partial_t \\phi| < T_{max}",
+        "c_{eff}(x,t)",
+        "0 < c_{min} \\leq c_{eff}(x,t) \\leq c_{max} < \\infty",
+        "V(\\phi)",
+        "V'(\\phi)",
+        "$ E(t) = \\int \\left( \\tfrac{1}{2} |\\partial_t \\phi|^2 + \\tfrac{1}{2} c_{eff}^2(x,t) |\\nabla \\phi|^2 + V(\\phi) \\right) dV",
+        "$ \\frac{dE}{dt} \\lesssim \\int |\\partial_t \\phi| \\cdot |J_{SATP}| \\, dV + \\int |\\partial_t c_{eff}| \\cdot c_{eff} |\\nabla \\phi|^2 \\, dV,",
+        "\\partial_t c_{eff}",
+        "E(t)",
+        "$ \\Delta t \\leq \\frac{\\Delta x}{\\max(c_{eff})}",
+        "E(t)",
+        "\\Delta t \\leq \\Delta x / \\max(c_{eff})",
+        "$ E_{exotic} \\geq \\int |\\nabla \\phi|^2 dV",
+        "\\xi",
+        "\\Delta t",
+        "\\nabla \\phi"
+      ],
+      "symbols_introduced": [
+        "E",
+        "E_",
+        "G_",
+        "J_",
+        "SATP",
+        "T_",
+        "V",
+        "\\Delta",
+        "\\lesssim",
+        "\\max",
+        "\\partial_t",
+        "\\phi",
+        "\\tfrac",
+        "\\xi",
+        "c_",
+        "dE",
+        "dV",
+        "dt",
+        "eff",
+        "exotic",
+        "max",
+        "min",
+        "t",
+        "x"
+      ]
+    },
+    {
+      "type": "math",
+      "title": "Math expressions in SATP_CFL_Stability_Appendix.md",
+      "name": "SATP_CFL_Stability_Appendix",
+      "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+      "start_line": 1,
+      "end_line": 23,
+      "equations": [
+        "\\Delta t \\leq \\frac{\\Delta x}{\\max(c_{eff})}",
+        "$ \\Delta t \\leq \\frac{\\Delta x}{\\max(c_{eff})}",
+        "c_{eff}",
+        "\\Delta t",
+        "\\Delta x / \\Delta t",
+        "\\Delta t",
+        "\\|\\nabla \\phi\\|",
+        "G_{max}"
+      ],
+      "symbols_introduced": [
+        "G_",
+        "\\Delta",
+        "\\max",
+        "\\phi",
+        "c_",
+        "eff",
+        "max",
+        "t",
+        "x"
+      ]
+    }
+  ],
+  "symbol_table": {
+    "MSC": [
+      {
+        "file": "MSC_V2_Upgrade_Log.md",
+        "section": "Math expressions in MSC_V2_Upgrade_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "S_": [
+      {
+        "file": "MSC_V2_Upgrade_Log.md",
+        "section": "Math expressions in MSC_V2_Upgrade_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/19_Unification_and_Synthesis.md",
+        "section": "Math expressions in 19_Unification_and_Synthesis.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "\\rho_": [
+      {
+        "file": "MSC_V2_Upgrade_Log.md",
+        "section": "Math expressions in MSC_V2_Upgrade_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\sigma_": [
+      {
+        "file": "MSC_V2_Upgrade_Log.md",
+        "section": "Math expressions in MSC_V2_Upgrade_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "pert": [
+      {
+        "file": "MSC_V2_Upgrade_Log.md",
+        "section": "Math expressions in MSC_V2_Upgrade_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "rel": [
+      {
+        "file": "MSC_V2_Upgrade_Log.md",
+        "section": "Math expressions in MSC_V2_Upgrade_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "E": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "F": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "H": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+        "section": "Math expressions in 13_Entropy_and_Memory.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "P": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\Delta": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/19_Unification_and_Synthesis.md",
+        "section": "Math expressions in 19_Unification_and_Synthesis.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+        "section": "Math expressions in SATP_CFL_Stability_Appendix.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\Omega": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\rightarrow": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\tfrac": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\xi": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "dE": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "dt": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+        "section": "Math expressions in 13_Entropy_and_Memory.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "entropy": [
+      {
+        "file": "Global_Compliance_Reaudit.md",
+        "section": "Math expressions in Global_Compliance_Reaudit.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/19_Unification_and_Synthesis.md",
+        "section": "Math expressions in 19_Unification_and_Synthesis.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "DFVM_": [
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "DFVM_n": [
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "MSC_n": [
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\xi_n": [
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "n": [
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "t": [
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+        "section": "Math expressions in SATP_CFL_Stability_Appendix.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "x": [
+      {
+        "file": "Randomness_Placement_Log.md",
+        "section": "Math expressions in Randomness_Placement_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+        "section": "Math expressions in SATP_CFL_Stability_Appendix.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "DFVM": [
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+        "section": "Math expressions in 13_Entropy_and_Memory.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "M": [
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "\\Psi_": [
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/19_Unification_and_Synthesis.md",
+        "section": "Math expressions in 19_Unification_and_Synthesis.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "\\varepsilon_2": [
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "record": [
+      {
+        "file": "Measurement_Operator_Formalization_Log.md",
+        "section": "Math expressions in Measurement_Operator_Formalization_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/19_Unification_and_Synthesis.md",
+        "section": "Math expressions in 19_Unification_and_Synthesis.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "J_": [
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "SATP": [
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+        "section": "Math expressions in 13_Entropy_and_Memory.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "V": [
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\phi": [
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+        "section": "Math expressions in SATP_CFL_Stability_Appendix.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "c_": [
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+        "section": "Math expressions in SATP_CFL_Stability_Appendix.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "eff": [
+      {
+        "file": "SATP_WellPosedness_Log.md",
+        "section": "Math expressions in SATP_WellPosedness_Log.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+        "section": "Math expressions in SATP_CFL_Stability_Appendix.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "S": [
+      {
+        "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+        "section": "Math expressions in 13_Entropy_and_Memory.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "cost": [
+      {
+        "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+        "section": "Math expressions in 13_Entropy_and_Memory.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "dissipation": [
+      {
+        "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+        "section": "Math expressions in 13_Entropy_and_Memory.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "patterns": [
+      {
+        "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+        "section": "Math expressions in 13_Entropy_and_Memory.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "relational": [
+      {
+        "file": "Book2_Applications_and_Extensions/13_Entropy_and_Memory.md",
+        "section": "Math expressions in 13_Entropy_and_Memory.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "E_": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "G_": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+        "section": "Math expressions in SATP_CFL_Stability_Appendix.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "T_": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\lesssim": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\max": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+        "section": "Math expressions in SATP_CFL_Stability_Appendix.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\partial_t": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "dV": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "exotic": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "max": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_CFL_Stability_Appendix.md",
+        "section": "Math expressions in SATP_CFL_Stability_Appendix.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "min": [
+      {
+        "file": "Book2_Applications_and_Extensions/16_Experimental_Predictions.md",
+        "section": "Math expressions in 16_Experimental_Predictions.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Appendices/SATP_Final_PDE_Formulation.md",
+        "section": "Math expressions in SATP_Final_PDE_Formulation.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "DFVM_t": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "G": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "N": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "W_t": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\big": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\gg": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\in": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "\\lVert": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\rVert": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\sigma": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\sup_n": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "d": [
+      {
+        "file": "Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md",
+        "section": "Math expressions in 09_QuantumStochasticMechanics.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "Axiom": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "MSP": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "NOT": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "Relational": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "and": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "bounded": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "by": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "capacity": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "is": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "perturbation": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/ontological_consistency_report.md",
+        "section": "Math expressions in ontological_consistency_report.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "random": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "the": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "where": [
+      {
+        "file": "Book2_Applications_and_Extensions/22_Stochasticity_and_Proto-Law.md",
+        "section": "Math expressions in 22_Stochasticity_and_Proto-Law.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "C_": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "Coupling": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "O": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "R": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\Phi_": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "\\Psi": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\Rightarrow": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\alpha": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\beta": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\dots": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\hat": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "\\iff": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "\\int_": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\kappa": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\land": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "\\le": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "\\oplus": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\propto": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\qquad": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\subset": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\to": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\varepsilon_1": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "\\xrightarrow": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "boundary": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "cohesion": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "collapse": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "constraint": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "critical": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "dS_": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "identity": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "relations": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "repair": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "stable": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "strength": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "system": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "threshold": [
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Math expressions in 04_Modal_Structural_Cohesion.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "Book_1_Core_Concepts/04_Modal_Structural_Cohesion.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      },
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Definition:",
+        "type": "definition",
+        "meaning": "Definition:"
+      }
+    ],
+    "Greater": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "Loss": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "Monistic": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "Perturbations": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "Substrate": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "among": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "coherence": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "connectivity": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "contribute": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "coupling": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "directly": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "fragmentation": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "inter": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "mutual": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "of": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "or": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "positively": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "reduces": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "reinforcement": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "to": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "weak": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ],
+    "within": [
+      {
+        "file": "reports/MASTER_SUMMARY_REPORT.md",
+        "section": "Math expressions in MASTER_SUMMARY_REPORT.md",
+        "type": "math",
+        "meaning": null
+      }
+    ]
+  },
+  "conflicts": {}
+}

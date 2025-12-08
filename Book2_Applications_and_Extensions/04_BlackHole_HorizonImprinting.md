@@ -12,9 +12,9 @@ keywords: [Black Hole, Horizon Imprinting, Numerical Model, Analytic Approximati
 ### **4.1. Reduced radial problem with fractional memory**
 
 Working in the odd-parity (Regge–Wheeler) or even-parity (Zerilli) sector, we use the standard tortoise coordinate x and an effective barrier Vℓ(x). The near-ringdown dynamics of one multipole is modeled by the **fractional wave equation with memory**:
-∂x2ψ(x,t)−0Dtαψ(x,t)−Vℓ(x) ψ(x,t) = S(x,t), 1<α≤2. (4.1)
+∂x2ψ(x,t)−D_t^α ψ(x,t)−Vℓ(x) ψ(x,t) = S(x,t), 1<α≤2. (4.1)
 
-For compactness we set units so that the local light speed is 1 in the x-sector; 0Dtα is the Caputo derivative. The source S(x,t) represents the post-merger excitation localized near the barrier’s peak.
+For compactness we set units so that the local light speed is 1 in the x-sector; D_t^α is the Caputo derivative. The source S(x,t) represents the post-merger excitation localized near the barrier’s peak.
 
 **Boundary conditions.**
 *   x→+∞: purely outgoing radiation.
@@ -23,7 +23,7 @@ For compactness we set units so that the local light speed is 1 in the x-sector;
 ### **4.2. Time-domain scheme (convolutional memory)**
 
 Discretize time tn=nΔt and space xj=x0+jΔx. The Caputo derivative at tn can be written as a causal convolution:
-0Dtαψ(xj,tn)=1/Γ(2−α) ∑m=0n−1 ψ(xj,tm+1)−ψ(xj,tm)/Δt * 1/(tn−tm)α−1. (4.2)
+D_t^α ψ(xj,tn)=1/Γ(2−α) ∑m=0n−1 ψ(xj,tm+1)−ψ(xj,tm)/Δt * 1/(tn−tm)α−1. (4.2)
 
 A second–order centered stencil for ∂x2 yields the update:
 ψjn+1=2ψjn−ψjn−1+(Δt)2[ψj+1n−2ψjn+ψj−1n/(Δx)2−Vℓ,j ψjn−Mjα(tn)+Sjn], (4.3)

@@ -29,7 +29,7 @@ Assigning prime-indexed radii to angular coordinates forms a **prime spiral**—
 
 ## **8.6 Fractional Spiral Equation of Motion**
 
-The spiral obeys a **fractional differential law**, `Dᶿᵅr = kᵅr`, mirroring the causal memory formalism. The order α (memory depth) determines the spiral’s persistence, reconciling fractional propagation (Paper 05) and fractional geometry (Paper 07).
+The spiral obeys a **fractional differential law**, `Dᶿᵞr = kᵞr`, mirroring the causal memory formalism. The order γ (memory depth) determines the spiral’s persistence, reconciling fractional propagation (Paper 05) and fractional geometry (Paper 07).
 
 ## **8.7 Spiral Curvature and Conformal Invariants**
 
@@ -41,7 +41,7 @@ The complex differential `dz/z = (k+i)dθ` links scale variation to phase rotati
 
 ## **8.9 Fractal Spiral Field Equation**
 
-A scalar field whose equipotentials trace logarithmic spirals is described by the **fractional Helmholtz–Spiral equation**, `∇²ᵅΦ + k²ᵅΦ = 0`. Solutions describe wavefronts with rotational memory.
+A scalar field whose equipotentials trace logarithmic spirals is described by the **fractional Helmholtz–Spiral equation**, `∇²ᵞΦ + k²ᵞΦ = 0`. Solutions describe wavefronts with rotational memory.
 
 ## **8.10 Philosophical Interpretation**
 
@@ -61,7 +61,7 @@ This appendix details the conformal mapping properties of the logarithmic spiral
 
 ### **Appendix B — Spiral Dynamics and Fractional Operators**
 
-This appendix connects spiral dynamics to fractional calculus. The fractional derivative of the spiral `r(θ)` is shown to be `Dᶿᵅr = kᵅr`, which is the **fractional spiral law**. This formalism is used to define a conserved **causal angular momentum** and a **fractional action integral** that is minimized by the logarithmic spiral.
+This appendix connects spiral dynamics to fractional calculus. The fractional derivative of the spiral `r(θ)` is shown to be `Dᶿᵞr = kᵞr`, which is the **fractional spiral law**. This formalism is used to define a conserved **causal angular momentum** and a **fractional action integral** that is minimized by the logarithmic spiral.
 
 ### **Appendix C — Observational and Structural Implications**
 

@@ -46,8 +46,8 @@ A third formalism — **quantum stochastic mechanics** — will act as a bridgin
 IGSOA postulates a fundamental field e0≠0, representing the intrinsic asymmetry of the causal substrate.
 Perturbations from this equilibrium yield effective curvature and local energetic density.
 A fractional restoring law governs the dynamics:
-Frestore(t)=−κe0 _{0}D_tα[γ(t)−1],
-where 0<α≤1 encodes nonlocal temporal memory ([Appendix A](#appendix-a--formal-mathematical-foundations)).
+Frestore(t)=−κe0 _{0}D_tγ[L(t)−1],
+where 0<γ≤1 encodes nonlocal temporal memory ([Appendix A](#appendix-a--formal-mathematical-foundations)).
 
 In QMM language, this term corresponds to a **fractional retention kernel** in the system’s quantum propagator — the mathematical equivalent of a “memory-bearing” Schrödinger evolution.
 
@@ -63,13 +63,13 @@ This structure mirrors **symmetry breaking**: large prime gaps correspond to hig
 
 #### **3.1 Fractional Formulation**
 
-Consider a substrate variable y(t)=γ(t)−1.
+Consider a substrate variable y(t)=L(t)−1.
 Its evolution is governed by a **fractional differential equation** representing nonlocal resistance:
-m dv/dt = −κe0 _{0}D_t^α y(t),
+m dv/dt = −κe0 D_t^γ y(t),
 where v is the velocity and m is the effective mass.
 In Laplace space, this becomes:
-msV(s)=−κe0sαY(s),
-showing a power-law dependence between acceleration and memory order α.
+msV(s)=−κe0sγY(s),
+showing a power-law dependence between acceleration and memory order γ.
 This is formally equivalent to the response of a **viscoelastic medium** with fractional damping — a mechanical analog of causal resistance.
 
 #### **3.2 Spiral-Geometric Dual**
@@ -77,14 +77,14 @@ This is formally equivalent to the response of a **viscoelastic medium** with fr
 Define a logarithmic spiral r(θ)=aebθ, where b represents the rate of causal winding.
 Each prime-indexed shell corresponds to a curvature κₙ=1/rₙ².
 A **local symmetry-breaking functional** may then be defined:
-Sbreak(θ)=∫_0^θ κspiral(θ′) [γ(θ′)−1]² dθ′.
+Sbreak(θ)=∫_0^θ κspiral(θ′) [L(θ′)−1]² dθ′.
 Numerically (see [Appendix B](#appendix-b--computational-and-numerical-framework)), this functional reproduces oscillatory features statistically consistent with prime distribution fluctuations around x/ln(x).
-The mapping between fractional order α and geometric winding parameter b provides a bridge between temporal memory and spatial asymmetry.
+The mapping between fractional order γ and geometric winding parameter b provides a bridge between temporal memory and spatial asymmetry.
 
 #### **3.3 Symmetry-Breaking Field Equation**
 
 From the variational principle δSbreak=0, we obtain the generalized field equation:
-_{0}D_t2α[γ(t)−1]+ω₀²(γ(t)−1)=0,
+D_t^{2γ}[L(t)−1]+ω₀²(L(t)−1)=0,
 where ω₀²=κe0/m defines the natural frequency of causal oscillation.
 This **fractional oscillator** exhibits power-law decay in its Green’s function, modeling persistent correlation — the mathematical hallmark of **non-Markovian memory**.
 
@@ -93,7 +93,7 @@ This **fractional oscillator** exhibits power-law decay in its Green’s functio
 #### **4.1 Resonance Between Prime Gaps**
 
 Let gₙ=pₙ+1−pₙ.
-If causal oscillations occur at frequencies ωₙ=ω0gₙ^{−α}, then constructive interference occurs when:
+If causal oscillations occur at frequencies ωₙ=ω0gₙ^{−γ}, then constructive interference occurs when:
 ωₙ≈ωm mod 2π,
 producing resonant nodes in the spiral spectrum.
 These correspond to regions of enhanced causal coherence — mathematically analogous to **symmetry restoration points** in field theory.
@@ -101,7 +101,7 @@ These correspond to regions of enhanced causal coherence — mathematically anal
 #### **4.2 Stochastic Formulation**
 
 The system’s stochastic representation follows a **generalized Langevin equation**:
-m d²x/dt² + ∫_0^t K(t−τ)(γ(τ)−1)dτ = η(t),
+m d²x/dt² + ∫_0^t K(t−τ)(L(τ)−1)dτ = η(t),
 with noise term η(t) satisfying
 ⟨η(t)η(t′)⟩=kBT K(|t−t′|),
 linking fluctuations to dissipation through the **fractional fluctuation-dissipation theorem**.
@@ -135,32 +135,32 @@ Primes and asymmetry, once abstractly distant, reveal themselves as twin aspects
 Let f:[0,∞)→R be sufficiently smooth and of at most polynomial growth.
 All fractional operators are defined on the Banach space C1([0,T]) unless otherwise stated.
 *   Γ(⋅) denotes the Euler gamma function.
-*   Dtα represents a fractional derivative of order α∈(0,1).
+*   D_t^γ represents a fractional derivative of order γ∈(0,1).
 *   e0≠0 is the ontological ground-state asymmetry.
-*   γ(t)=(1−v2/c2)−1/2 is the Lorentz factor.
+*   L(t)=(1−v2/c2)−1/2 is the Lorentz factor.
 
 #### **A.2 Fractional Derivative Definitions**
 
 **Definition 1 (Caputo Derivative).**
-_{0}^{C}D_tαf(t)=1/Γ(1−α) ∫_0^t f′(s)/(t−s)α ds.
+D_t^γ f(t)=1/Γ(1−γ) ∫_0^t f′(s)/(t−s)γ ds.
 This operator measures the *history-weighted rate of change* of f.
 
 **Definition 2 (Riemann–Liouville Derivative).**
-_{0}^{RL}D_tαf(t)=d/dt [1/Γ(1−α) ∫_0^t f(s)/(t−s)α ds].
+D_t^γ f(t)=d/dt [1/Γ(1−γ) ∫_0^t f(s)/(t−s)γ ds].
 
 #### **A.3 Fractional Restoring Operator**
 
 **Definition 3 (Causal Memory Operator).**
-Rα[f](t)=−κe0 _{0}^{C}D_tαf(t).
-The *restoring force* is Frestore(t)=Rα[γ(t)−1].
+Rγ[f](t)=−κe0 D_t^γ f(t).
+The *restoring force* is Frestore(t)=Rγ[L(t)−1].
 
 #### **A.4 Operator Properties**
 
-The operator is linear and has a convolution form Kα(t)=t−α/Γ(1−α) which serves as the *memory kernel*.
+The operator is linear and has a convolution form Kγ(t)=t−γ/Γ(1−γ) which serves as the *memory kernel*.
 
 #### **A.5 Asymptotic Behavior and Convergence**
 
-Fractional operators exhibit power-law decay, preserving memory indefinitely for α<1. Discrete approximations converge to the continuous form.
+Fractional operators exhibit power-law decay, preserving memory indefinitely for γ<1. Discrete approximations converge to the continuous form.
 
 #### **A.6 Fractional Energy Functional**
 
@@ -180,7 +180,7 @@ This appendix establishes a computational framework for the fractional IGSOA–Q
 
 ### **Appendix C — Comparison with Non-Local d’Alembertians**
 
-This appendix establishes a formal correspondence between the fractional causal operator and the non-local d’Alembertian used in causal set theory and QMM. It shows that the fractional d’Alembertian emerges as the infrared limit of a non-local Lorentz-invariant wave operator. The operators coincide in the local limit (α→1), confirming consistency with classical dynamics.
+This appendix establishes a formal correspondence between the fractional causal operator and the non-local d’Alembertian used in causal set theory and QMM. It shows that the fractional d’Alembertian emerges as the infrared limit of a non-local Lorentz-invariant wave operator. The operators coincide in the local limit (γ→1), confirming consistency with classical dynamics.
 
 ### **Appendix D — Numerical and Discrete Implementation of K**
 
@@ -192,7 +192,7 @@ This appendix proves the isomorphism between the fractional, spiral, and Lie-alg
 
 ### **Appendix F — Spectral Analysis: Symmetry-Breaking Signatures and Prime Correlations**
 
-This appendix develops the spectral interpretation of the IGSOA causal operator. It shows that the spectrum of the fractional operator is a deformation of the Riemann operator, and the symmetry-breaking parameter α shifts the critical line ℜ(s)=1/2. This provides a mathematical signature of causal asymmetry. The analysis also reveals GUE-like correlations in the spectral statistics, bridging IGSOA and QMM.
+This appendix develops the spectral interpretation of the IGSOA causal operator. It shows that the spectrum of the fractional operator is a deformation of the Riemann operator, and the symmetry-breaking parameter γ shifts the critical line ℜ(s)=1/2. This provides a mathematical signature of causal asymmetry. The analysis also reveals GUE-like correlations in the spectral statistics, bridging IGSOA and QMM.
 
 ### **Appendix G — Computational Algorithms and Simulation Framework**
 

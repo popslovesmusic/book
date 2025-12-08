@@ -71,3 +71,40 @@ This log details the canonicalizations performed to ensure ontological consisten
 Upon review of `definition_collisions.json` entries within the accessible directories (similarity >= 0.45), no instances were found where direct canonicalization by replacing one predicate with another was necessary. The high similarity scores mostly indicated complementary statements rather than redundant or contradictory definitions requiring forced unification beyond the `logic_contradictions.json` resolutions. Semantic content was preserved in all cases.
 
 ---
+
+## Notation Standardization Log (2025-12-07)
+
+### Objective: Ensure consistent notation for key mathematical symbols across all books.
+
+**1. Tri-Unity Operator (Projection/Realization)**
+*   **Symbol:** Π
+*   **Change:** Standardized `π` to `Π`.
+*   **File:** `Book0_Ontological_Foundations/04_The_Tri-Unity_Law.md`
+*   **Rationale:** `Π` is used consistently in other core documents (`05_Emergence_of_Causal_Structure.md`, `Complete_Framework_Analysis_Final.md`) to represent the Projection/Evaluation operator.
+
+**2. Lorentz Factor**
+*   **Symbol:** L
+*   **Change:** Replaced `γ` with `L` when used to denote the Lorentz factor.
+*   **File:** `Book_1_Core_Concepts/03_Primes_RH_and_Symmetry_Breaking.md`
+*   **Rationale:** To resolve ambiguity, as `γ` is the canonical symbol for the fractional order of derivatives in the framework.
+
+**3. Fractional Order**
+*   **Symbol:** γ
+*   **Change:** Standardized various symbols (`α`, `β`, `γr`) to `γ` when referring to the fractional order in the range `(0, 1]`. The symbol `α` was retained when its definition was different (e.g., in the range `(1, 2]`).
+*   **Files:**
+    *   `Book_1_Core_Concepts/03_Primes_RH_and_Symmetry_Breaking.md` (α → γ)
+    *   `Book2_Applications_and_Extensions/06_CMB_Asymmetry.md` (β → γ)
+    *   `Book2_Applications_and_Extensions/08_SpiralGeometry_Causality.md` (α → γ)
+    *   `Book2_Applications_and_Extensions/10_LotkaVolterra_Oscillators.md` (γr → γ)
+    *   `Book2_Applications_and_Extensions/09_QuantumStochasticMechanics.md` (β → γ for spectral index)
+*   **Rationale:** To enforce a single, consistent symbol for the primary fractional order parameter as specified in the `Complete_Framework_Analysis_Final.md` report.
+
+**4. Fractional Derivative Notation**
+*   **Symbol:** D_t^γ
+*   **Change:** Standardized multiple notations for fractional derivatives (`_{0}D_tα`, `_{0}D_t^γ`, `_{0}^{C}D_tγ`, `_{0}^{RL}D_tγ`, `Dtγ`) to a consistent format.
+*   **Files:**
+    *   `Book_1_Core_Concepts/03_Primes_RH_and_Symmetry_Breaking.md`
+    *   `Book2_Applications_and_Extensions/04_BlackHole_HorizonImprinting.md`
+*   **Rationale:** To ensure a uniform and unambiguous representation of the fractional derivative operator across all papers. While both Caputo and Riemann-Liouville definitions exist, the notation is unified for clarity, with the specific definition provided in the context of each paper.
+
+---

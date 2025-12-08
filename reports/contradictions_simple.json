@@ -1,26 +1,34 @@
 [
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\Relational Dynamics of a Monistic Substrate.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Appendices\\Appendix_C_RMF_Compliance_Specification.md",
     "pattern": "emergent <-> fundamental"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\relational_monistic_compliance_specification.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book0_Ontological_Foundations\\01_Relational_Dynamics_of_a_Monistic_Substrate.md",
     "pattern": "emergent <-> fundamental"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\SATP \u2013 Final PDE Formulation.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book0_Ontological_Foundations\\02_The_NOT_Axiom.md",
     "pattern": "emergent <-> fundamental"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\01_Foundations_of_IGSOA.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book0_Ontological_Foundations\\03_The_Necessity_of_the_First_Action.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book0_Ontological_Foundations\\03_The_Necessity_of_the_First_Action.md",
     "pattern": "emergent <-> fundamental"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\02_Fundamental_Dynamics_of_the_Causal_Field.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book0_Ontological_Foundations\\04_The_Tri-Unity_Law.md",
     "pattern": "emergent <-> fundamental"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\03_Primes_RH_and_Symmetry_Breaking.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book0_Ontological_Foundations\\05_Emergence_of_Causal_Structure.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\04_BlackHole_HorizonImprinting.md",
     "pattern": "emergent <-> fundamental"
   },
   {
@@ -52,19 +60,47 @@
     "pattern": "emergent <-> fundamental"
   },
   {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\11_LieAlgebra_BridgingFrameworks.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\12_Holography_and_Information.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
     "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\13_Entropy_and_Memory.md",
     "pattern": "emergent <-> fundamental"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\16_Ethical_Frameworks.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\14_CausalPolarization_LorentzForce.md",
     "pattern": "emergent <-> fundamental"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\18_Unification_and_Synthesis.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\15_SATP_Field_Equation.md",
     "pattern": "emergent <-> fundamental"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\20_Future_Roadmap.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\16_Experimental_Predictions.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\17_Ethical_Frameworks.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\18_QMM_IGSOA_Comparison.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\19_Unification_and_Synthesis.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\20_Open_Problems.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book2_Applications_and_Extensions\\21_Future_Roadmap.md",
     "pattern": "emergent <-> fundamental"
   },
   {
@@ -72,11 +108,579 @@
     "pattern": "time is <-> time is not"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book3_DFVM\\draft.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book3_DFVM\\02_RH_as_DFVM_Regulator.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book3_DFVM\\02_RH_as_DFVM_Regulator_Outline.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book_1_Core_Concepts\\01_Foundations_of_IGSOA.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book_1_Core_Concepts\\02_Fundamental_Dynamics_of_the_Causal_Field.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book_1_Core_Concepts\\03_Primes_RH_and_Symmetry_Breaking.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\reports\\Complete_Framework_Analysis_Final.md",
+    "pattern": "substrate is <-> substrate is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\reports\\Complete_Framework_Analysis_Final.md",
+    "pattern": "kernel is <-> kernel is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\reports\\Complete_Framework_Analysis_Final.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\reports\\Genesis_Scripts_Analysis_Report.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\reports\\MASTER_SUMMARY.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\reports\\normalization_log.md",
     "pattern": "time is <-> time is not"
   },
   {
-    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\Book3_DFVM\\draft.md",
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\reports\\normalization_log.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\reports\\SYNTHESIS_LOG.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\reports\\SYNTHESIS_LOG.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\Relational Dynamics of a Monistic Substrate.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\relational_monistic_compliance_specification.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\SATP \u2013 Final PDE Formulation.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\Why the First Action Is Necessary.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\Why the First Action Is Necessary.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-0\\-Feynman_Rules__Interaction_Vertices.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-0\\Tri-Unity_Theorem_Equivalence_of___.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-0\\Why_the_First_Action_Is_Necessary.md",
+    "pattern": "identity is <-> identity is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-0\\Why_the_First_Action_Is_Necessary.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-0\\Why_the_First_Action_Is_Necessary.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-1\\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-10\\How_Stillness_Becomes_Solid_.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-10\\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-10\\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-10\\research_overview.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-10\\research_overview.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-11\\How_-curvature_could_generate_an_Axis.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-11\\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-12\\Chapter__The_CMB_Functoriality_Theorem.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-12\\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-12\\Untitled_document.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-12\\Untitled_document.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-13\\Meta-Math__Nuclear_Physics.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-14\\Inflation__Structure_Formation.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-14\\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-15\\The_Mass__Curvature_Projection_Theorem_.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-16\\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED_1.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-16\\Quantum_Measurement_in_IGSOA_vs.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-16\\Untitled_document.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-17\\box_calculus.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-17\\Key_Points.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-17\\MBC_Schema_3.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-18\\Chapter__How_Expansion_Happened_Before_Time_Existed.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-18\\Chapter__How_Expansion_Happened_Before_Time_Existed.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-18\\SEALED_AXIOM_BOX.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-19\\What_You_Can_Do_With_MBC_Complete_Capability_Map.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-2\\Axioms_for_the_Category_Genesis.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-2\\Axioms_of_-Geometry_Topos-Compatible.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-20\\MBC_40_Documentaitio-1.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-3\\metagenesis.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-3\\THE_Physics_BOX_DIAGRAM.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-3\\The_Tri-Unity_Theorem.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-4\\The_Adjoint_Triple.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-4\\The_First_Adjacency.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-4\\The_First_Adjacency.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-5\\Formal_Proof_of_the_Adjoint_Triple.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-5\\Formal_Proof_of_the_Adjoint_Triple.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-5\\Meta-Einstein_Axiom_Box_-language_sealed.md",
+    "pattern": "identity is <-> identity is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-5\\Meta-Einstein_Axiom_Box_-language_sealed.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-5\\THE_GA-8__META-EINSTEIN_THEOREM.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-6\\Spectral_Triple_Axiom_Box_Sealed_Version.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-7\\THE_COMPLETE_-EFT_LAGRangian.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-7\\Why_-Curvature_Gives_Gravity.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-8\\Corollary__Einstein_Compatibility_via_.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-8\\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-8\\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-8\\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-8\\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-9\\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-9\\Does_Meta-Genesis_Indicate_New_Physics.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-9\\is_the_source_of_all_structure.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\genesis-9\\strong-force.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\ABSTRACT__Editorial_Review.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Axioms-geometry.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Meta-Genesis_Core_Papers_Foundations.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Meta-Genesis_Diagrammatic_Papers.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Meta-Genesis_Mathematical_Papers.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Meta-Genesis_Mathematical_Papers.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Meta-Genesis_Outreach__Narrative_Papers.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Meta-Genesis_Physical_Interpretation_Papers.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\special\\specil.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\genesis\\special\\specil.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\ABSTRACT__Editorial_Review\\Chapter_11_\ud83d\udcc4_Section_6_\u2014_Emergence_of_the_Cosmological_Constant.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\ABSTRACT__Editorial_Review\\Chapter_17_\ud83d\udcc4_Section_8_\u2014_Numerical_Derivation_of_\u039b.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Core_Papers_Foundations\\00_INDEX.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Core_Papers_Foundations\\Chapter_40_4._What_Emerges_and_Why.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Core_Papers_Foundations\\Chapter_56_4._Why_Meta-Time_is_Not_Physical_Time.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Core_Papers_Foundations\\Chapter_58_6._Deep_Intuition_(Director\u2019s_Narrative).md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Diagrammatic_Papers\\Chapter_03_3._Ultra-Compressed_One-Line_Version.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Mathematical_Papers\\Chapter_32_7._Compact_Version_(for_white_papers).md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Outreach__Narrative_Papers\\Chapter_01_DAY_1_\u2014_BREAKING_THE_STATIC_SYMMETRY.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Outreach__Narrative_Papers\\Chapter_04_THE_FIRST_MOVEMENT.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Physical_Interpretation_Papers\\Chapter_01_Why_the_Universe_Cannot_Remain_Still.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Meta-Genesis_Physical_Interpretation_Papers\\Chapter_18_5._Deviation_Creates_Adjacency_\u2192_Ordering_\u2192_Meta-Time.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\00_INDEX.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_03_1._Overview_Beyond_General_Relativity.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_13_1._Overview_A_Multi-Dimensional_Operator_Space.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_14_2._The_Nine_Fundamental_Deviation_Dimensions.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_17_5._Eigenvalues_and_Observables.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_32_(Meta-Addition).md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_33_(Meta-Aggregation).md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_34_(Meta-Scalar_Multiplication).md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_35_Meta-Algebra.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_36_Meta-Arithmetic.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_37_Meta-Vector_Space.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_38_Meta-Vector.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_39_NOT_Axiom.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_40_\u03b4_(Deviation).md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_42_Meta-Calculus.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_43_Meta-Differential_Equations_(Meta-PDEs).md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_44_Meta-Fractal_Calculus.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_46_1._Overview_Beyond_Manifolds.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_56_Harmonic_Symmetry_Group_(3-6-9).md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_58_1._Overview_Beyond_Manifolds.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_68_Harmonic_Symmetry_Group_(3-6-9).md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary\\Chapter_69_Meta-Geometry.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_06_4._Meta-Time_Metric_The_Internal_Geometry_of_\u03a4.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_10_8._Arrow_of_Time_as_Entropic_Projection.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_33_8._The_Triadic_Operator_Algebra.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_49_Core_Ontological_Axioms_and_Principles.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_52_A_Summary_of_the_Metaphysical_Framework.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_53_Glossary.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_57_Meta-Math_Interpretation_of_Quantum_Gravity.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_58_Meta-Time_Cone.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_58_Meta-Time_Cone.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_60_7._Meta-Time_vs_Relativistic_Time.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_60_7._Meta-Time_vs_Relativistic_Time.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_70_Meta-Time_Cone.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_70_Meta-Time_Cone.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_72_7._Meta-Time_vs_Relativistic_Time.md",
+    "pattern": "time is <-> time is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\genesis\\split_intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary\\Chapter_72_7._Meta-Time_vs_Relativistic_Time.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\scripts\\mbc-toolhost\\geometry_of_meaning.md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\scripts\\mbc-toolhost\\definitions\\lifecycle\\semantic_full_stack_lifecycle.md",
+    "pattern": "substrate is <-> substrate is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\scripts\\mbc-toolhost\\definitions\\relational_substrate\\Document_1 _ The Relational Substrate Charter.md",
+    "pattern": "substrate is <-> substrate is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\scripts\\mbc-toolhost\\definitions\\relational_substrate\\Relational_Dynamics_ Axiom .md",
+    "pattern": "emergent <-> fundamental"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\scripts\\mbc-toolhost\\definitions\\substrate\\semantic_substrate_and_relational_field.md",
+    "pattern": "substrate is <-> substrate is not"
+  },
+  {
+    "file": "C:\\qmm-igsoa\\Organized_Papers\\Book1_Core_Concepts\\_archive\\scripts\\mbc-toolhost\\docs\\THE META-LAYER.md",
     "pattern": "emergent <-> fundamental"
   },
   {
